@@ -4,7 +4,13 @@ Welcome to the Argo community!
 
 Argo is an open, community driven project to make it easy to use Kubernetes for getting useful work done.  This document describes the organizational structure of the Argo Community including the roles, responsibilities and processes that govern Argo projects and community.
 
-Community meeting notes is available [here](https://docs.google.com/document/d/16aWGQ1Te5IRptFuAIFtg3rONRQqHC1Z3X9rdDHYhYfE/edit?usp=sharing).
+Argo community has two meetings. One for Argo Workflows and Events and another for Argo CD and Rollouts.
+
+* Argo Workflows and Argo Events community meeting notes are available [here](https://docs.google.com/document/d/1DKR4VQ-04DJfHOh6S6-cbQw6MiWppC0k7afORiiy6XQ/edit).
+
+* Argo CD and Argo Rollouts community meeting notes are available [here](https://docs.google.com/document/d/1ttgw98MO45Dq7ZUHpIiOIEfbyeitKHNfMjbY5dLLMKQ/edit).
+
+Most of the community discussions happen in the Argo Slack organization. Please join the organization [here](https://argoproj.github.io/community/join-slack)
 
 ## Projects
 
@@ -12,15 +18,15 @@ Argo is organized into a set of projects. Each project has at least one owner. T
 
 The projects are:
 
-* Argo Workflows
-* Argo CD
-* Argo Events
-* Argo CI
+* [Argo Workflows](https://github.com/argoproj/argo) - Container-native Workflow Engine
+* [Argo CD](https://github.com/argoproj/argo-cd) - Declarative GitOps Continuous Delivery
+* [Argo Events](https://github.com/argoproj/argo-events) - Event-based Dependency Manager
+* [Argo Rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery with support for Canary and Blue Green deployment strategies
 
 ## Community Roles and Responsibilities
 
 | Roles        | Responsibilities| Requirements  | Recognized by|
-| -------------|:---------------:| -------------:|-------------:|
+| -------------|:---------------|:-------------|:-------------|
 | Member       | Active contributor |Active contributor, sponsored by reviewers |Argo GitHub org member|
 | Reviewer     | Review PRs and proposals     |   History of review and authorship | OWNERS file reviewer entry|
 | Approver     | Approve and accept PRs     |   Highly experienced, active reviewer and contributor |OWNERS file approver entry|
