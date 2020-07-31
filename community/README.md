@@ -4,7 +4,7 @@ Welcome to the Argo Community!
 
 Argo is an open, community driven project to make it easy to use Kubernetes for getting useful work done.  This document describes the organizational structure of the Argo Community including the roles, responsibilities and processes that govern Argo projects and community.
 
-Tha Argo community has two regular meetings:
+The Argo community has two regular meetings:
 
 * Argo Workflows and Argo Events
   * Meets monthly, 3rd Wednesday of every month 10:00 AM Pacific Time
