@@ -29,6 +29,7 @@ Project specific community blogs and presentations are at
 
 ## Project Resources
 * [Argo Community Calendar](https://calendar.google.com/calendar/embed?src=argoproj@gmail.com)
+  * [ICS file](https://calendar.google.com/calendar/ical/argoproj%40gmail.com/public/basic.ics)
 * Argo GitHub:  https://github.com/argoproj
 * Argo website: https://argoproj.github.io
 * Argo Slack:   https://argoproj.github.io/community/join-slack
