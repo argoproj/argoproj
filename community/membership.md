@@ -67,7 +67,7 @@ Defined by: Member of the Argoproj GitHub organization
    - Complete every item on the checklist ([preview the current version of the template][membership template])
    - Make sure that the list of contributions included is representative of your work on the project.
 - Have your sponsoring reviewers reply confirmation of sponsorship: `+1`
-- Once your sponsors have responded, your request will be reviewed by the Argoproj GitHub Admin team. Any missing information will be requested.
+- Once your sponsors have responded, your request will be reviewed by the project leads. Any missing information will be requested.
 
 ### Responsibilities and privileges
 
@@ -100,6 +100,10 @@ Reviewer status is scoped to a part of the codebase.
 **Note:** Acceptance of code contributions requires at least one approver in
 addition to the assigned reviewers.
 
+While these guidelines are going to be used for setting contribution expectations, 
+the maintainers will recognize the impact of an individual's contribution while 
+making a decision on promotion an individual to a "reviewer."
+
 ### Requirements
 
 The following apply to the part of codebase for which one would be a reviewer in
@@ -107,7 +111,6 @@ an `OWNERS` file.
 
 - Member for at least 3 months
 - Active community participation (meetings, slack, stack overflow) and interact with issues for at least 1 month.
-- Primary reviewer for at least 5 PRs to the codebase
 - Reviewer for or author of at least 5 substantial PRs to the codebase, with the
   definition of substantial subject to the lead's discretion (e.g.
   refactors, enhancements rather than grammar correction or one-line pulls).
@@ -220,6 +223,7 @@ The following apply to the subproject for which one would be an lead.
   - Tests are passing reliably (i.e. not flaky) and are fixed when they fail
 - Ensure a healthy process for discussion and decision making is in place.
 - Work with other subproject leads to maintain the project's overall health and success holistically
+- Promote and foster the community (e.g. hosting meetings, workshops, partner engagements, collaborations)
 
 
 
@@ -278,7 +282,7 @@ you will need explicit sponsorship for your membership request.
 
 [Argoproj GitHub organizations]: #actively-used-github-organizations
 [Argoproj org]: https://github.com/argoproj
-[argoproj-labs]: ttps://github.com/argoproj-labs
+[argoproj-labs]: https://github.com/argoproj-labs
 [membership request]: https://github.com/argoproj/argoproj/issues/new?template=membership.md&title=REQUEST%3A%20New%20membership%20for%20%3Cyour-GH-handle%3E
 [membership template]: https://github.com/argoproj/argoproj/blob/master/.github/ISSUE_TEMPLATE/membership.md
 [two-factor authentication]: https://help.github.com/articles/about-two-factor-authentication
