@@ -13,6 +13,7 @@ Once you are ready, provide answers to the following questions and create the is
 
 - [ ] Is it the right fit? The new project should be focused on ehnancing or providing the additional features to one of the existing core
 [projects](https://github.com/argoproj/argoproj#what-is-argoproj). Which core project is the new project related to?
+- [ ] It is endorsed by Argo subproject maintainers? Please mention sponsors from the subproject.
 - [ ] What benefit does it bring to the Argo community?
 - [ ] Is it ready? Describe the current user and contributor community (size, activity level, etc.). If you are starting the new project please
 consider contributing it to https://github.com/argoproj-labs first.
