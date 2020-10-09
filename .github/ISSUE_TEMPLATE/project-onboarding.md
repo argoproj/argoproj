@@ -11,6 +11,7 @@ Before submitting the ticket please make sure to understand which [projects](../
 
 Once you are ready, provide answers to the following questions and create the issue:
 
+- [ ] What is your project repository Github URL?
 - [ ] Is it the right fit? The new project should be focused on ehnancing or providing the additional features to one of the existing core
 [projects](https://github.com/argoproj/argoproj#what-is-argoproj). Which core project is the new project related to?
 - [ ] It is endorsed by Argo subproject maintainers? Please mention sponsors from the subproject.
