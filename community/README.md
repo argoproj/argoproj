@@ -18,7 +18,7 @@ Most of the community discussions happen in the Argo Slack organization. Please 
 
 ## Projects
 
-Argo is organized into a set of projects. Each project has at least one owner. The owner is responsible for driving the project, publishing a roadmap, organizing community meetings, publishing meeting notes, and reporting on the current status of the project.
+Argo is organized into a set of projects. Each project has at least one lead. The leads are responsible for driving the project, publishing a roadmap, organizing community meetings, publishing meeting notes, and reporting on the current status of the project.
 
 The projects are:
 
@@ -29,7 +29,7 @@ The projects are:
 
 ## Community Meetings
 
-Approvers and owners for each project are responsible for organizing regular community meetings to provide status updates and solicit feedback.
+Approvers and leads for each project are responsible for organizing regular community meetings to provide status updates and solicit feedback.
 
 * Meeting agendas should be published at least one week prior to the meeting.
 * Community members should be able to attend the meetings remotely.
