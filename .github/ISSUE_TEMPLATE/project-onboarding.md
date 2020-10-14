@@ -18,7 +18,7 @@ Once you are ready, provide answers to the following questions and create the is
 - [ ] It is endorsed by Argo subproject maintainers? Please mention sponsors from the subproject.
 - [ ] What benefit does it bring to the Argo community?
 - [ ] Who will maintain the project going forward?
-
+- [ ] What is your project license? 
 
 If you've chosen https://github.com/argoproj Github org:
 
