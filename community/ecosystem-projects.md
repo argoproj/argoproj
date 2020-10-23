@@ -36,7 +36,7 @@ The good examples are:
 
 **Choose GitHub Organization**
 
-Argo comminity uses two Github organizations to host project repositories: https://github.com/argoproj
+Argo community uses two Github organizations to host project repositories: https://github.com/argoproj
 and https://github.com/argoproj-labs .
 
 The https://github.com/argoproj-labs is a home of most ecosystem projects and experimental features that
@@ -44,20 +44,21 @@ are meant to be merged into one of the core projects. If the project is still in
 you are looking for feedback/early adopters then it is recommended to use https://github.com/argoproj-labs
 organization, since is specifically created to showcase, share, and collaborate on Argo related projects.
 
-Note that [argoproj-labs](https://github.com/argoproj-labs) is not an incubator for moving into
+Note: that in general [argoproj-labs](https://github.com/argoproj-labs) is not an incubator for moving into
 [argoproj](https://github.com/argoproj). Only ones that are very tightly related, mature may be
-considered for moving to [argoproj](https://github.com/argoproj).
+considered for moving to [argoproj](https://github.com/argoproj). The majority of project are supposed to stay in 
+[argoproj-labs](https://github.com/argoproj-labs).
 
 **Project Proposal Issue**
 
-Once your are ready to propose to onboard a new project or your want to move an existing project from
+Once you are ready to propose to onboard a new project or your want to move an existing project from
 [argoproj-labs](https://github.com/argoproj-labs) to [argoproj](https://github.com/argoproj) create a new
 [issue](https://github.com/argoproj/argoproj/issues/new?template=project-onboarding.md) in
 [argoproj/argoproj](https://github.com/argoproj/argoproj) repository and answer questions
 listed in the issue template.
 
-**Steering Committee Review**
+**Proposal Review**
 
-The project proposal will be reviewed by the steering committee in a timely manner. Once the proposal
-is approved Argoproj maintainers will work on moving the repository and assist with project
-infrastructure setup (such as Github team, Docker registry etc).
+The project proposal will be reviewed by the project maintainers in a timely manner. The maintainers might involve
+the steering committee if necessary. Once the proposal is approved Argoproj maintainers will work on moving the
+repository and assist with project infrastructure setup (such as Github team, Docker registry etc).

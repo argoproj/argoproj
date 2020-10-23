@@ -22,6 +22,6 @@ Once you are ready, provide answers to the following questions and create the is
 
 If you've chosen https://github.com/argoproj Github org:
 
-- [ ] Is is tightly related to one of the core projects?
+- [ ] Is it tightly related to one of the core projects?
 - [ ] Is your project ready? Describe the current user and contributor community (size, activity level, etc.). If you are starting the new project please
 consider contributing it to https://github.com/argoproj-labs first.
