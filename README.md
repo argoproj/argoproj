@@ -6,8 +6,15 @@
 
 ## News
 
-Argo Project has Joined the CNCF Incubator!
-* [TOC Welcomes Argo into the CNCF Incubator](https://www.cncf.io/blog/2020/04/07/toc-welcomes-argo-into-the-cncf-incubator/)
+Argo Project is moving from CLA to DCO as a more contributor friendly way to track contributions.
+* https://github.com/apps/dco/
+
+Please start signing off your contributions by doing ONE of the following:
+* Use `git commit -s ...` with each commit to add the signoff or
+* Manually add a `Signed-off-by: Your Name <your.email@example.com>` to each commit message.
+
+The email address must match your primary GitHub email. You do NOT need cryptographic (e.g. gpg) signing.
+* Use `git commit -s --amend ...` to add a signoff to the latest commit, if you forgot.
 
 ## What is Argoproj?
 
