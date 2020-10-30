@@ -7,21 +7,21 @@ labels: project onboarding
 
 Welcome to Argo Project Onboarding! 
 
-Before submitting the ticket please make sure to understand which [projects](../../community/ecosystem-projects.md) can be added to Argoproj organization and get familiar with the onboarding process. 
+Before submitting the ticket please ensure you understand which [projects](../../community/ecosystem-projects.md) could be added to the Argo community and what the open decision-making process looks like. 
 
-Once you are ready, provide answers to the following questions and create the issue:
+Once you are ready, please help the reviewer understand your project better by 
+answering the following questions in your onboarding proposal:
 
 - [ ] What is your project repository Github URL?
-- [ ] Do you want to host your project repository in https://github.com/argoproj-labs or https://github.com/argoproj ?
-- [ ] Is it the right fit? The new project should be focused on ehnancing or providing the additional features to one of the existing core
-[projects](https://github.com/argoproj/argoproj#what-is-argoproj). Which core project is the new project related to?
-- [ ] It is endorsed by Argo subproject maintainers? Please mention sponsors from the subproject.
-- [ ] What benefit does it bring to the Argo community?
+- [ ] Do you wish to host your project repository https://github.com/argoproj-labs or https://github.com/argoproj ?
+- [ ] Does your project focus on enhancing or providing additional features to one of the existing [core
+ projects](https://github.com/argoproj/argoproj#what-is-argoproj) ? If yes, which of the core projects is your proposed project related to?
+- [ ] Is it endorsed by any of the Argo subproject maintainers? Please mention sponsors from the subproject.
+- [ ] How does it align with the goals of the Argo community?
 - [ ] Who will maintain the project going forward?
 - [ ] What is your project license? 
 
-If you've chosen https://github.com/argoproj Github org:
+If you have chosen to propose your project for the https://github.com/argoproj Github org:
 
-- [ ] Is it tightly related to one of the core projects?
-- [ ] Is your project ready? Describe the current user and contributor community (size, activity level, etc.). If you are starting the new project please
-consider contributing it to https://github.com/argoproj-labs first.
+- [ ] Please explain how tightly related it is to one of the core projects?
+- [ ] Is your project ready? Describe the current user and contributor community (size, activity level, etc.). If you are starting the new project, would you consider contributing the project to https://github.com/argoproj-labs initially.
