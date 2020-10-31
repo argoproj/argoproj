@@ -37,7 +37,7 @@ None.
 * Mukulika Kapas (Intuit)
 * Shoubhik Bose (Red Hat)
 
-
+---
 ## Argo Decision Making Process
 
 ### Date
