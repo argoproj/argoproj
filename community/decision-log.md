@@ -2,6 +2,7 @@
 
 This log file documents decisions for which there are no other lasting artifacts.
 
+---
 ## Revise Argo CLA to follow CNCF guidelines
 
 ### Date
