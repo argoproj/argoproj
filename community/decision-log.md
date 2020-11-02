@@ -52,7 +52,7 @@ This documents the basic principles for decision making in the Argo Project, par
 
 1) Decisions are made based on consensus (unanimous consent).
 
-Consensus promotes an inclusive consideration of all viewpoints, particularly those voiced by a minority of community members compared with alternative decision making processes such as voting. Concensus means that everone agrees to try a particular course of action, even though as an individuas, one may feel that this may not be the best choice (dissenting opionion).
+Consensus promotes an inclusive consideration of all viewpoints, particularly those voiced by a minority of community members compared with alternative decision making processes such as voting. Consensus means that everyone agrees to try a particular course of action, even though as an individuals, one may feel that this may not be the best choice (dissenting opinion).
 
 2) Decisions should reflect the viewpoints of the broader community and encourage community participation in the decision making process.
 
