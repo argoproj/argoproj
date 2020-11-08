@@ -6,7 +6,7 @@
 
 ## News
 
-Argo Project is moving from CLA to DCO as a more contributor friendly way to track contributions.
+Argo Project is moving from CLA to DCO as a simpler way to track contributions.
 * https://github.com/apps/dco/
 
 Please start signing off your contributions by doing ONE of the following:
@@ -15,6 +15,8 @@ Please start signing off your contributions by doing ONE of the following:
 
 The email address must match your primary GitHub email. You do NOT need cryptographic (e.g. gpg) signing.
 * Use `git commit -s --amend ...` to add a signoff to the latest commit, if you forgot.
+
+To automatically signoff on every commit, copy the `community/dco-signoff-hook/prepare-commit-msg` file to the `.git/hooks` directory in your repo or if you already have such a hook, merge the contents into your existing hook.
 
 ## What is Argoproj?
 
