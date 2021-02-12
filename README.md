@@ -21,7 +21,7 @@ To automatically signoff on every commit, copy the `community/dco-signoff-hook/p
 ## What is Argoproj?
 
 Argoproj is a collection of tools for getting work done with Kubernetes.
-* [Argo Workflows](https://github.com/argoproj/argo) - Container-native Workflow Engine
+* [Argo Workflows](https://github.com/argoproj/argo-workflows) - Container-native Workflow Engine
 * [Argo CD](https://github.com/argoproj/argo-cd) - Declarative GitOps Continuous Delivery
 * [Argo Events](https://github.com/argoproj/argo-events) - Event-based Dependency Manager
 * [Argo Rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery with support for Canary and Blue Green deployment strategies
@@ -31,7 +31,7 @@ Also [argoproj-labs](https://github.com/argoproj-labs) is a separate GitHub org 
 ## Community Blogs and Presentations
 
 Project specific community blogs and presentations are at 
-* [Argo Workflows](https://github.com/argoproj/argo/blob/master/README.md#community-blogs-and-presentations)
+* [Argo Workflows](https://github.com/argoproj/argo-workflows/blob/master/README.md#community-blogs-and-presentations)
 * [Argo CD](https://github.com/argoproj/argo-cd/blob/master/README.md#community-blogs-and-presentations)
 * [Argo Events](https://github.com/argoproj/argo-events/blob/master/README.md#community-blogs-and-presentations)
 * [Argo Rollouts](https://github.com/argoproj/argo-rollouts/blob/master/README.md#community-blogs-and-presentations)
