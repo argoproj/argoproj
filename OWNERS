@@ -1,20 +1,24 @@
 owners:
 - alexec
 - alexmt
-- dthomson25
 - jessesuen
 - VaibhavPage
-
-reviewers:
-- xianlubird
 
 approvers:
 - dtaniwaki
 - edlee2121
 - jannfis
+- jgwest
 - khhirani
 - mayzhang2000
-- rachelwang20
 - sarabala1979
 - simster7
 - whynowy
+
+reviewers:
+- ash2k
+- dthomson25
+- terrytangyuan
+- tetchel
+- wtam2018
+- xianlubird
