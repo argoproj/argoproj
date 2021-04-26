@@ -39,7 +39,7 @@ within 24 hours of the meeting.
 
 ## Contributing to Argo
 
-Read and abide by the [Argo Code of Conduct](https://github.com/argoproj/argo/blob/master/CODE_OF_CONDUCT.md).
+Read and abide by the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md).
 
 Argo Project uses the DCO.
 * https://github.com/apps/dco/
