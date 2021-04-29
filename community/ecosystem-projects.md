@@ -67,7 +67,7 @@ The majority of projects may live in
 Once you are ready to propose the onboarding of a new project into [argoproj-labs](https://github.com/argoproj-labs) or wish to move an existing project from
 [argoproj-labs](https://github.com/argoproj-labs) to [argoproj](https://github.com/argoproj), please create a Pull Request with the proposal to the [proposals](/proposals) directory in the 
 [argoproj/argoproj](https://github.com/argoproj/argoproj) repository and answer questions
-listed in the [proposal template](/proposals/001-project-onboarding.md).
+listed in the [proposal template](/ecosystem-projects/001-project-onboarding.md).
 
 ### **Proposal Review**
 
