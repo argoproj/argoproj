@@ -71,6 +71,7 @@ Defined by: Member of the Argoproj GitHub organization
 
 ### Responsibilities and privileges
 
+- Have the ability to moderate GitHub discussions
 - Responsive to issues and PRs assigned to them
 - Responsive to mentions of subprojects they are members of
 - Active owner of code they have contributed (unless ownership is explicitly transferred)
