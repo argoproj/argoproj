@@ -19,7 +19,7 @@ The vast majority of issues are resolved by consensus. If consensus cannot be re
 ## Changes to governance
 Any changes to governance require a vote by the maintainers.  
 * A vote requires a 2/3 supermajority to pass. 
-* Voting is done by adding +1/-1 on the PR submitted for the issue. Each maintainers gets a binding vote. Non-binding votes from the community are encouraged. 
+* Voting is done by adding +1/-1 on the PR submitted for the issue. Each maintainer gets a binding vote. Non-binding votes from the community are encouraged. 
 * No organization should be allowed more than 40% of eligible votes. If any organization has more than 40% of the maintainers, the organization will have to decide which maintainers will cast votes. 
 * Voting should be open for two weeks.
 
