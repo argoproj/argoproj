@@ -9,7 +9,7 @@
 | Maintainer | GitHub ID | Project Roles | Affiliation | Has Vote
 | --------------- | --------- | ----------- | ----------- | --------- | 
 | Saravanan Balasubramanian| [sarabala1979](https://github.com/sarabala1979) | Approver - Workflows | [Intuit](https://www.github.com/intuit/) | Yes |
-| Chetan Banavikalmutt | [chetan-rns](https://github.com/chetan-rns) | Approver - CD | [Red Hat](https://www.github.com/redhat/) | Yes |
+| Chetan Banavikalmutt | [chetan-rns](https://github.com/chetan-rns) | Reviewer - CD | [Red Hat](https://www.github.com/redhat/) | Yes |
 | Simon Behar| [simster7](https://github.com/simster7) | Approver - Workflows | [AirBnB](https://www.github.com/airbnb/) | Yes |
 | Xianlu Bird | [xianlubird](https://github.com/xianlubird) | Reviewer - Workflows | [Alibaba Cloud](https://github.com/aliyun) | Yes |
 | Henrik Blixt | [hblixt](https://github.com/hblixt) | Reviewer | [Intuit](https://www.github.com/intuit/) | Yes |
