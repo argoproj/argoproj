@@ -1,18 +1,36 @@
 # Argo Governance
+This document outlines the governance for the overall Argo Project and the four sub-projects contained within.  
 
-Describes the roles and responsibilities and governing structure of the Argo Community.
+## Roles and Membership
+Roles are described in the [Community Membership](https://github.com/argoproj/argoproj/blob/master/community/membership.md) document
+For the purpose of governance, reviewers, approvers and leads are considered maintainers.
+The list of current maintainers, their project and organizational affiliation(s)is maintained in the [MAINTAINERS](https://github.com/argoproj/argoproj/MAINTAINERS.md) file.
 
-## Technical Oversight Committee
 
-The Argo Technical Oversight Committee (TOC) is responsible for cross-cutting product and design decisions. The membership of the TOC consists of leads of the Argo projects and technical representatives from the steering committee.
+## Conflict Resolution and Voting
+The vast majority of issues are resolved by consensus. If consensus cannot be reached, issues are resolved by voting. All decisions should be recorded publicly in GitHub or meeting notes and recordings.
 
-## Steering Committee
+* A vote requires a simple majority to pass. 
+* Voting is done by adding +1/-1 on the PR submitted for the issue. 
+* Each maintainer gets a binding vote. Non-binding votes from the community are encouraged. 
+* No organization should be allowed more than 40% of eligible votes. If any organization has more than 40% of the maintainers, the organization will have to decide which maintainers will cast votes.
+* Voting should be open for one week.
 
-The Argo Steering Committee provides high-level guidance regarding the overall direction of the project and relative priority of use cases.
-Representation on the steering committee is commensurate to contributions and are selected to represent the interests of the major users and contributors of the Argo Project.
-New steering committee members are approved by the current members of the steering committee.
+## Changes to governance
+Any changes to governance require a vote by the maintainers.  
+* A vote requires a 2/3 supermajority to pass. 
+* Voting is done by adding +1/-1 on the PR submitted for the issue. 
+* Each maintainer gets a binding vote. Non-binding votes from the community are encouraged. 
+* No organization should be allowed more than 40% of eligible votes. If any organization has more than 40% of the maintainers, the organization will have to decide which maintainers will cast votes. 
+* Voting should be open for two weeks.
 
-# Community Membership
+## Community Support and Inclusion
+The project strives for full transparency and community inclusion in all aspects of the governance of the project. All decisions regarding the project should be public, either in the official GitHub repositories or in the public meetings below. 
+The maintainers are encouraged to run three recurring public meetings to foster transparency and community participation in the project.
 
-See [Community Membership](membership.md) for documentation detailing the roles, responsibilities,
-and requirements of membership within the Argo project.
+#### Maintainers meeting
+This meeting is for the maintainers to discuss topics that relate to governance, membership and the future direction of the project.
+#### Contributors meeting
+This is a meeting for maintainers mainly to discuss and resolve technical issues. Future milestones and roadmaps will also be covered in this meeting. 
+#### Community Meeting
+This meeting is focused on the community and end users and will include project updates, user presentation and other items of interest to the user community.
