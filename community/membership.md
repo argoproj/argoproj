@@ -3,7 +3,7 @@
 This document outlines the various responsibilities of contributor roles in
 Argoproj. The Argo project is currently subdivided into four main subprojects:
 
-* [Argo Workflows](https://github.com/argoproj/argo)
+* [Argo Workflows](https://github.com/argoproj/argo-workflows)
 * [Argo CD](https://github.com/argoproj/argo-cd)
 * [Argo Events](https://github.com/argoproj/argo-events)
 * [Argo Rollouts](https://github.com/argoproj/argo-rollouts)
