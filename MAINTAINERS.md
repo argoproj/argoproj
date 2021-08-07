@@ -29,7 +29,7 @@
 | Jesse Suen | [jessesuen](https://github.com/jessesuen) | Lead - CD, Rollouts Approver - Workflows, Events | [Intuit](https://www.github.com/intuit/) | Yes |
 | Yuan Tang| [terrytangyuan](https://github.com/terrytangyuan) | Reviewer - Workflows | [Ant Group](https://www.antgroup.com) | Yes |
 | Daisuke Taniwaki| [dtaniwaki](https://github.com/dtaniwaki) | Approver - Workflows, Events | [Ubie](https://ubie.life/) | Yes |
-| Danny Thomson| [dthomson25](https://github.com/dthomson25) | Reviewer - CD, Rollouts | [Stytch]() | Yes |
+| Danny Thomson| [dthomson25](https://github.com/dthomson25) | Reviewer - CD, Rollouts | [Stytch](https://www.github.com/stytchauth/) | Yes |
 | Derek Wang | [whynowy](https://github.com/whynowy) | Approver - Events | [Intuit](https://www.github.com/intuit/) | Yes |
 | Jonathan West| [jgwest](https://github.com/jgwest) | Approver - CD | [Red Hat](https://www.github.com/redhat/) | Yes |
 | May Zhang | [mayzhang2000](https://github.com/mayzhang2000) | Approver - CD | [Intuit](https://www.github.com/intuit/) | Yes |
