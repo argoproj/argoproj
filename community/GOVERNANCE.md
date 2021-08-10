@@ -34,3 +34,7 @@ This meeting is for the maintainers to discuss topics that relate to governance,
 This is a meeting for maintainers mainly to discuss and resolve technical issues. Future milestones and roadmaps will also be covered in this meeting. 
 #### Community Meeting
 This meeting is focused on the community and end users and will include project updates, user presentation and other items of interest to the user community.
+
+#### Meeting Calendar
+* [Google Calendar](https://calendar.google.com/calendar/embed?src=argoproj@gmail.com)
+* [ICS file](https://calendar.google.com/calendar/ical/argoproj%40gmail.com/public/basic.ics)
