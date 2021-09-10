@@ -40,7 +40,9 @@ below.
 ## Member
 
 Members are continuously active contributors in the community. They can have issues and PRs 
-assigned to them. Members are expected to remain active contributors to the community.
+assigned to them. Members are expected to remain active contributors to the community. Members are
+given the [Triage](https://docs.github.com/en/organizations/managing-access-to-your-organizations-repositories/repository-permission-levels-for-an-organization) GitHub role to Argoproj repositories, in order to
+facilitate issue management and moderate discussions.
 
 Defined by: Member of the Argoproj GitHub organization
 
@@ -72,6 +74,7 @@ Defined by: Member of the Argoproj GitHub organization
 ### Responsibilities and privileges
 
 - Have the ability to moderate GitHub discussions
+- Have the ability to triage GitHub issues through labeling
 - Responsive to issues and PRs assigned to them
 - Responsive to mentions of subprojects they are members of
 - Active owner of code they have contributed (unless ownership is explicitly transferred)
