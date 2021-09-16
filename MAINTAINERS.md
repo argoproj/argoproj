@@ -14,7 +14,7 @@
 | Xianlu Bird | [xianlubird](https://github.com/xianlubird) | Reviewer - Workflows | [Alibaba Cloud](https://github.com/aliyun) | Yes |
 | Henrik Blixt | [hblixt](https://github.com/hblixt) | Reviewer | [Intuit](https://www.github.com/intuit/) | Yes |
 | Shoubhik Bose | [sbose78](https://github.com/sbose78) | Reviewer | [Red Hat](https://www.github.com/redhat/) | Yes |
-| Remington Breeze | [rbreeze](https://github.com/rbreeze) | Approver CD, Rollouts | [Intuit](https://www.github.com/intuit/) | Yes |
+| Remington Breeze | [rbreeze](https://github.com/rbreeze) | Approver CD, Rollouts | [Independent](https://www.github.com/intuit/) | Yes |
 | Alex Collins| [alexec](https://github.com/alexec) | Lead - Workflows, Approver - CD  | [Intuit](https://www.github.com/intuit/) | Yes |
 | Tim Etchells | [tetchel](https://github.com/tetchel) | Reviewer - CD | [Red Hat](https://www.github.com/redhat/) | Yes |
 | Jann Fischer| [jannfis](https://github.com/jannfis) | Approver - CD | [Red Hat](https://www.github.com/redhat/) | Yes |
