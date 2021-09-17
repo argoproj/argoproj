@@ -221,7 +221,7 @@ The following apply to the subproject for which one would be an lead.
 - Define milestones and releases.
   - Decides on when PRs are merged to control the release scope.
 - Mentor and guide approvers, reviewers, and contributors to the subproject.
-- Escalate reviewer and maintainer concerns (i.e. responsiveness, availability, and general contributor community health) to the TC.
+- Escalate reviewer and maintainer concerns (i.e. responsiveness, availability, and general contributor community health) to the maintainers group. 
 - Ensure continued health of subproject
   - Adequate test coverage to confidently release
   - Tests are passing reliably (i.e. not flaky) and are fixed when they fail
