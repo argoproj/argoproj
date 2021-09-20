@@ -41,6 +41,18 @@ The good examples are:
 
 ---
 
+## Requirements
+
+Since projects under Argoproj labs are considered experimental and/or opinionated enhancements,
+container images shall be housed under a separate container registry separate from quay.io/argoproj,
+under [quay.io/argoprojlabs](https://quay.io/organization/argoprojlabs).
+
+It is strongly preferred *not* to give any individual users the ability to push images directly to
+quay.io repositories, and instead use [Robot Accounts](https://docs.quay.io/glossary/robot-accounts.html)
+to automatically push images as part of CI/GitHub Actions. Project leads can configure a robot
+account token as a GitHub secret to use as part of CI.
+
+---
 
 ## Proposal Process
 
