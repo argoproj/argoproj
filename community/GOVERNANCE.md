@@ -4,7 +4,7 @@ This document outlines the governance for the overall Argo Project and the four 
 ## Roles and Membership
 Roles are described in the [Community Membership](https://github.com/argoproj/argoproj/blob/master/community/membership.md) document
 For the purpose of governance, reviewers, approvers and leads are considered maintainers.
-The list of current maintainers, their project and organizational affiliation(s)is maintained in the [MAINTAINERS](https://github.com/argoproj/argoproj/MAINTAINERS.md) file.
+The list of current maintainers, their project and organizational affiliation(s)is maintained in the [MAINTAINERS](https://github.com/argoproj/argoproj/blob/master/MAINTAINERS.md) file.
 
 
 ## Conflict Resolution and Voting
@@ -34,3 +34,7 @@ This meeting is for the maintainers to discuss topics that relate to governance,
 This is a meeting for maintainers mainly to discuss and resolve technical issues. Future milestones and roadmaps will also be covered in this meeting. 
 #### Community Meeting
 This meeting is focused on the community and end users and will include project updates, user presentation and other items of interest to the user community.
+
+#### Meeting Calendar
+* [Google Calendar](https://calendar.google.com/calendar/embed?src=argoproj@gmail.com)
+* [ICS file](https://calendar.google.com/calendar/ical/argoproj%40gmail.com/public/basic.ics)

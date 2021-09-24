@@ -3,7 +3,7 @@
 This document outlines the various responsibilities of contributor roles in
 Argoproj. The Argo project is currently subdivided into four main subprojects:
 
-* [Argo Workflows](https://github.com/argoproj/argo)
+* [Argo Workflows](https://github.com/argoproj/argo-workflows)
 * [Argo CD](https://github.com/argoproj/argo-cd)
 * [Argo Events](https://github.com/argoproj/argo-events)
 * [Argo Rollouts](https://github.com/argoproj/argo-rollouts)
@@ -40,7 +40,9 @@ below.
 ## Member
 
 Members are continuously active contributors in the community. They can have issues and PRs 
-assigned to them. Members are expected to remain active contributors to the community.
+assigned to them. Members are expected to remain active contributors to the community. Members are
+given the [Triage](https://docs.github.com/en/organizations/managing-access-to-your-organizations-repositories/repository-permission-levels-for-an-organization) GitHub role to Argoproj repositories, in order to
+facilitate issue management and moderate discussions.
 
 Defined by: Member of the Argoproj GitHub organization
 
@@ -72,6 +74,7 @@ Defined by: Member of the Argoproj GitHub organization
 ### Responsibilities and privileges
 
 - Have the ability to moderate GitHub discussions
+- Have the ability to triage GitHub issues through labeling
 - Responsive to issues and PRs assigned to them
 - Responsive to mentions of subprojects they are members of
 - Active owner of code they have contributed (unless ownership is explicitly transferred)
@@ -218,7 +221,7 @@ The following apply to the subproject for which one would be an lead.
 - Define milestones and releases.
   - Decides on when PRs are merged to control the release scope.
 - Mentor and guide approvers, reviewers, and contributors to the subproject.
-- Escalate reviewer and maintainer concerns (i.e. responsiveness, availability, and general contributor community health) to the TC.
+- Escalate reviewer and maintainer concerns (i.e. responsiveness, availability, and general contributor community health) to the maintainers group. 
 - Ensure continued health of subproject
   - Adequate test coverage to confidently release
   - Tests are passing reliably (i.e. not flaky) and are fixed when they fail
