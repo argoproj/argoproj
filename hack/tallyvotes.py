@@ -45,25 +45,26 @@ totals = {
     'maintainers': {
         'yay': 0,
         'nay': 0,
+        'abstain': 0,
+        'total': 0,
     },
     'community': {
         'yay': 0,
         'nay': 0,
+        'abstain': 0,
+        'total': 0,
     },
 }
 
-for author, vote in maintainer_votes.items():
-    if vote > 0:
-        totals['maintainers']['yay'] += 1
-    elif vote < 0:
-        totals['maintainers']['nay'] -= 1
-
-
-for vote in community_votes.items():
-    if vote > 0:
-        totals['community']['yay'] += 1
-    elif vote < 0:
-        totals['community']['nay'] -= 1
+for subtotal, votes in [(totals['maintainers'], maintainer_votes), (totals['community'], community_votes)]:
+    for author, vote in votes.items():
+        subtotal['total'] += 1
+        if vote > 0:
+            subtotal['yay'] += 1
+        elif vote < 0:
+            subtotal['nay'] -= 1
+        else:
+            subtotal['abstain'] += 1
 
 vote_fmt = "{:20}{}"
 print(vote_fmt.format("MAINTAINER", "VOTE"))
@@ -78,8 +79,8 @@ for key, value in community_votes.items():
     print(vote_fmt.format(key, value))
 print('')
 
-summary_fmt = '{:15}{:>5}{:>5}'
-print(summary_fmt.format('SUMMARY', 'YAY', 'NAY'))
-print(summary_fmt.format('-------', '---', '---'))
-print(summary_fmt.format('MAINTAINERS', totals['maintainers']['yay'], totals['maintainers']['nay']))
-print(summary_fmt.format('COMMUNITY-USER', totals['community']['yay'], totals['community']['nay']))
+summary_fmt = '{:15}{:>5}{:>5}{:>9}{:>7}'
+print(summary_fmt.format('SUMMARY', 'YAY', 'NAY', 'ABSTAIN', 'TOTAL'))
+print(summary_fmt.format('-------', '---', '---', '-------', '-----'))
+print(summary_fmt.format('MAINTAINERS', totals['maintainers']['yay'], totals['maintainers']['nay'], totals['maintainers']['abstain'], totals['maintainers']['total']))
+print(summary_fmt.format('COMMUNITY-USER', totals['community']['yay'], totals['community']['nay'], '-', totals['community']['total']))
