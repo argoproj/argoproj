@@ -14,7 +14,7 @@
 | Xianlu Bird | [xianlubird](https://github.com/xianlubird) | Reviewer - Workflows | [Alibaba Cloud](https://github.com/aliyun) | Yes |
 | Henrik Blixt | [hblixt](https://github.com/hblixt) | Reviewer | [Intuit](https://www.github.com/intuit/) | Yes |
 | Shoubhik Bose | [sbose78](https://github.com/sbose78) | Reviewer | [Red Hat](https://www.github.com/redhat/) | Yes |
-| Remington Breeze | [rbreeze](https://github.com/rbreeze) | Approver CD, Rollouts | [Independent]() | Yes |
+| Remington Breeze | [rbreeze](https://github.com/rbreeze) | Approver CD, Rollouts | [Akuity](https://www.github.com/akuity/) | Yes |
 | Alex Collins| [alexec](https://github.com/alexec) | Lead - Workflows, Approver - CD  | [Intuit](https://www.github.com/intuit/) | Yes |
 | Tim Etchells | [tetchel](https://github.com/tetchel) | Reviewer - CD | [Red Hat](https://www.github.com/redhat/) | Yes |
 | Jann Fischer| [jannfis](https://github.com/jannfis) | Approver - CD | [Red Hat](https://www.github.com/redhat/) | Yes |
@@ -27,11 +27,11 @@
 | William Tam | [wtam2018](https://github.com/wtam2018) | Reviewer - CD | [Red Hat](https://www.github.com/redhat/) | Yes |
 | Regina Scott| [reginapizza](https://github.com/reginapizza) | Reviewer - CD | [Red Hat](https://www.github.com/redhat/) | Yes |
 | Ishita Sequeira | [ishitasequeira](https://github.com/ishitasequeira) | Reviewer - CD | [Red Hat](https://www.github.com/redhat/) | Yes |
-| Jesse Suen | [jessesuen](https://github.com/jessesuen) | Lead - CD, Rollouts Approver - Workflows, Events | [Independent]() | Yes |
-| Yuan Tang| [terrytangyuan](https://github.com/terrytangyuan) | Reviewer - Workflows | [Independent]() | Yes |
+| Jesse Suen | [jessesuen](https://github.com/jessesuen) | Lead - CD, Rollouts Approver - Workflows, Events | [Akuity](https://www.github.com/akuity/ | Yes |
+| Yuan Tang| [terrytangyuan](https://github.com/terrytangyuan) | Reviewer - Workflows | [Akuity](https://www.github.com/akuity/ | Yes |
 | Daisuke Taniwaki| [dtaniwaki](https://github.com/dtaniwaki) | Approver - Workflows, Events | [Ubie](https://ubie.life/) | Yes |
 | Danny Thomson| [dthomson25](https://github.com/dthomson25) | Reviewer - CD, Rollouts | [Stytch](https://www.github.com/stytchauth/) | Yes |
 | Derek Wang | [whynowy](https://github.com/whynowy) | Approver - Events | [Intuit](https://www.github.com/intuit/) | Yes |
-| Hong Wang | [wanghong230](https://github.com/wanghong230) | Reviewer | [Independent]() | Yes |
+| Hong Wang | [wanghong230](https://github.com/wanghong230) | Reviewer | [Akuity](https://www.github.com/akuity/ | Yes |
 | Jonathan West| [jgwest](https://github.com/jgwest) | Approver - CD | [Red Hat](https://www.github.com/redhat/) | Yes |
 | May Zhang | [mayzhang2000](https://github.com/mayzhang2000) | Approver - CD | [Intuit](https://www.github.com/intuit/) | Yes |
