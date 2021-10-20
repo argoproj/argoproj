@@ -264,6 +264,11 @@ those members would need to re-familiarize themselves with the current state
 before being able to contribute effectively. 
 
 
+## Change in membership roles
+
+As described above, a change in membership role may be approved by the appropriate subproject lead if there are no objections from the other leads. By convention, role changes are discussed in a meeting with other approvers before being formally approved.
+
+
 ## Argoproj Ecosystem
 
 There are related [Argoproj GitHub organizations], such as [argoproj-labs].
