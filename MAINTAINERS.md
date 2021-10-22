@@ -20,6 +20,7 @@
 | Jann Fischer| [jannfis](https://github.com/jannfis) | Approver - CD | [Red Hat](https://www.github.com/redhat/) | Yes |
 | Dan Garfield| [todaywasawesome](https://github.com/todaywasawesome) | Reviewer | [Codefresh](https://www.github.com/codefresh/) | Yes |
 | Kareena Hirani| [khhirani](https://github.com/khhirani) | Approver - Rollouts | [Intuit](https://www.github.com/intuit/) | Yes |
+| Pasha Kostohrys | [pasha-codefresh](https://github.com/pasha-codefresh) | Reviewer - CD | [Codefresh](https://www.github.com/codefresh/) | Yes |
 | Ed Lee| [edlee2121](https://github.com/edlee2121) | Approver - Workflows, Events | [Intuit](https://www.github.com/intuit/) | Yes |
 | Alexander Matyushentsev | [alexmt](https://github.com/jessesuen) | Lead - CD, Rollouts Approver - Workflows | [Intuit](https://www.github.com/intuit/) | Yes |
 | Mikhail Mazurskiy | [ash2k](https://github.com/ash2k) | Reviewer - CD | [GitLab](https://www.github.com/gitlab/) | Yes |
