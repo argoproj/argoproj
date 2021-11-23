@@ -31,4 +31,4 @@ To automatically signoff on every commit, copy the `community/dco-signoff-hook/p
 
 ## Tests
 
-Make sure your changes are properly covered by automated tests. Prefer writing unit-tests over heavy end-to-end tests.
+Make sure your changes are properly covered by automated tests. We aim to build an efficient test suite that is low cost to maintain and bring value to project. Prefer writing unit-tests over heavy end-to-end (e2e) tests. However, sometimes 2e2 tests are necessary. If you aren't sure, ask one of the maintainers about the requirements for your pull-request.
