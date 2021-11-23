@@ -30,6 +30,7 @@ The email address must match your primary GitHub email. You do NOT need cryptogr
 To automatically signoff on every commit, copy the `community/dco-signoff-hook/prepare-commit-msg` file to the `.git/hooks` directory in your repo or if you already have such a hook, merge the contents into your existing hook.
 
 *Note*: Some projects will provide specific configuration to ensure all commits are signed-off. Please check the project's documentation for more details.
+
 ## Tests
 
 Make sure your changes are properly covered by automated tests. We aim to build an efficient test suite that is low cost to maintain and bring value to project. Prefer writing unit-tests over heavy end-to-end (e2e) tests. However, sometimes e2e tests are necessary. If you aren't sure, ask one of the maintainers about the requirements for your pull-request.
