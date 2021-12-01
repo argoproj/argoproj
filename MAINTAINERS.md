@@ -16,7 +16,6 @@
 | Shoubhik Bose | [sbose78](https://github.com/sbose78) | Reviewer | [Red Hat](https://www.github.com/redhat/) | Yes |
 | Remington Breeze | [rbreeze](https://github.com/rbreeze) | Approver CD, Rollouts | [Akuity](https://akuity.io/) | Yes |
 | Alex Collins| [alexec](https://github.com/alexec) | Lead - Workflows, Approver - CD  | [Intuit](https://www.github.com/intuit/) | Yes |
-| Tim Etchells | [tetchel](https://github.com/tetchel) | Reviewer - CD | [Red Hat](https://www.github.com/redhat/) | Yes |
 | Jann Fischer| [jannfis](https://github.com/jannfis) | Approver - CD | [Red Hat](https://www.github.com/redhat/) | Yes |
 | Dan Garfield| [todaywasawesome](https://github.com/todaywasawesome) | Reviewer | [Codefresh](https://www.github.com/codefresh/) | Yes |
 | Kareena Hirani| [khhirani](https://github.com/khhirani) | Approver - Rollouts | [Intuit](https://www.github.com/intuit/) | Yes |
@@ -31,8 +30,8 @@
 | Jesse Suen | [jessesuen](https://github.com/jessesuen) | Lead - CD, Rollouts Approver - Workflows, Events | [Akuity](https://akuity.io/) | Yes |
 | Yuan Tang| [terrytangyuan](https://github.com/terrytangyuan) | Approver - Workflows | [Akuity](https://akuity.io/) | Yes |
 | Daisuke Taniwaki| [dtaniwaki](https://github.com/dtaniwaki) | Approver - Workflows, Events | [Ubie](https://ubie.life/) | Yes |
-| Danny Thomson| [dthomson25](https://github.com/dthomson25) | Reviewer - CD, Rollouts | [Stytch](https://www.github.com/stytchauth/) | Yes |
 | Derek Wang | [whynowy](https://github.com/whynowy) | Approver - Events | [Intuit](https://www.github.com/intuit/) | Yes |
 | Hong Wang | [wanghong230](https://github.com/wanghong230) | Reviewer | [Akuity](https://akuity.io/) | Yes |
 | Jonathan West| [jgwest](https://github.com/jgwest) | Approver - CD | [Red Hat](https://www.github.com/redhat/) | Yes |
 | May Zhang | [mayzhang2000](https://github.com/mayzhang2000) | Approver - CD | [Intuit](https://www.github.com/intuit/) | Yes |
+| Andrii Perenesenko | [perenesenko](https://github.com/perenesenko) | Reviewer - Rollouts | [Intuit](https://www.github.com/intuit/) | Yes |
