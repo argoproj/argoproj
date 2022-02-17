@@ -44,3 +44,5 @@
 | Saumeya Katyal | [saumeya](https://github.com/saumeya) | Reviewer - CD | [Red Hat](https://www.github.com/redhat/) | Yes |
 | Yi Cai | [ciiay](https://github.com/ciiay) | Reviewer - CD | [Red Hat](https://www.github.com/redhat/) | Yes |
 | Hui Kang | [huikang](https://github.com/huikang) | Approver - Rollouts | [Salesforce](https://salesforce.com/) | Yes |
+| J.P.Zivalich | [JPZ13](https://github.com/JPZ13) | Member - Workflows | [Pipekit](https://pipekit.io/) | No |
+| Caelan Urquhart | [caelan-io](https://github.com/caelan-io) | Member - Workflows | [Pipekit](https://pipekit.io/) | No |
