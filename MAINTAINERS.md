@@ -28,7 +28,7 @@
 | Regina Scott| [reginapizza](https://github.com/reginapizza) | Reviewer - CD | [Red Hat](https://www.github.com/redhat/) | Yes |
 | Ishita Sequeira | [ishitasequeira](https://github.com/ishitasequeira) | Reviewer - CD | [Red Hat](https://www.github.com/redhat/) | Yes |
 | Jesse Suen | [jessesuen](https://github.com/jessesuen) | Lead - CD, Rollouts Approver - Workflows, Events | [Akuity](https://akuity.io/) | Yes |
-| Yuan Tang| [terrytangyuan](https://github.com/terrytangyuan) | Approver - Workflows | [Akuity](https://akuity.io/) | Yes |
+| Yuan Tang| [terrytangyuan](https://github.com/terrytangyuan) | Approver - Workflows, Reviewer - CD | [Akuity](https://akuity.io/) | Yes |
 | Daisuke Taniwaki| [dtaniwaki](https://github.com/dtaniwaki) | Approver - Workflows, Events | [Ubie](https://ubie.life/) | Yes |
 | Derek Wang | [whynowy](https://github.com/whynowy) | Approver - Events | [Intuit](https://www.github.com/intuit/) | Yes |
 | Hong Wang | [wanghong230](https://github.com/wanghong230) | Reviewer | [Akuity](https://akuity.io/) | Yes |
