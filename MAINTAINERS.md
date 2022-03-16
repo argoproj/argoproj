@@ -19,7 +19,7 @@
 | Jann Fischer| [jannfis](https://github.com/jannfis) | Approver - CD | [Red Hat](https://www.github.com/redhat/) | Yes |
 | Dan Garfield| [todaywasawesome](https://github.com/todaywasawesome) | Reviewer | [Codefresh](https://www.github.com/codefresh/) | Yes |
 | Kareena Hirani| [khhirani](https://github.com/khhirani) | Approver - Rollouts | [Intuit](https://www.github.com/intuit/) | Yes |
-| Pasha Kostohrys | [pasha-codefresh](https://github.com/pasha-codefresh) | Reviewer - CD | [Codefresh](https://www.github.com/codefresh/) | Yes |
+| Pasha Kostohrys | [pasha-codefresh](https://github.com/pasha-codefresh) | Approver - CD | [Codefresh](https://www.github.com/codefresh/) | Yes |
 | Ed Lee| [edlee2121](https://github.com/edlee2121) | Approver - Workflows, Events | [Intuit](https://www.github.com/intuit/) | Yes |
 | Alexander Matyushentsev | [alexmt](https://github.com/alexmt) | Lead - CD, Rollouts Approver - Workflows | [Intuit](https://www.github.com/intuit/) | Yes |
 | Mikhail Mazurskiy | [ash2k](https://github.com/ash2k) | Reviewer - CD | [GitLab](https://www.github.com/gitlab/) | Yes |
@@ -33,6 +33,7 @@
 | Derek Wang | [whynowy](https://github.com/whynowy) | Approver - Events | [Intuit](https://www.github.com/intuit/) | Yes |
 | Hong Wang | [wanghong230](https://github.com/wanghong230) | Reviewer | [Akuity](https://akuity.io/) | Yes |
 | Jonathan West| [jgwest](https://github.com/jgwest) | Approver - CD | [Red Hat](https://www.github.com/redhat/) | Yes |
+| Keith Chong| [keithchong](https://github.com/keithchong) | Approver - CD | [Red Hat](https://www.github.com/redhat/) | Yes |
 | May Zhang | [mayzhang2000](https://github.com/mayzhang2000) | Approver - CD | [Intuit](https://www.github.com/intuit/) | Yes |
 | Andrii Perenesenko | [perenesenko](https://github.com/perenesenko) | Reviewer - Rollouts | [Intuit](https://www.github.com/intuit/) | Yes |
 | Daniel Soifer | [daniel-codefresh](https://github.com/daniel-codefresh) | Reviewer - Events | [Codefresh](https://www.github.com/codefresh/) | Yes |
