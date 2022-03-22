@@ -24,7 +24,7 @@ respective code repositories:
 
 ### Argoproj Labs
 
-The [Argoproj Labs](https://github.com/argoproj-labs) projects are a set community maintained projects (housed under a single GitHub organization) and do not fall under the scope of CNCF. They are independently maintained and typically have a separate set of members and maintainers from the [Argoproj maintainers](MAINTAINERS.md). Labs project have  **_not_** undergone the same security reviews, membership requirements, and have different security practices than the four Argo sub-projects. All labs projects are required to have a `SECURITY.md` documenting their security policies as well as listing their security contacts for reporting vulnerabilities. 
+The [Argoproj Labs](https://github.com/argoproj-labs) projects are a set community maintained projects (housed under a single GitHub organization) and do not fall under the scope of CNCF. They are independently maintained and typically have a separate set of members and maintainers from the [Argoproj maintainers](MAINTAINERS.md). Labs project have  **_not_** undergone the same security reviews, membership requirements, and may have different security practices than the four Argo sub-projects. All Labs projects are required to have a `SECURITY.md` in the root of their repository documenting their security policies as well as listing security contacts for reporting vulnerabilities. 
 
 ## Reporting Vulnerabilities
 
