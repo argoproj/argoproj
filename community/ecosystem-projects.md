@@ -43,6 +43,16 @@ The good examples are:
 
 ## Requirements
 
+### Security
+
+All Argoproj Labs projects must contain a `SECURITY.md` file documenting:
+* Contacts or mailing list for reporting vulnerabilities
+* Details about the project security policies
+
+In the future, we may require each project perform self-assessment on what best practices are followed, such as the [CII badge](https://bestpractices.coreinfrastructure.org/en).
+
+### Container Registry
+
 Since projects under Argoproj labs are considered experimental and/or opinionated enhancements,
 container images shall be housed under a separate container registry separate from quay.io/argoproj,
 under [quay.io/argoprojlabs](https://quay.io/organization/argoprojlabs).
