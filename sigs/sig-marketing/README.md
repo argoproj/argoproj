@@ -5,13 +5,25 @@ Argo Sig Marketing coordinates efforts between interested parties to promote, ad
 ## Meetings
 Sig marketing meetings are held twice monthly. Meetings can be found in the [Argo Project public calendar](https://calendar.google.com/calendar/embed?src=argoproj%40gmail.com&ctz=America%2FDenver).
 
+## Membership Requirements 
+- Members are nominated and approved by Argo Proj maintainers. 
+- Must represent the open-source community’s best interest with a vendor-neutral practice.
+- Must follow the CNCF rules and guidances closely.
+- Must have shown a proven record of enabling the open-source community by marketing.
+- Technical marketing is preferred.
+
+## Membership Roles
+| Role | Responsibilities | 
+|-------------------|------------------------------------------------------|
+| Member | Create and approve official communications (emails, social, blogs, etc). Manage and work on official events. Work in comittee on projects as deemed appropriate by ArgoProj maintainers. Provide regular updates to maintainers on marketing initiatives. |
+| Interested Party | Provide support, create content, and assist with sig-marketing intiatives. No nomination required to be added as an intersted party. |
+
 ## Members
 | Name | Company | Email |
-| Christian Hernandez | RedHat | christian@redhat.com  |
-| Dan Garfield | Codefresh | dan@codefresh.io |
-| Daniel Helfand | Intuit | |
+|--------------------------|-------------|---------------------|
 | Henrik Blixt | Intuit | Henrik_Blixt@intuit.com  |
-| Hong Wang | Akuity | hong@akuity.io  |
-| Sara | Codefresh | sara.davila@codefresh.io  |
 | Sharon Chitayat | Codefresh | sharon.chitayat@codefresh.io  |
 | Wojtek Cichoń | Akuity | wojtek@akuity.io  |
+| Christian Hernandez | Codefresh | christian@codefresh.io  |
+| Daniel Helfand | Intuit | daniel_helfand@intuit.com |
+| Hong Wang | Akuity | hong@akuity.io  |
