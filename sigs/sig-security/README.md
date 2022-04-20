@@ -1,4 +1,4 @@
-# Argo Sig Security
+# Argo SIG Security
 
 Argo Sig Security is focused on improving security across the Argo project, promoting best practices, and ensuring a high level of security for end users.
 
