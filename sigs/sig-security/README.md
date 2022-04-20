@@ -1,6 +1,6 @@
 # Argo SIG Security
 
-Argo Sig Security is focused on improving security across the Argo project, promoting best practices, and ensuring a high level of security for end users.
+Argo SIG Security is focused on improving security across the Argo project, promoting best practices, and ensuring a high level of security for end users.
 
 ## Meetings
 Sig security meetings include public and non-public sections and are held twice monthly. Meetings can be found in the [Argo Project public calendar](https://calendar.google.com/calendar/embed?src=argoproj%40gmail.com).
