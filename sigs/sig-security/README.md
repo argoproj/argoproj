@@ -10,6 +10,7 @@ Argo Project security policy and instructions for reporting issues is availabile
 
 ## Members
 | Name | Company | Email |
+|--------|------|------|
 | Alexander Matyushentsev | Intuit | |
 | Dan Garfield | Codefresh | dan@codefresh.io |
 | Hari Rongali | Intuit | |
