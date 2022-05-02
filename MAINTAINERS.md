@@ -45,3 +45,5 @@
 | Saumeya Katyal | [saumeya](https://github.com/saumeya) | Reviewer - CD | [Red Hat](https://www.github.com/redhat/) | Yes |
 | Yi Cai | [ciiay](https://github.com/ciiay) | Reviewer - CD | [Red Hat](https://www.github.com/redhat/) | Yes |
 | Hui Kang | [huikang](https://github.com/huikang) | Approver - Rollouts | [Salesforce](https://salesforce.com/) | Yes |
+| Leonardo Luz Almeida | [leoluz](https://github.com/leoluz) | Approver - CD | [Intuit](https://www.github.com/intuit/) | Yes |
+| Michael Crenshaw | [crenshaw-dev](https://github.com/crenshaw-dev) | Approver - CD | [Intuit](https://www.github.com/intuit/) | Yes |
