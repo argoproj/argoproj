@@ -21,7 +21,7 @@
 | Kareena Hirani| [khhirani](https://github.com/khhirani) | Approver - Rollouts | [Intuit](https://www.github.com/intuit/) | Yes |
 | Pasha Kostohrys | [pasha-codefresh](https://github.com/pasha-codefresh) | Approver - CD | [Codefresh](https://www.github.com/codefresh/) | Yes |
 | Ed Lee| [edlee2121](https://github.com/edlee2121) | Approver - Workflows, Events | [Intuit](https://www.github.com/intuit/) | Yes |
-| Alexander Matyushentsev | [alexmt](https://github.com/alexmt) | Lead - CD, Rollouts Approver - Workflows | [Intuit](https://www.github.com/intuit/) | Yes |
+| Alexander Matyushentsev | [alexmt](https://github.com/alexmt) | Lead - CD, Rollouts Approver - Workflows | [Akuity](https://akuity.io/) | Yes |
 | Mikhail Mazurskiy | [ash2k](https://github.com/ash2k) | Reviewer - CD | [GitLab](https://www.github.com/gitlab/) | Yes |
 | Vaibhav Page| [VaibhavPage](https://github.com/VaibhavPage) | Lead - Events | [Black Rock](https://www.github.com/blackrock/) | Yes |
 | William Tam | [wtam2018](https://github.com/wtam2018) | Reviewer - CD | [Red Hat](https://www.github.com/redhat/) | Yes |
