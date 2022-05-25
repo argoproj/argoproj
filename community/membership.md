@@ -15,7 +15,7 @@ Responsibilities for roles are scoped to these subprojects.
 | member       | active contributor in the community | sponsored by 2 approvers or leads. multiple contributions to the project. | Argoproj GitHub org member|
 | reviewer     | review contributions from other members | sponsored by a lead. history of review and authorship in a subproject | OWNERS file reviewer entry|
 | approver     | approve accepting contributions     | sponsored by a lead. highly experienced and active reviewer + contributor to a subproject  | OWNERS file approver entry |
-| lead         | set direction and priorities for a subproject | demonstrated responsibility and excellent technical judgement for the subproject | Member of Argo TOC |
+| lead         | set direction and priorities for a subproject | demonstrated responsibility and excellent technical judgement for the subproject |  OWNERS file owner entry AND member of Argo TOC |
 
 
 
