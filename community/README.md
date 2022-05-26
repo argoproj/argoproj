@@ -43,4 +43,4 @@ Contributing doc [here](CONTRIBUTING.md)
 
 ## Project Governance
 
-Goverance doc [here](GOVERNANCE.md)
+Governance doc [here](GOVERNANCE.md)
