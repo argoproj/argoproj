@@ -39,8 +39,8 @@
 | Daniel Soifer | [daniel-codefresh](https://github.com/daniel-codefresh) | Reviewer - Events | [Codefresh](https://www.github.com/codefresh/) | Yes |
 | Hari Rongali | [harikrongali](https://github.com/harikrongali) | Reviewer - Rollouts | [Intuit](https://www.github.com/intuit/) | Yes |
 | Kostis Kapelonis | [kostis-codefresh](https://github.com/kostis-codefresh) | Reviewer - Rollouts | [Codefresh](https://www.github.com/codefresh/) | Yes |
-| Leonardo Almeida | [leoluz](https://github.com/leoluz) | Reviewer - CD/Rollouts | [Intuit](https://www.github.com/intuit/) | Yes |
-| Michael Crenshaw | [crenshaw-dev](https://github.com/crenshaw-dev) | Reviewer - CD | [Intuit](https://www.github.com/intuit/) | Yes |
+| Leonardo Almeida | [leoluz](https://github.com/leoluz) | Approver - CD, Reviewer - Rollouts | [Intuit](https://www.github.com/intuit/) | Yes |
+| Michael Crenshaw | [crenshaw-dev](https://github.com/crenshaw-dev) | Approver - CD | [Intuit](https://www.github.com/intuit/) | Yes |
 | Rohit Agrawal | [agrawroh](https://github.com/agrawroh) | Reviewer - Rollouts | [Databricks](https://databricks.com/) | Yes |
 | Saumeya Katyal | [saumeya](https://github.com/saumeya) | Reviewer - CD | [Red Hat](https://www.github.com/redhat/) | Yes |
 | Yi Cai | [ciiay](https://github.com/ciiay) | Reviewer - CD | [Red Hat](https://www.github.com/redhat/) | Yes |
