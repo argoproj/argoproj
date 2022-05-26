@@ -1,6 +1,38 @@
 # Argo Decision Log
 
-This log file documents decisions for which there are no other lasting artifacts.
+This log file documents decisions by the Argo Bootstrap Committee..
+
+---
+## Allow non-coding reviewers
+
+### Date
+
+2021 May 21
+
+### Context
+
+As the Argo Community has grown, we now have significant contributors who are not coders (e.g. designers, product managers, and product marketing). We would like to formally recognize their role and participation in the Argo Community.
+
+### Decision
+
+Argo approvers may assign the role of reviewer to  non-coding contributors who actively contribute and play a significant role in the community.
+
+### Rationale
+
+The Argo Community will benefit by allowing non-coding contributors (e.g. designers, product managers, and product marketing) who actively contribute to the Argo Project to have an official role in the community.
+
+### Dissenting Opinions
+
+None.
+
+### Approvers
+* Ben Browning (Red Hat)
+* Edward Lee (Intuit)
+* Jesse Suen (Intuit)
+* Lei Zhang (Alibaba)
+* Mike Bowen (BlackRock)
+* Mukulika Kapas (Intuit)
+* Shoubhik Bose (Red Hat)
 
 ---
 ## Revise Argo CLA to follow CNCF guidelines

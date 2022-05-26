@@ -1,20 +1,32 @@
 owners:
 - alexec
 - alexmt
-- dthomson25
 - jessesuen
 - VaibhavPage
 
-reviewers:
-- xianlubird
-
 approvers:
+- crenshaw-dev
 - dtaniwaki
 - edlee2121
 - jannfis
+- jgwest
+- keithchong
 - khhirani
+- leoluz
 - mayzhang2000
-- rachelwang20
 - sarabala1979
 - simster7
+- terrytangyuan
 - whynowy
+- pasha-codefresh
+
+reviewers:
+- ash2k
+- dthomson25
+- sbose78
+- tetchel
+- wanghong230
+- wtam2018
+- xianlubird
+- hblixt
+- todaywasawesome

@@ -41,6 +41,28 @@ The good examples are:
 
 ---
 
+## Requirements
+
+### Security
+
+All Argoproj Labs projects must contain a `SECURITY.md` file documenting:
+* Contacts or mailing list for reporting vulnerabilities
+* Details about the project security policies
+
+In the future, we may require each project perform self-assessment on what best practices are followed, such as the [CII badge](https://bestpractices.coreinfrastructure.org/en).
+
+### Container Registry
+
+Since projects under Argoproj labs are considered experimental and/or opinionated enhancements,
+container images shall be housed under a separate container registry separate from quay.io/argoproj,
+under [quay.io/argoprojlabs](https://quay.io/organization/argoprojlabs).
+
+It is strongly preferred *not* to give any individual users the ability to push images directly to
+quay.io repositories, and instead use [Robot Accounts](https://docs.quay.io/glossary/robot-accounts.html)
+to automatically push images as part of CI/GitHub Actions. Project leads can configure a robot
+account token as a GitHub secret to use as part of CI.
+
+---
 
 ## Proposal Process
 
@@ -65,10 +87,9 @@ The majority of projects may live in
 ### **Project Proposal Issue**
 
 Once you are ready to propose the onboarding of a new project into [argoproj-labs](https://github.com/argoproj-labs) or wish to move an existing project from
-[argoproj-labs](https://github.com/argoproj-labs) to [argoproj](https://github.com/argoproj), please create a new
-[issue](https://github.com/argoproj/argoproj/issues/new?template=project-onboarding.md) in the 
+[argoproj-labs](https://github.com/argoproj-labs) to [argoproj](https://github.com/argoproj), please create a Pull Request with the proposal to the [proposals](/proposals) directory in the 
 [argoproj/argoproj](https://github.com/argoproj/argoproj) repository and answer questions
-listed in the aforementioned issue template.
+listed in the [proposal template](/ecosystem-projects/001-project-onboarding.md).
 
 ### **Proposal Review**
 
