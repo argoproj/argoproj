@@ -193,7 +193,7 @@ towards the health of that subproject.  Subproject leads *MUST* set technical
 direction and make or approve design decisions for their subproject - either
 directly or through delegation of these responsibilities.
 
-**Defined by:** *leads* entry in subproject `OWNERS` files
+**Defined by:** *owners* entry in subproject `OWNERS` files
 
 ### Requirements
 
