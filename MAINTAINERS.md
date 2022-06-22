@@ -10,7 +10,7 @@
 | --------------- | --------- | ----------- | ----------- | --------- | 
 | Rohit Agrawal | [agrawroh](https://github.com/agrawroh) | Reviewer - Rollouts | [Databricks](https://databricks.com/) | Yes |
 | Leonardo Luz Almeida | [leoluz](https://github.com/leoluz) | Approver - CD, Approver - Rollouts | [Intuit](https://www.github.com/intuit/) | Yes |
-| Saravanan Balasubramanian| [sarabala1979](https://github.com/sarabala1979) | Co-Lead - Workflows | [Intuit](https://www.github.com/intuit/) | Yes |
+| Saravanan Balasubramanian| [sarabala1979](https://github.com/sarabala1979) | Lead - Workflows | [Intuit](https://www.github.com/intuit/) | Yes |
 | Chetan Banavikalmutt | [chetan-rns](https://github.com/chetan-rns) | Reviewer - CD | [Red Hat](https://www.github.com/redhat/) | Yes |
 | Simon Behar| [simster7](https://github.com/simster7) | Approver - Workflows | [AirBnB](https://www.github.com/airbnb/) | Yes |
 | Xianlu Bird | [xianlubird](https://github.com/xianlubird) | Reviewer - Workflows | [Alibaba Cloud](https://github.com/aliyun) | Yes |
@@ -41,10 +41,10 @@
 | Yuan Tang| [terrytangyuan](https://github.com/terrytangyuan) | Approver - Workflows, Reviewer - CD | [Akuity](https://akuity.io/) | Yes |
 | William Tam | [wtam2018](https://github.com/wtam2018) | Reviewer - CD | [Red Hat](https://www.github.com/redhat/) | Yes |
 | Daisuke Taniwaki| [dtaniwaki](https://github.com/dtaniwaki) | Approver - Workflows, Events | [Ubie](https://ubie.life/) | Yes |
-| Derek Wang | [whynowy](https://github.com/whynowy) | Co-Lead - Events | [Intuit](https://www.github.com/intuit/) | Yes |
+| Derek Wang | [whynowy](https://github.com/whynowy) | Lead - Events | [Intuit](https://www.github.com/intuit/) | Yes |
 | Hong Wang | [wanghong230](https://github.com/wanghong230) | Reviewer | [Akuity](https://akuity.io/) | Yes |
 | Jonathan West| [jgwest](https://github.com/jgwest) | Approver - CD | [Red Hat](https://www.github.com/redhat/) | Yes |
 | May Zhang | [mayzhang2000](https://github.com/mayzhang2000) | Approver - CD | [Intuit](https://www.github.com/intuit/) | Yes |
 | Tianchu Zhao | [tczhao](https://github.com/tczhao) | Reviewer - Workflows | [Independent]() | Yes |
-| Ravi Hari | [RaviHari](https://github.com/RaviHari) | Reviewer - Workflows | [Intuit](https://www.github.com/intuit/) | Yes |
+| Ravi Hari | [RaviHari](https://github.com/RaviHari) | Reviewer - Rollouts | [Intuit](https://www.github.com/intuit/) | Yes |
 | Zach Aller | [zachaller](https://github.com/zachaller) | Reviewer - Rollouts | [Intuit](https://www.github.com/intuit/) | Yes |
