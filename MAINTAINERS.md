@@ -7,7 +7,7 @@
 ## Maintainers
 
 | Maintainer | GitHub ID | Project Roles | Affiliation
-| --------------- | --------- | ----------- | ----------- | --------- | 
+| --------------- | --------- | ----------- | ----------- |
 | Rohit Agrawal | [agrawroh](https://github.com/agrawroh) | Reviewer - Rollouts | [Databricks](https://databricks.com/) |
 | Leonardo Luz Almeida | [leoluz](https://github.com/leoluz) | Approver - CD, Approver - Rollouts | [Intuit](https://www.github.com/intuit/) |
 | Saravanan Balasubramanian| [sarabala1979](https://github.com/sarabala1979) | Lead - Workflows | [Intuit](https://www.github.com/intuit/) |
