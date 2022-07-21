@@ -3,7 +3,7 @@
 ## About
 
 
-The [Argo Project](https://github.com/argoproj) consists of four core projects that implement the main use-cases. In addition to the core project repositories the [Argo Project Labs](https://github.com/argoproj-labs) organization hosts repositories of dependencies and ecosystem projects assoociated with the core projects.
+The [Argo Project](https://github.com/argoproj) consists of four core projects that implement the main use-cases. In addition to the core project repositories the [Argo Project Labs](https://github.com/argoproj-labs) organization hosts repositories of dependencies and ecosystem projects associated with the core projects.
 
 * Core project dependencies are projects which are either shared code libraries (such as [gitops-engine](https://github.com/argoproj/gitops-engine),
 [pkg](https://github.com/argoproj/pkg) or [argo-ui](https://github.com/argoproj/argo-ui) ) or repositories that host release/deployments
@@ -22,7 +22,7 @@ The ecosystem project *must* enhance one of the existing core projects as oppose
 ### **Experimental Features**
 
 
-The ecoystem sproject may be an experimental implementation of a new feature that may eventually be merged into one of the core projects. A good example
+The ecosystem project may be an experimental implementation of a new feature that may eventually be merged into one of the core projects. A good example
 is https://github.com/argoproj-labs/applicationset project that simplifies managing Argo CD applications. The functionality is developed in
 a separate repository to increase development velocity and simplify onboarding early adopters.
 
