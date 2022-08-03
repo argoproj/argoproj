@@ -25,7 +25,7 @@
 | Jann Fischer| [jannfis](https://github.com/jannfis) | Approver - CD | [Red Hat](https://www.github.com/redhat/) |
 | Dan Garfield| [todaywasawesome](https://github.com/todaywasawesome) | Reviewer | [Codefresh](https://www.github.com/codefresh/) |
 | Ravi Hari | [RaviHari](https://github.com/RaviHari) | Reviewer - Rollouts | [Intuit](https://www.github.com/intuit/) |
-| Kareena Hirani| [khhirani](https://github.com/khhirani) | Approver - Rollouts | [Independant] |
+| Kareena Hirani| [khhirani](https://github.com/khhirani) | Approver - Rollouts | [Independent] |
 | Hui Kang | [huikang](https://github.com/huikang) | Approver - Rollouts | [Salesforce](https://salesforce.com/) |
 | Saumeya Katyal | [saumeya](https://github.com/saumeya) | Reviewer - CD | [Red Hat](https://www.github.com/redhat/) |
 | Kostis Kapelonis | [kostis-codefresh](https://github.com/kostis-codefresh) | Reviewer - Rollouts | [Codefresh](https://www.github.com/codefresh/) |
