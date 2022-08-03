@@ -9,6 +9,7 @@
 | Maintainer | GitHub ID | Project Roles | Affiliation
 | --------------- | --------- | ----------- | ----------- |
 | Rohit Agrawal | [agrawroh](https://github.com/agrawroh) | Reviewer - Rollouts | [Databricks](https://databricks.com/) |
+| Zach Aller | [zachaller](https://github.com/zachaller) | Reviewer - Rollouts | [Intuit](https://www.github.com/intuit/) |
 | Leonardo Luz Almeida | [leoluz](https://github.com/leoluz) | Approver - CD, Approver - Rollouts | [Intuit](https://www.github.com/intuit/) |
 | Saravanan Balasubramanian| [sarabala1979](https://github.com/sarabala1979) | Lead - Workflows | [Intuit](https://www.github.com/intuit/) |
 | Chetan Banavikalmutt | [chetan-rns](https://github.com/chetan-rns) | Reviewer - CD | [Red Hat](https://www.github.com/redhat/) |
@@ -23,7 +24,8 @@
 | Michael Crenshaw | [crenshaw-dev](https://github.com/crenshaw-dev) | Approver - CD | [Intuit](https://www.github.com/intuit/) |
 | Jann Fischer| [jannfis](https://github.com/jannfis) | Approver - CD | [Red Hat](https://www.github.com/redhat/) |
 | Dan Garfield| [todaywasawesome](https://github.com/todaywasawesome) | Reviewer | [Codefresh](https://www.github.com/codefresh/) |
-| Kareena Hirani| [khhirani](https://github.com/khhirani) | Approver - Rollouts | [Intuit](https://www.github.com/intuit/) |
+| Ravi Hari | [RaviHari](https://github.com/RaviHari) | Reviewer - Rollouts | [Intuit](https://www.github.com/intuit/) |
+| Kareena Hirani| [khhirani](https://github.com/khhirani) | Approver - Rollouts | [Independant] |
 | Hui Kang | [huikang](https://github.com/huikang) | Approver - Rollouts | [Salesforce](https://salesforce.com/) |
 | Saumeya Katyal | [saumeya](https://github.com/saumeya) | Reviewer - CD | [Red Hat](https://www.github.com/redhat/) |
 | Kostis Kapelonis | [kostis-codefresh](https://github.com/kostis-codefresh) | Reviewer - Rollouts | [Codefresh](https://www.github.com/codefresh/) |
@@ -46,5 +48,3 @@
 | Jonathan West| [jgwest](https://github.com/jgwest) | Approver - CD | [Red Hat](https://www.github.com/redhat/) |
 | May Zhang | [mayzhang2000](https://github.com/mayzhang2000) | Approver - CD | [Intuit](https://www.github.com/intuit/) |
 | Tianchu Zhao | [tczhao](https://github.com/tczhao) | Reviewer - Workflows | [Independent]() |
-| Ravi Hari | [RaviHari](https://github.com/RaviHari) | Reviewer - Rollouts | [Intuit](https://www.github.com/intuit/) |
-| Zach Aller | [zachaller](https://github.com/zachaller) | Reviewer - Rollouts | [Intuit](https://www.github.com/intuit/) |
