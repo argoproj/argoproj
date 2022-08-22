@@ -11,7 +11,7 @@ answering the following questions in your onboarding proposal:
 - [x] Do you wish to host your project repository https://github.com/argoproj-labs or https://github.com/argoproj ?
 - [x] Does your project focus on enhancing or providing additional features to one of the existing [core
  projects](https://github.com/argoproj/argoproj#what-is-argoproj) ? If yes, which of the core projects is your proposed project related to?
- **https://github.com/argoproj/argo-cd**
+ New feature for **https://github.com/argoproj/argo-cd**
 - [x] Is it endorsed by any of the Argo subproject maintainers? Please mention sponsors from the subproject.
    Ed lee(@edlee2121)
 - [x] How does it align with the goals of the Argo community?
