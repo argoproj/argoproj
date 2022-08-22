@@ -8,6 +8,7 @@ Once you are ready, please help the reviewer understand your project better by
 answering the following questions in your onboarding proposal:
 
 - [x] What is your project repository Github URL?
+ https://github.com/sarabala1979/argocd-metric-ext-server 
 - [x] Do you wish to host your project repository https://github.com/argoproj-labs or https://github.com/argoproj ?
  argoproj-labs
 - [x] Does your project focus on enhancing or providing additional features to one of the existing [core
