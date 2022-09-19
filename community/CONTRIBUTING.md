@@ -13,7 +13,7 @@ Once a github issue is accepted and assigned to you, please follow general workf
 2. Create a branch in your forked repository for the changes you are about to make.
 3. Commit your changes in the branch you created in step 2. All commits need to be signed-off. Check the [legal](#legal) section bellow for more details.
 4. Push your commits to your remote fork.
-5. Create a Pull Request from your remote fork pointing to the HEAD branch (usualy `master` branch) of the target repository.
+5. Create a Pull Request from your remote fork pointing to the HEAD branch (usually `master` branch) of the target repository.
 6. Check the github build and ensure that all checks are green.
 
 ## Legal
