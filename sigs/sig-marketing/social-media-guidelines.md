@@ -15,12 +15,16 @@ _Access_
 
 _Objectives_
 
+The goal of the project social accounts is to promote the project and related content. Any content posted, or linked to, should be relevant, no more than a week old and not be re-posts.
+Linking to vendor blogs and/or content should be restricted to once / month / vendor.
 
+This includes:
 
 * Raising awareness of events and talks about/for the community 
     * Includes: ArgoCon, KubeCon, GitOpsCon, Argo Contributor Summit, CNCF Workshops, CNCF Certifications, Community Events
 * Empowering the DevOps community to use and leverage Argo Projects
 * Conversion: Communicating with the existing Argo community on new features and updates
+
 
 _LinkedIn/Twitter Posts_
 
@@ -36,6 +40,7 @@ _LinkedIn/Twitter Posts_
     * Visiting Argo Booth
 * Community Blogs
     * Tips and Tricks, Best Practices Guide
+    * Cross project blogs or content together with other open source projects that integrate with any of the Argo projects.
     * No vendor product blogs as it relates to Argo, but vendor blogs **_about_** Argo are OK
 * Press
 

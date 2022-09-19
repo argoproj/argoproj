@@ -17,6 +17,7 @@ Sig marketing meetings are held twice monthly. Meetings can be found in the [Arg
 |-------------------|------------------------------------------------------|
 | Member | Create and approve official communications (emails, social, blogs, etc). Manage and work on official events. Work in comittee on projects as deemed appropriate by ArgoProj maintainers. Provide regular updates to maintainers on marketing initiatives. |
 | Interested Party | Provide support, create content, and assist with sig-marketing intiatives. No nomination required to be added as an intersted party. |
+| Secretary/Coordinator | Coordinates work in the SIG. Leads and runs the SIG Marketing meetings. Reports back on SIG Marketing completed and upcoming work to maintainers. |
 
 ## Members
 | Name | Company | Email |
@@ -25,5 +26,4 @@ Sig marketing meetings are held twice monthly. Meetings can be found in the [Arg
 | Sharon Chitayat | Codefresh | sharon.chitayat@codefresh.io  |
 | Wojtek Cichoń | Akuity | wojtek@akuity.io  |
 | Christian Hernandez | Codefresh | christian@codefresh.io  |
-| Daniel Helfand | Intuit | daniel_helfand@intuit.com |
 | Hong Wang | Akuity | hong@akuity.io  |
