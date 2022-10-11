@@ -36,8 +36,25 @@ Project specific community blogs and presentations are at
 * [Argo Events](https://github.com/argoproj/argo-events/blob/master/README.md#community-blogs-and-presentations)
 * [Argo Rollouts](https://github.com/argoproj/argo-rollouts/blob/master/README.md#community-blogs-and-presentations)
 
+## Adopters
+
+Each Argo sub-project maintains its own list of adopters. Those lists are available in the respective project repositories:
+* [Argo Workflows](https://github.com/argoproj/argo-workflows/blob/master/USERS.md)
+* [Argo CD](https://github.com/argoproj/argo-cd/blob/master/USERS.md)
+* [Argo Events](https://github.com/argoproj/argo-events/blob/master/USERS.md)
+* [Argo Rollouts](https://github.com/argoproj/argo-rollouts/blob/master/USERS.md)
+
+## Contributing
+
+To learn about how to contribut to Argoproj, see our [contributing documentation](community/CONTRIBUTING.md).
+Argo contributors must follow the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md).
+
+For help contributing, visit the [#argo-contributors channel](https://cloud-native.slack.com/archives/C020XM04CUW) in CNCF Slack.
+
+To learn about Argoproj governance, see our [community governance document](community/GOVERNANCE.md).
+
 ## Project Resources
-* [Argo Community Calendar](https://calendar.google.com/calendar/embed?src=argoproj@gmail.com)
+* [Argo Community Meeting Calendar](https://calendar.google.com/calendar/embed?src=argoproj@gmail.com)
   * [ICS file](https://calendar.google.com/calendar/ical/argoproj%40gmail.com/public/basic.ics)
 * Argo GitHub:  https://github.com/argoproj
 * Argo website: https://argoproj.github.io
