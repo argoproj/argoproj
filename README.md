@@ -46,7 +46,7 @@ Each Argo sub-project maintains its own list of adopters. Those lists are availa
 
 ## Contributing
 
-To learn about how to contribut to Argoproj, see our [contributing documentation](community/CONTRIBUTING.md).
+To learn about how to contribute to Argoproj, see our [contributing documentation](community/CONTRIBUTING.md).
 Argo contributors must follow the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md).
 
 For help contributing, visit the [#argo-contributors channel](https://cloud-native.slack.com/archives/C020XM04CUW) in CNCF Slack.
