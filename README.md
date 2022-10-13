@@ -59,3 +59,4 @@ To learn about Argoproj governance, see our [community governance document](comm
 * Argo GitHub:  https://github.com/argoproj
 * Argo website: https://argoproj.github.io
 * Argo Slack:   https://argoproj.github.io/community/join-slack
+* [Awesome-Argo: A Curated List of Awesome Projects and Resources Related to Argo](https://github.com/terrytangyuan/awesome-argo)
