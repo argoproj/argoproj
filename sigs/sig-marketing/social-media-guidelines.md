@@ -40,7 +40,7 @@ _LinkedIn/Twitter Posts_
     * Visiting Argo Booth
 * Community Blogs
     * Tips and Tricks, Best Practices Guide
-    * Cross project blogs or content together with other open source projects that integrate with any of the Argo projects.
+    * Cross-project blogs or content together with other open source projects that integrate with any of the Argo projects
     * No vendor product blogs as it relates to Argo, but vendor blogs **_about_** Argo are OK
 * Press
 
