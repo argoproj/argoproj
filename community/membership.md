@@ -255,9 +255,10 @@ Inactive members are defined as members of one of the Argoproj Organizations
 with **no** contributions across any organization within 6 months. This is
 measured by the CNCF [DevStats project].
 
-**Note:** Devstats does not take into account non-code contributions. If a
-non-code contributing member is accidentally removed this way, they may open an
-issue to quickly be re-instated. 
+Activity is measured by "Contributions" in the [User Statistics by Repository Group] dashboard.
+According to that dashboard:
+
+> Contribution is a review, comment, commit, issue or PR.
 
 After an extended period away from the project with no activity
 those members would need to re-familiarize themselves with the current state
@@ -297,3 +298,4 @@ you will need explicit sponsorship for your membership request.
 [two-factor authentication]: https://help.github.com/articles/about-two-factor-authentication
 [elevated set of permissions]: #Responsibilities-and-privileges
 [Devstats project]: https://argo.devstats.cncf.io/
+[User Statistics by Repository Group]: https://argo.devstats.cncf.io/d/48/users-statistics-by-repository-group?orgId=1&var-period=m&var-metric=contributions&var-repogroup_name=All&var-users=All&from=now-1y&to=now
