@@ -43,7 +43,7 @@
 | Yuan Tang| [terrytangyuan](https://github.com/terrytangyuan) | Approver - Workflows, Reviewer - CD | [Akuity](https://akuity.io/) |
 | William Tam | [wtam2018](https://github.com/wtam2018) | Reviewer - CD | [Red Hat](https://www.github.com/redhat/) |
 | Daisuke Taniwaki| [dtaniwaki](https://github.com/dtaniwaki) | Approver - Workflows, Events | [Ubie](https://ubie.life/) |
-| Julie Vogelman | [juliev0](https://github.com/juliev0) | Reviewer - Workflows |
+| Julie Vogelman | [juliev0](https://github.com/juliev0) | Reviewer - Workflows | [Intuit](https://www.github.com/intuit/) |
 | Derek Wang | [whynowy](https://github.com/whynowy) | Lead - Events | [Intuit](https://www.github.com/intuit/) |
 | Hong Wang | [wanghong230](https://github.com/wanghong230) | Reviewer | [Akuity](https://akuity.io/) |
 | Jonathan West| [jgwest](https://github.com/jgwest) | Approver - CD | [Red Hat](https://www.github.com/redhat/) |
