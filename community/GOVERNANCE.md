@@ -9,8 +9,8 @@ The list of current maintainers, their project and organizational affiliation(s)
 
 ## Conflict Resolution and Voting
 The vast majority of issues are resolved by consensus. If consensus cannot be reached, issues are resolved by voting. All decisions should be recorded publicly in GitHub or meeting notes and recordings.
-
 * A vote requires a simple majority to pass. 
+* A vote requires participation by a quorum of 50% of maintainers.
 * Voting is done by adding +1/-1 on the PR submitted for the issue. 
 * Each maintainer gets a binding vote. Non-binding votes from the community are encouraged. 
 * No organization should be allowed more than 40% of eligible votes. If any organization has more than 40% of the maintainers, the organization will have to decide which maintainers will cast votes.
@@ -19,6 +19,7 @@ The vast majority of issues are resolved by consensus. If consensus cannot be re
 ## Changes to governance
 Any changes to governance require a vote by the maintainers.  
 * A vote requires a 2/3 supermajority to pass. 
+* A vote requires participation by a quorum of 50% of maintainers.
 * Voting is done by adding +1/-1 on the PR submitted for the issue. 
 * Each maintainer gets a binding vote. Non-binding votes from the community are encouraged. 
 * No organization should be allowed more than 40% of eligible votes. If any organization has more than 40% of the maintainers, the organization will have to decide which maintainers will cast votes. 
