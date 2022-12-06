@@ -55,7 +55,7 @@ https://developercertificate.org/
 
 CNCF provides support for implementing both the DCO and CLA. Choice of one over the other is left to each CNCF project. Neither is currently viewed as providing stronger legal protection than the other.
 
-The Linux kernal as well as most CNCF projects use the DCO. The DCO is viewed as a more developer-friendly alternative to the CLA.
+The Linux kernel as well as most CNCF projects use the DCO. The DCO is viewed as a more developer-friendly alternative to the CLA.
 
 ### Dissenting Opinions
 

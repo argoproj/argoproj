@@ -5,16 +5,21 @@ owners:
 - VaibhavPage
 
 approvers:
+- crenshaw-dev
 - dtaniwaki
 - edlee2121
 - jannfis
 - jgwest
+- keithchong
 - khhirani
+- leoluz
 - mayzhang2000
 - sarabala1979
 - simster7
 - terrytangyuan
 - whynowy
+- pasha-codefresh
+- zaller
 
 reviewers:
 - ash2k
@@ -23,6 +28,7 @@ reviewers:
 - tetchel
 - wanghong230
 - wtam2018
-- xianlubird
 - hblixt
 - todaywasawesome
+- juliev0
+- 34fathombelow
