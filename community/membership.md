@@ -15,7 +15,7 @@ Responsibilities for roles are scoped to these subprojects.
 | member       | active contributor in the community | sponsored by 2 approvers or leads. multiple contributions to the project. | Argoproj GitHub org member|
 | reviewer     | review contributions from other members | sponsored by a lead. history of review and authorship in a subproject | OWNERS file reviewer entry|
 | approver     | approve accepting contributions     | sponsored by a lead. highly experienced and active reviewer + contributor to a subproject  | OWNERS file approver entry |
-| lead         | set direction and priorities for a subproject | demonstrated responsibility and excellent technical judgement for the subproject | Member of Argo TOC |
+| lead         | set direction and priorities for a subproject | demonstrated responsibility and excellent technical judgement for the subproject |  OWNERS file owner entry |
 
 
 
@@ -193,7 +193,7 @@ towards the health of that subproject.  Subproject leads *MUST* set technical
 direction and make or approve design decisions for their subproject - either
 directly or through delegation of these responsibilities.
 
-**Defined by:** *leads* entry in subproject `OWNERS` files
+**Defined by:** *owners* entry in subproject `OWNERS` files
 
 ### Requirements
 
@@ -262,6 +262,11 @@ issue to quickly be re-instated.
 After an extended period away from the project with no activity
 those members would need to re-familiarize themselves with the current state
 before being able to contribute effectively. 
+
+
+## Change in membership roles
+
+As described above, a change in membership role may be approved by the appropriate subproject lead if there are no objections from the other leads. By convention, role changes are discussed in a meeting with other approvers before being formally approved.
 
 
 ## Argoproj Ecosystem
