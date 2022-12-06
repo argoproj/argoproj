@@ -210,7 +210,7 @@ The following apply to the subproject for which one would be an lead.
   - Authoring and reviewing proposals
   - Initiating, contributing and resolving discussions (emails, GitHub issues, meetings)
   - Identifying subtle or complex issues in designs and implementation PRs
-- Directly contributed to the subproject through implementation and review, including significant new features
+- Directly contributed to the subproject through code and reviews, including contributions demonstrating strong technical understanding and implementation complexity.
 
 ### Responsibilities and privileges
 
@@ -266,7 +266,7 @@ before being able to contribute effectively.
 
 ## Change in membership roles
 
-A change in membership role may be approved by the appropriate subproject lead in consultation with other Argo Project leads and approvers. By convention, role changes are discussed in a meeting with Argo Project approvers before being finalized.
+A change in membership role may be approved by consensus of the Argo Project leads and approvers. By convention, role changes are discussed in a meeting with Argo Project approvers before being finalized.
 
 
 ## Appointment of Subproject Leads
@@ -279,8 +279,7 @@ Key factors in the selection of new subproject leads are:
 - History of participation and leadership in the Argo project and user communities.
 - Demonstrated high standards for personal and professional conduct.
 - Leads should reflect and represent the diversity of the Argo Community 
-- Sustained technical contributions to the subproject including driving significant new features.
-
+- Sustained technical contributions to the subproject including demonstrating strong technical understanding and implementation complexity.
 
 ## Argoproj Ecosystem
 
