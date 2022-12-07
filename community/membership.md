@@ -271,9 +271,9 @@ A change in membership role may be approved by consensus of the Argo Project lea
 
 ## Appointment of Subproject Leads
 
-Leads serve a unique and critical role in the direction and organization of each subproject. Each subproject will generally have two co-leads, who share responsibility. There is no fixed term for leads and they often serve until they retire or, in rare cases, are replaced by [voting](GOVERNANCE.md). Leads are encouraged to give other qualified members of the community an opportunity to serve. Former leads are welcome to serve as leads again in the future.
+Leads serve a unique and critical role in the direction and organization of each subproject. Each subproject will generally have two co-leads, who share responsibility. There is no fixed term for leads and they often serve until they retire or, in rare cases, are replaced by [voting](GOVERNANCE.md). Leads are encouraged to give other qualified members of the community an opportunity to serve. Former leads are welcome to nominate themelves again in the future.
 
-When a new lead needs to be chosen for a subproject, the availability of the role must be communicated in advance to the Argo maintainer community. Any qualified maintainer may nominate themself for the role. The final decision for the appointment of a new lead will be made by consensus of all existing Argo Project leads and approvers.
+When a new lead needs to be chosen for a subproject, the availability of the role must be communicated in advance to the Argo maintainer community. Any qualified maintainer may nominate themself for the role. The final decision for the appointment of a new lead will be made by consensus of existing Argo Project leads and approvers.
 
 Key factors in the selection of new subproject leads are:
 - History of participation and leadership in the Argo project and user communities.
