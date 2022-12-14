@@ -141,6 +141,9 @@ The format of a feature status in the documentation should be:
 
 `Current Status: <status> (Since <version>)`
 
+Since relates to the version a feature was introduced, not the version
+it changed the status.
+
 Example:
 
 `## Server-Side Apply Current Status: Beta (Since v2.5.0)`
