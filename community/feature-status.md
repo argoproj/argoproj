@@ -66,8 +66,7 @@ rules:
 
 1. _Alpha_ features can transition to _Beta_.
 1. If for some reason an _Alpha_ feature fails to be promoted, it will
-eventually be removed from the code base followed from a deprecation
-period.
+eventually be removed from the code base.
 1. _Beta_ features can transition to _Stable_.
 1. If for some reason a _Beta_ feature fails to be promoted, it could
 eventually be removed from the code base followed from at least one
@@ -76,9 +75,10 @@ release deprecation period.
 it to be removed, it will follow at least two releases deprecation
 period.
 
-If a feature is decided to be removed, it will respect a deprecation
-period. The information will be available in the release notes and in
-the official documentation for that given feature.
+If a _Beta_ or _Stable_ feature is decided to be removed, it will
+respect a deprecation period. The information will be available in the
+release notes and in the official documentation for that given
+feature.
 
 The diagram bellow represents the possible transitions features can
 have:
