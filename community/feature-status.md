@@ -129,19 +129,21 @@ in our official documentation. The status must also be informed in the
 title of the PR introducing the feature so it can be available in the
 release notes.
 
-The format of a feature status in the PR title should be: `feat:
-<title> (<status>)`
+The format of a feature status in the PR title should be:
+
+`feat: <title> (<status>)`
 
 Example:
 
-``` feat: My awesome new feature description (Alpha) ```
+`feat: My awesome new feature description (Alpha)`
 
 The format of a feature status in the documentation should be:
+
 `Current Status: <status> (Since <version>)`
 
 Example:
 
-``` ## Server-Side Apply Current Status: Beta (Since v2.5.0) ```
+`## Server-Side Apply Current Status: Beta (Since v2.5.0)`
 
 
 [1]: https://docs.google.com/document/d/1xkoFkVviB70YBzSEa4bDnu-rUZ1sIFtwKKG1Uw8XsY8/edit?pli=1#
