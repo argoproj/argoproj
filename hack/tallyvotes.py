@@ -18,8 +18,8 @@ maintainers_url = "https://raw.githubusercontent.com/argoproj/argoproj/master/MA
 maintainers = subprocess.check_output("curl --silent "+maintainers_url+" | grep -e '^|.*github.com' | grep Yes | awk -F'[' '{print $2}' | awk -F']' '{print $1}'", shell=True).split()
 
 maintainer_votes = {}
-for manitainer in maintainers:
-    maintainer_votes[manitainer] = 0
+for maintainer in maintainers:
+    maintainer_votes[maintainer] = 0
 community_votes = {}
 
 pr_meta = json.loads(subprocess.check_output("gh pr view "+pr_num+" -R "+org_repo+" --comments --json comments,reviews", shell=True))
