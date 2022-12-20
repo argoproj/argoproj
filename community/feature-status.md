@@ -6,7 +6,7 @@ have in Argo projects.
 ## Overview
 
 Argo umbrella projects are maintained by the open-source community.
-This means that features are provided by different companies with
+This means that features are provided by different organizations with
 different use-cases. While certain features are battle tested by
 corporations with large infrastructure, this is not always the case.
 Feature status is a classification that can be used by Argo projects
@@ -125,19 +125,8 @@ stage.
 If you are contributing with new feature in one of the Argo projects,
 please classify it with one of the statuses described in this
 document. The current status should be indicated next to every feature
-in our official documentation. The status must also be informed in the
-title of the PR introducing the feature so it can be available in the
-release notes.
-
-The format of a feature status in the PR title should be:
-
-`feat: <title> (<status>)`
-
-Example:
-
-`feat: My awesome new feature description (Alpha)`
-
-The format of a feature status in the documentation should be:
+in our official documentation. The format of a feature status in the
+documentation should be:
 
 `Current Status: <status> (Since <version>)`
 
@@ -148,5 +137,20 @@ Example:
 
 `## Server-Side Apply Current Status: Beta (Since v2.5.0)`
 
+The status must also be informed in the title of the PR introducing
+the feature so it can be available in the release notes.
+
+The format of a feature status in the PR title should be:
+
+`feat: <title> (<status>)`
+
+Example:
+
+`feat: My awesome new feature description (Alpha)`
+
+Note: When a feature is promoted, remember to always update the
+documentation so the current status is correctly informed to our
+user base. It is also important to follow the PR title format
+defined above.
 
 [1]: https://docs.google.com/document/d/1xkoFkVviB70YBzSEa4bDnu-rUZ1sIFtwKKG1Uw8XsY8/edit?pli=1#
