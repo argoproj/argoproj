@@ -45,8 +45,8 @@ known uncovered edge cases. Edge cases will be tracked as issues and
 are expected to be voted on. Votes take place by adding a thumbs up
 emoji reaction in the main description of an issue. In most cases,
 issues with more votes will take higher priority. _Beta_ features may
-not be backwards compatible with previous releases while in this
-status.
+not be backwards compatible with previous releases of the feature
+while in this status.
 
 ### Stable
 
@@ -58,8 +58,9 @@ fix might be released.
 ## The promotion process
 
 Features can be introduced in Argo projects in _Alpha_ or _Beta_
-statuses. After a feature is introduced with a specific status it can
-then be promoted to the next one.
+statuses. If a feature is not introduced with a particular status,
+it is assumed to be stable. After a feature is introduced with a 
+specific status it can then be promoted to the next one.
 
 The transition from one status to the other respect the following
 rules:
@@ -130,8 +131,8 @@ documentation should be:
 
 `Current Status: <status> (Since <version>)`
 
-Since relates to the version a feature was introduced, not the version
-it changed the status.
+Since relates to the version it changed the status, _not_ the version
+when the feature was first introduced in the codebase.
 
 Example:
 
