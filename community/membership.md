@@ -210,7 +210,7 @@ The following apply to the subproject for which one would be an lead.
   - Authoring and reviewing proposals
   - Initiating, contributing and resolving discussions (emails, GitHub issues, meetings)
   - Identifying subtle or complex issues in designs and implementation PRs
-- Directly contributed to the subproject through implementation and / or review
+- Directly contributed to the subproject through code and reviews, including contributions demonstrating strong technical understanding and implementation complexity.
 
 ### Responsibilities and privileges
 
@@ -252,22 +252,34 @@ with the current state.
 ### How inactivity is measured
 
 Inactive members are defined as members of one of the Argoproj Organizations
-with **no** contributions across any organization within 12 months. This is
-measured by the CNCF [DevStats project].
+with no significant contributions within the last 12 months. Contributions are
+measured using the CNCF [DevStats project], GitHub activity history, and other media
+by which a history of contributions can be reliably determined.
 
-**Note:** Devstats does not take into account non-code contributions. If a
-non-code contributing member is accidentally removed this way, they may open an
+If an actively contributing member is accidentally removed this way, they may open an
 issue to quickly be re-instated. 
 
-After an extended period away from the project with no activity
-those members would need to re-familiarize themselves with the current state
+After an extended period away from the project with no activity,
+removed members would need to re-familiarize themselves with the current state
 before being able to contribute effectively. 
 
 
 ## Change in membership roles
 
-As described above, a change in membership role may be approved by the appropriate subproject lead if there are no objections from the other leads. By convention, role changes are discussed in a meeting with other approvers before being formally approved.
+A change in membership role may be approved by consensus of the Argo Project leads and approvers. By convention, role changes are discussed in a meeting with Argo Project approvers before being finalized.
 
+
+## Appointment of Subproject Leads
+
+Leads serve a unique and critical role in the direction and organization of each subproject. Each subproject will generally have two co-leads, who share responsibility. There is no fixed term for leads and they often serve until they retire or, in rare cases, are replaced by [voting](GOVERNANCE.md). Leads are encouraged to give other qualified members of the community an opportunity to serve. Former leads are welcome to nominate themelves again in the future.
+
+When a new lead needs to be chosen for a subproject, the availability of the role must be communicated in advance to the Argo maintainer community. Any qualified maintainer may nominate themself for the role. The final decision for the appointment of a new lead will be made by consensus of existing Argo Project leads and approvers.
+
+Key factors in the selection of new subproject leads are:
+- History of participation and leadership in the Argo project and user communities.
+- Demonstrated high standards for personal and professional conduct.
+- Leads should reflect and represent the diversity of the Argo Community 
+- Sustained technical contributions to the subproject including demonstrating strong technical understanding and implementation complexity.
 
 ## Argoproj Ecosystem
 
