@@ -10,7 +10,7 @@
 | --------------- | --------- | ----------- | ----------- |
 | Rohit Agrawal | [agrawroh](https://github.com/agrawroh) | Reviewer - Rollouts | [Databricks](https://databricks.com/) |
 | Zach Aller | [zachaller](https://github.com/zachaller) | Approver - Rollouts <br/>Reviewer - CD | [Intuit](https://www.github.com/intuit/) |
-| Leonardo Luz Almeida | [leoluz](https://github.com/leoluz) | Approver - CD <br/>Approver - Rollouts | [Intuit](https://www.github.com/intuit/) |
+| Leonardo Luz Almeida | [leoluz](https://github.com/leoluz) | Approver - CD, Rollouts | [Intuit](https://www.github.com/intuit/) |
 | Saravanan Balasubramanian| [sarabala1979](https://github.com/sarabala1979) | Lead - Workflows | [Intuit](https://www.github.com/intuit/) |
 | Chetan Banavikalmutt | [chetan-rns](https://github.com/chetan-rns) | Reviewer - CD | [Red Hat](https://www.github.com/redhat/) |
 | Simon Behar| [simster7](https://github.com/simster7) | Approver - Workflows | [AirBnB](https://www.github.com/airbnb/) |
