@@ -54,4 +54,4 @@
 
 | Alumni | GitHub ID | Project Roles | Affiliation
 | --------------- | --------- | ----------- | ----------- |
-| Xianlu Bird | [xianlubird](https://github.com/xianlubird) | Reviewer - Workflows | [Alibaba Cloud](https://github.com/aliyun) |
+| Xianlu Chen | [xianlubird](https://github.com/xianlubird) | Reviewer - Workflows | [Alibaba Cloud](https://github.com/aliyun) |
