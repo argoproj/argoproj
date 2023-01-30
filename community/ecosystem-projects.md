@@ -22,7 +22,7 @@ The ecosystem project *must* enhance one of the existing core projects as oppose
 ### **Experimental Features**
 
 
-The ecosystem project may be an experimental implementation of a new feature that may eventually be merged into one of the core projects. Once the project is mature enough it may be considered for merging into the core project repository.
+The ecosystem project may be an experimental implementation of a new feature that may eventually be merged into one of the core projects. Once the project is mature enough it may be considered for merging into one of the core project repositories.
 
 A good example is the [ApplicationSet controller](https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/) that simplifies managing Argo CD applications. The functionality was developed in a separate repository under https://github.com/argoproj-labs to increase development velocity and simplify onboarding early adopters. It was [later moved](https://github.com/argoproj/argo-cd/issues/7351) to https://github.com/argoproj before [eventually being merged](https://github.com/argoproj/applicationset/issues/528) into https://github.com/argoproj/argo-cd to allow tighter integration of ApplicationSet support with Argo CD.
 
