@@ -20,3 +20,4 @@ Argo Project security policy and instructions for reporting issues are available
 | Leonardo Luz | Intuit | |
 | Michael Crenshaw | Intuit | | 
 | Sasha Shapirov | Codefresh | sasha.shapirov@codefresh.io |
+| Zach Aller | Intuit | |
