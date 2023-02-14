@@ -9,15 +9,18 @@ Sig security meetings include public and non-public sections and are held twice 
 Argo Project security policy and instructions for reporting issues are available [here](https://github.com/argoproj/argoproj/blob/master/SECURITY.md).
 
 ## Members
-| Name | Company | Email |
-|--------|------|------|
-| Alexander Matyushentsev | Intuit | |
-| Dan Garfield | Codefresh | dan@codefresh.io |
-| Hari Rongali | Intuit | |
-| Henrik Blixt | Intuit | Henrik_Blixt@intuit.com  |
-| Jann Fischer | RedHat | jfischer@redhat.com |
-| Jesse Suen | Akuity | |
-| Leonardo Luz | Intuit | |
-| Michael Crenshaw | Intuit | | 
-| Sasha Shapirov | Codefresh | sasha.shapirov@codefresh.io |
-| Zach Aller | Intuit | |
+| Name                    | Company   | Email                       |
+|-------------------------|-----------|-----------------------------|
+| Abhishek Veeramalla     | Red Hat   |                             |
+| Alexander Matyushentsev | Intuit    |                             |
+| Dan Garfield            | Codefresh | dan@codefresh.io            |
+| Ed Lee                  | Intuit    |                             |
+| Henrik Blixt            | Intuit    | Henrik_Blixt@intuit.com     |
+| Jann Fischer            | Red Hat   | jfischer@redhat.com         |
+| Jesse Suen              | Akuity    |                             |
+| Leonardo Luz            | Intuit    |                             |
+| Michael Crenshaw        | Intuit    |                             | 
+| Pavel Kostohrys         | Codefresh |                             |
+| Sasha Shapirov          | Codefresh | sasha.shapirov@codefresh.io |
+| William Tam             | Red Hat   |                             |
+| Zach Aller              | Intuit    |                             |
