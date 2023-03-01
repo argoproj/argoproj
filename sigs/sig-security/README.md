@@ -12,7 +12,7 @@ Argo Project security policy and instructions for reporting issues are available
 | Name                                                    | Company   | Email                       |
 |---------------------------------------------------------|-----------|-----------------------------|
 | [Abhishek Veeramalla](https://github.com/iam-veermalla) | Red Hat   |                             |
-| [Alexander Matyushentsev](https://github.com/alexmt)    | Intuit    |                             |
+| [Alexander Matyushentsev](https://github.com/alexmt)    | Akuity    |                             |
 | [Dan Garfield](https://github.com/todaywasawesome)      | Codefresh | dan@codefresh.io            |
 | [Ed Lee](https://github.com/edlee2121)                  | Intuit    |                             |
 | [Henrik Blixt](https://github.com/hblixt)               | Intuit    | Henrik_Blixt@intuit.com     |
