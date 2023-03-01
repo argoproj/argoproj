@@ -21,10 +21,10 @@
 | Keith Chong| [keithchong](https://github.com/keithchong) | Approver - CD | [Red Hat](https://www.github.com/redhat/) |
 | Alex Collins| [alexec](https://github.com/alexec) | Lead - Workflows <br/>Approver - CD  | [Intuit](https://www.github.com/intuit/) |
 | Michael Crenshaw | [crenshaw-dev](https://github.com/crenshaw-dev) | Approver - CD | [Intuit](https://www.github.com/intuit/) |
+| Alex Eftimie | [alexef](https://github.com/alexef) | Reviewer - CD | [GetYourGuide](https://www.getyourguide.com/) |
 | Jann Fischer| [jannfis](https://github.com/jannfis) | Approver - CD | [Red Hat](https://www.github.com/redhat/) |
 | Dan Garfield| [todaywasawesome](https://github.com/todaywasawesome) | Reviewer | [Codefresh](https://www.github.com/codefresh/) |
 | Ravi Hari | [RaviHari](https://github.com/RaviHari) | Reviewer - Rollouts | [Intuit](https://www.github.com/intuit/) |
-| Kareena Hirani| [khhirani](https://github.com/khhirani) | Approver - Rollouts | Independent |
 | Hui Kang | [huikang](https://github.com/huikang) | Approver - Rollouts | [Salesforce](https://salesforce.com/) |
 | Saumeya Katyal | [saumeya](https://github.com/saumeya) | Reviewer - CD | [Red Hat](https://www.github.com/redhat/) |
 | Kostis Kapelonis | [kostis-codefresh](https://github.com/kostis-codefresh) | Reviewer - Rollouts | [Codefresh](https://www.github.com/codefresh/) |
@@ -42,7 +42,6 @@
 | Jesse Suen | [jessesuen](https://github.com/jessesuen) | Lead - CD, Rollouts <br/>Approver - Workflows, Events | [Akuity](https://akuity.io/) |
 | Yuan Tang| [terrytangyuan](https://github.com/terrytangyuan) | Approver - Workflows <br/>Reviewer - CD | [Akuity](https://akuity.io/) |
 | William Tam | [wtam2018](https://github.com/wtam2018) | Reviewer - CD | [Red Hat](https://www.github.com/redhat/) |
-| Daisuke Taniwaki| [dtaniwaki](https://github.com/dtaniwaki) | Approver - Workflows, Events | [Ubie](https://ubie.life/) |
 | Julie Vogelman | [juliev0](https://github.com/juliev0) | Reviewer - Workflows | [Intuit](https://www.github.com/intuit/) |
 | Derek Wang | [whynowy](https://github.com/whynowy) | Lead - Events | [Intuit](https://www.github.com/intuit/) |
 | Hong Wang | [wanghong230](https://github.com/wanghong230) | Reviewer | [Akuity](https://akuity.io/) |
@@ -55,3 +54,5 @@
 | Alumni | GitHub ID | Project Roles | Affiliation
 | --------------- | --------- | ----------- | ----------- |
 | Xianlu Chen | [xianlubird](https://github.com/xianlubird) | Reviewer - Workflows | [Alibaba Cloud](https://github.com/aliyun) |
+| Kareena Hirani| [khhirani](https://github.com/khhirani) | Approver - Rollouts | Independent |
+| Daisuke Taniwaki| [dtaniwaki](https://github.com/dtaniwaki) | Approver - Workflows, Events | [Ubie](https://ubie.life/) |
