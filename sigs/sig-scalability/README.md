@@ -9,7 +9,7 @@ The goals of this group are to create benchmarking tooling to objectively measur
 ## Meetings
 SIG Scalability meetings are held on the second and forth Wednesday of each month. Meetings can be found in the [Argo Project public calendar](https://calendar.google.com/calendar/embed?src=argoproj%40gmail.com).
 
-The group can also be found on [the CNCF Slack](https://slack.cncf.io/), in the `#argo-sig-scalability` channel.
+The members of the group can be contacted on [the CNCF Slack](https://slack.cncf.io/), in the `#argo-sig-scalability` channel and by using [the `type:scalability` label](https://github.com/argoproj/argo-cd/pulls?q=is%3Apr+is%3Aopen+label%3Atype%3Ascalability) on PRs and issues.
 
 ## Members
 <!-- Alphanumeric order based on `Name` -->
