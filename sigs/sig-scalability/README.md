@@ -11,9 +11,9 @@ The group can also be found on [the CNCF Slack](https://slack.cncf.io/), in the 
 
 ## Members
 <!-- Alphanumeric order based on `Name` -->
-| Name | Company | GitHub Username |
-|--------|------|------|
-| Andrew Lee | AWS | @andklee |
-| Carlos Santana | AWS | @csantanapr |
-| Nicholas Morey | Akuity | @csantanapr |
-| Nima Kaviani | AWS | @nimakaviani |
+| Name                                            | Company | Email |
+|-------------------------------------------------|---------|-------|
+| [Andrew Lee](https://github.com/andklee)        | AWS     |       |
+| [Carlos Santana](https://github.com/csantanapr) | AWS     |       |
+| [Nicholas Morey](https://github.com/csantanapr) | Akuity  |       |
+| [Nima Kaviani](https://github.com/nimakaviani)  | AWS     |       |
