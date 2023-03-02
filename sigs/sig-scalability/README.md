@@ -16,5 +16,6 @@ The group can also be found on [the CNCF Slack](https://slack.cncf.io/), in the 
 | [Andrew Lee](https://github.com/andklee)        | AWS     |       |
 | [Carlos Santana](https://github.com/csantanapr) | AWS     |       |
 | [Jann Fischer](https://github.com/jannfis)      | Red Hat |       |
+| [Jun Duan](https://github.com/waltforme)        | IBM     |       |
 | [Nicholas Morey](https://github.com/morey-tech) | Akuity  |       |
 | [Nima Kaviani](https://github.com/nimakaviani)  | AWS     |       |
