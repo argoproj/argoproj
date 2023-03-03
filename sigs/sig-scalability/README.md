@@ -12,6 +12,8 @@ SIG Scalability meetings are held on the second and forth Wednesday of each mont
 The members of the group can be contacted on [the CNCF Slack](https://slack.cncf.io/), in the `#argo-sig-scalability` channel and by using [the `type:scalability` label](https://github.com/argoproj/argo-cd/pulls?q=is%3Apr+is%3Aopen+label%3Atype%3Ascalability) on PRs and issues.
 
 ## Members
+Membership is open to any interested person in the Argo community.
+
 <!-- Alphanumeric order based on `Name` -->
 | Name                                            | Company | Email |
 |-------------------------------------------------|---------|-------|
