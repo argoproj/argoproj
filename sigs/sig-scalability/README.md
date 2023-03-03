@@ -14,6 +14,8 @@ The members of the group can be contacted on [the CNCF Slack](https://slack.cncf
 ## Members
 Membership is open to any interested person in the Argo community.
 
+To join, create a pull request adding yourself to the list below.
+
 <!-- Alphanumeric order based on `Name` -->
 | Name                                            | Company | Email |
 |-------------------------------------------------|---------|-------|
