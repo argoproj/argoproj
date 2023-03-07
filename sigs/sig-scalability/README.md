@@ -17,11 +17,12 @@ Membership is open to any interested person in the Argo community.
 To join, create a pull request adding yourself to the list below.
 
 <!-- Alphanumeric order based on `Name` -->
-| Name                                            | Company | Email |
-|-------------------------------------------------|---------|-------|
-| [Andrew Lee](https://github.com/andklee)        | AWS     |       |
-| [Carlos Santana](https://github.com/csantanapr) | AWS     |       |
-| [Jann Fischer](https://github.com/jannfis)      | Red Hat |       |
-| [Jun Duan](https://github.com/waltforme)        | IBM     |       |
-| [Nicholas Morey](https://github.com/morey-tech) | Akuity  |       |
-| [Nima Kaviani](https://github.com/nimakaviani)  | AWS     |       |
+| Name                                               | Company   | Email |
+|----------------------------------------------------|-----------|-------|
+| [Andrew Lee](https://github.com/andklee)           | AWS       |       |
+| [Carlos Santana](https://github.com/csantanapr)    | AWS       |       |
+| [Dan Garfield](https://github.com/todaywasawesome) | Codefresh |       |
+| [Jann Fischer](https://github.com/jannfis)         | Red Hat   |       |
+| [Jun Duan](https://github.com/waltforme)           | IBM       |       |
+| [Nicholas Morey](https://github.com/morey-tech)    | Akuity    |       |
+| [Nima Kaviani](https://github.com/nimakaviani)     | AWS       |       |
