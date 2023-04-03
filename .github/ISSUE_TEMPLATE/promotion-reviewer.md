@@ -18,7 +18,7 @@ Promotion is requested for the following sub-project(s).
 - [ ] Argo CD
 - [ ] Argo Events
 - [ ] Argo Rollouts
-- [ ] Argo Events
+- [ ] Argo Workflows
 
 ### Requirements
 
