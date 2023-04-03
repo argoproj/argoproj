@@ -7,6 +7,10 @@ assignees: ''
 
 ---
 
+<!--
+IMPORTANT: A request for promotion to Approver should be initiated by an Approver or a Lead. After the Approver or Lead recommends promotion, the nominee should fill out this template and open an issue, listing the initiator as one of their sponsors.
+-->
+
 ### GitHub Username
 
 @<your-GH-handle>
