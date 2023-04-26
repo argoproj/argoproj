@@ -8,10 +8,8 @@ assignees: ''
 ---
 
 ### GitHub Username
-e.g. (at)example_user
 
-### Organization you are requesting membership in
-e.g. (at)argoproj
+@<your-GH-handle>
 
 ### Requirements
 - [ ] I have reviewed the community membership guidelines (https://github.com/argoproj/argoproj/blob/master/community/membership.md)
@@ -21,8 +19,8 @@ e.g. (at)argoproj
 - [ ] I have spoken to my sponsors ahead of this application, and they have agreed to sponsor my application
 
 ### Sponsors
-- (at)sponsor-1
-- (at)sponsor-2
+- @<sponsor-1>
+- @<sponsor-2>
 
 ### List of contributions to the Argoproj project
 - PRs reviewed / authored
