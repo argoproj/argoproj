@@ -271,9 +271,21 @@ A change in membership role may be approved by consensus of the Argo Project lea
 
 ## Appointment of Subproject Leads
 
-Leads serve a unique and critical role in the direction and organization of each subproject. Each subproject will generally have two co-leads, who share responsibility. There is no fixed term for leads and they often serve until they retire or, in rare cases, are replaced by [voting](GOVERNANCE.md). Leads are encouraged to give other qualified members of the community an opportunity to serve. Former leads are welcome to nominate themelves again in the future.
+Leads serve a unique and critical role in the direction and organization of each subproject. Each subproject will generally have two co-leads, who share responsibility. There is no fixed term for leads and they often serve until they retire or, in rare cases, are replaced by [voting](GOVERNANCE.md). Leads are encouraged to give other qualified members of the community an opportunity to serve. Former leads are welcome to nominate themselves again in the future.
 
-When a new lead needs to be chosen for a subproject, the availability of the role must be communicated in advance to the Argo maintainer community. Any qualified maintainer may nominate themself for the role. The final decision for the appointment of a new lead will be made by consensus of existing Argo Project leads and approvers.
+When a new lead needs to be chosen for a subproject, the availability of the role must be announced in advance to the Argo maintainer community. Any qualified maintainer may nominate themselves for the role. The final decision for the appointment of a new lead will be made by consensus of existing Argo Project leads and approvers.
+
+The announcement should be posted in the #argo-maintainers Slack channel by an existing lead. The announcement should follow this model:
+
+```
+Argoproj leadership is considering adding a lead for the <project> subproject. The potential leads who are currently 
+nominated are <list of nominees>. If you would like to nominate yourself or someone else, please open an issue in this
+repo: https://github.com/argoproj/argoproj/issues
+
+If you have any feedback about the current nominee(s), please comment on the issue nominating them.
+```
+
+This announcement should be posted at least two weeks before any vote is held to actually appoint a new lead.
 
 Key factors in the selection of new subproject leads are:
 - History of participation and leadership in the Argo project and user communities.
