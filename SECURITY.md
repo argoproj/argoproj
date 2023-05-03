@@ -1,6 +1,7 @@
 # Security Policy for Argo projects
 
 Versions:
+* v1.3 (2023-03-07) - Mention collaboration with IBB
 * v1.2 (2022-03-22) - Add Argoproj-labs disclaimer
 * v1.1 (2021-08-08) - Update contacts
 * v1.0 (2020-04-30) - Initial version
@@ -38,6 +39,20 @@ For reporting vulnerabilities to projects under Argoproj Labs, please visit the 
 
 We also kindly ask you to allow us some time for analysing the report and react
 on it. We will get in contact with you as soon as possible.
+
+## Internet Bug Bounty collaboration
+
+We're happy to announce that the Argo project is collaborating with the great
+folks over at
+[Hacker One](https://hackerone.com/) and their
+[Internet Bug Bounty program](https://hackerone.com/ibb)
+to reward the awesome people who find security vulnerabilities in the four
+main Argo projects (CD, Events, Rollouts and Workflows) and then work with
+us to fix and disclose them in a responsible manner.
+
+If you report a vulnerability to us as outlined in this security policy, we
+will work together with you to find out whether your finding is eligible for
+claiming a bounty, and also on how to claim it.
 
 ## Public Disclosure
 
