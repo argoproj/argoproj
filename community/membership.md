@@ -278,9 +278,8 @@ When a new lead needs to be chosen for a subproject, the availability of the rol
 The announcement should be posted in the #argo-maintainers Slack channel by an existing lead. The announcement should follow this model:
 
 ```
-Argoproj leadership is considering adding a lead for the <project> subproject. The potential leads who are currently 
-nominated are <list of nominees>. If you would like to nominate yourself or someone else, please open an issue in this
-repo: https://github.com/argoproj/argoproj/issues
+Argoproj leadership is considering adding a lead for the <project> subproject. If you would like to nominate yourself or 
+someone else, please open an issue in this repo: https://github.com/argoproj/argoproj/issues
 
 If you have any feedback about the current nominee(s), please comment on the issue nominating them.
 ```
