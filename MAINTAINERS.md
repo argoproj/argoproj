@@ -35,8 +35,8 @@
 | Mikhail Mazurskiy | [ash2k](https://github.com/ash2k) | Reviewer - CD | [GitLab](https://www.github.com/gitlab/) |
 | Vaibhav Page| [VaibhavPage](https://github.com/VaibhavPage) | Lead - Events | [Black Rock](https://www.github.com/blackrock/) |
 | Blake Pettersson | [blakepettersson](https://github.com/blakepettersson) | Reviewer - CD | [Krobier](https://www.krobier.com) |
-| Andrii Perenesenko | [perenesenko](https://github.com/perenesenko) | Reviewer - Rollouts | [Intuit](https://www.github.com/intuit/) |
-| Hari Rongali | [harikrongali](https://github.com/harikrongali) | Reviewer - Rollouts | [Intuit](https://www.github.com/intuit/) |
+| Andrii Perenesenko | [perenesenko](https://github.com/perenesenko) | Reviewer - Rollouts | [Capital One](https://github.com/capitalone/) |
+| Hari Rongali | [harikrongali](https://github.com/harikrongali) | Reviewer - Rollouts | [Lacework](https://github.com/lacework) |
 | Regina Scott| [reginapizza](https://github.com/reginapizza) | Reviewer - CD | [Red Hat](https://www.github.com/redhat/) |
 | Ishita Sequeira | [ishitasequeira](https://github.com/ishitasequeira) | Reviewer - CD | [Red Hat](https://www.github.com/redhat/) |
 | Daniel Soifer | [daniel-codefresh](https://github.com/daniel-codefresh) | Reviewer - Events | [Codefresh](https://www.github.com/codefresh/) |
