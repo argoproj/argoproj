@@ -30,7 +30,7 @@
 | Kostis Kapelonis | [kostis-codefresh](https://github.com/kostis-codefresh) | Reviewer - Rollouts | [Codefresh](https://www.github.com/codefresh/) |
 | Pasha Kostohrys | [pasha-codefresh](https://github.com/pasha-codefresh) | Approver - CD | [Codefresh](https://www.github.com/codefresh/) |
 | Ed Lee| [edlee2121](https://github.com/edlee2121) | Approver - Workflows, Events | [Intuit](https://www.github.com/intuit/) |
-| Justin Marquis | [34fathombelow](https://github.com/34fathombelow) | Reviewer - CD | Independent |
+| Justin Marquis | [34fathombelow](https://github.com/34fathombelow) | Reviewer - CD | [Akuity](https://akuity.io/) |
 | Alexander Matyushentsev | [alexmt](https://github.com/alexmt) | Lead - CD, Rollouts <br/>Approver - Workflows | [Akuity](https://akuity.io/) |
 | Mikhail Mazurskiy | [ash2k](https://github.com/ash2k) | Reviewer - CD | [GitLab](https://www.github.com/gitlab/) |
 | Vaibhav Page| [VaibhavPage](https://github.com/VaibhavPage) | Lead - Events | [Black Rock](https://www.github.com/blackrock/) |
