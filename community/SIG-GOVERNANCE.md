@@ -23,7 +23,7 @@ For embargoed decisions, the decisions must be made public as soon as the embarg
 ### Creation
 
 * A new SIG could be in the formation phase by sharing the proposal with the maintainer meeting and receiving unanimous agreement in the maintainer meeting.
-* A new SIG formation phrase should last for more than 3 months and also meet the following milestones:
+* A new SIG formation phase should last for more than 3 months and also meet the following milestones:
 
   * The formation SIG has a clear and actionable goal defined
   * The formation SIG has interested members from more than 3 organizations
