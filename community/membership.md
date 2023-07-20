@@ -104,6 +104,11 @@ Reviewer status is scoped to a part of the codebase.
 **Note:** Acceptance of code contributions requires at least one approver in
 addition to the assigned reviewers.
 
+**Note:** A reviewer who is scoped to part of the code base rather than the whole
+code base is not considered a "maintainer" and must not be included in 
+[MAINTAINERS.md](../MAINTAINERS.md). Once they reach full-scope reviewer status
+or any approver status, they will be a maintainer.
+
 While these guidelines are going to be used for setting contribution expectations, 
 the maintainers will recognize the impact of an individual's contribution while 
 making a decision on promotion an individual to a "reviewer."
