@@ -16,6 +16,8 @@ Please signoff your contributions by doing ONE of the following:
 The email address must match your primary GitHub email. You do NOT need cryptographic (e.g. gpg) signing.
 * Use `git commit -s --amend ...` to add a signoff to the latest commit, if you forgot.
 
+Argo CD Achieves SLSA Level 3. Please read the [SLSA Assessment Report](docs/software_supply_chain_slsa_assessment_chainguard_2023.pdf) for more.
+
 To automatically signoff on every commit, copy the `community/dco-signoff-hook/prepare-commit-msg` file to the `.git/hooks` directory in your repo or if you already have such a hook, merge the contents into your existing hook.
 
 ## What is Argoproj?
@@ -30,7 +32,7 @@ Also [argoproj-labs](https://github.com/argoproj-labs) is a separate GitHub org 
 
 ## Community Blogs and Presentations
 
-Project specific community blogs and presentations are at 
+Project specific community blogs and presentations are at
 * [Argo Workflows](https://github.com/argoproj/argo-workflows/blob/master/README.md#community-blogs-and-presentations)
 * [Argo CD](https://github.com/argoproj/argo-cd/blob/master/README.md#community-blogs-and-presentations)
 * [Argo Events](https://github.com/argoproj/argo-events/blob/master/README.md#community-blogs-and-presentations)
