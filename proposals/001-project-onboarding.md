@@ -7,7 +7,7 @@ labels: project onboarding
 
 Welcome to Argo Project Onboarding! 
 
-Before submitting the ticket please ensure you understand which [projects](../../community/ecosystem-projects.md) could be added to the Argo community and what the open decision-making process looks like. 
+Before submitting the ticket please ensure you understand which [projects](../community/ecosystem-projects.md) could be added to the Argo community and what the open decision-making process looks like. 
 
 Once you are ready, please help the reviewer understand your project better by 
 answering the following questions in your onboarding proposal:
