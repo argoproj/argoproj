@@ -257,16 +257,16 @@ measured using the CNCF [DevStats project], GitHub activity history, and other m
 by which a history of contributions can be reliably determined.
 
 If an actively contributing member is accidentally removed this way, they may open an
-issue to quickly be re-instated. 
+issue to quickly be re-instated.
 
 After an extended period away from the project with no activity,
 removed members would need to re-familiarize themselves with the current state
-before being able to contribute effectively. 
+before being able to contribute effectively.
 
 
 ## Change in membership roles
 
-A change in membership role may be approved by consensus of the Argo Project leads and approvers. By convention, role changes are discussed in a meeting with Argo Project approvers before being finalized.
+A change in membership role may be approved by consensus of the Argo Project leads and approvers. By convention, role changes are discussed in a meeting with Argo Project approvers before being finalized. Role changes are generally reviewed on a quarterly basis.
 
 
 ## Appointment of Subproject Leads
