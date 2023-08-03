@@ -9,14 +9,18 @@ Sig security meetings include public and non-public sections and are held twice 
 Argo Project security policy and instructions for reporting issues are available [here](https://github.com/argoproj/argoproj/blob/master/SECURITY.md).
 
 ## Members
-| Name | Company | Email |
-|--------|------|------|
-| Alexander Matyushentsev | Intuit | |
-| Dan Garfield | Codefresh | dan@codefresh.io |
-| Hari Rongali | Intuit | |
-| Henrik Blixt | Intuit | Henrik_Blixt@intuit.com  |
-| Jann Fischer | RedHat | jfischer@redhat.com |
-| Jesse Suen | Akuity | |
-| Leonardo Luz | Intuit | |
-| Michael Crenshaw | Intuit | | 
-| Sasha Shapirov | Codefresh | sasha.shapirov@codefresh.io |
+| Name                                                    | Company   | Email                       |
+|---------------------------------------------------------|-----------|-----------------------------|
+| [Abhishek Veeramalla](https://github.com/iam-veermalla) | Red Hat   |                             |
+| [Alexander Matyushentsev](https://github.com/alexmt)    | Akuity    |                             |
+| [Dan Garfield](https://github.com/todaywasawesome)      | Codefresh | dan@codefresh.io            |
+| [Ed Lee](https://github.com/edlee2121)                  | Intuit    |                             |
+| [Henrik Blixt](https://github.com/hblixt)               | Intuit    | Henrik_Blixt@intuit.com     |
+| [Jann Fischer](https://github.com/jannfis)              | Red Hat   | jfischer@redhat.com         |
+| [Jesse Suen](https://github.com/jessesuen)              | Akuity    |                             |
+| [Leonardo Luz](https://github.com/leoluz)               | Intuit    |                             |
+| [Michael Crenshaw](https://github.com/crenshaw-dev)     | Intuit    |                             | 
+| [Pavel Kostohrys](https://github.com/pasha-codefresh)   | Codefresh |                             |
+| Sasha Shapiro                                           | Codefresh | sasha.shapirov@codefresh.io |
+| [William Tam](https://github.com/wtam2018)              | Red Hat   |                             |
+| [Zach Aller](https://github.com/zachaller)              | Intuit    |                             |
