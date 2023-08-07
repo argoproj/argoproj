@@ -53,9 +53,10 @@
 
 ## Alumni
 
-| Alumni           | GitHub ID                                   | Project Roles                | Affiliation                                |
-|------------------|---------------------------------------------|------------------------------|--------------------------------------------|
-| Simon Behar      | [simster7](https://github.com/simster7)     | Approver - Workflows         | [AirBnB](https://www.github.com/airbnb/)   |
-| Xianlu Chen      | [xianlubird](https://github.com/xianlubird) | Reviewer - Workflows         | [Alibaba Cloud](https://github.com/aliyun) |
-| Kareena Hirani   | [khhirani](https://github.com/khhirani)     | Approver - Rollouts          | Independent                                |
-| Daisuke Taniwaki | [dtaniwaki](https://github.com/dtaniwaki)   | Approver - Workflows, Events | [Ubie](https://ubie.life/)                 |
+| Alumni            | GitHub ID                                   | Project Roles                | Affiliation                                |
+|-------------------|---------------------------------------------|------------------------------|--------------------------------------------|
+| Simon Behar       | [simster7](https://github.com/simster7)     | Approver - Workflows         | [AirBnB](https://www.github.com/airbnb/)   |
+| Xianlu Chen       | [xianlubird](https://github.com/xianlubird) | Reviewer - Workflows         | [Alibaba Cloud](https://github.com/aliyun) |
+| Kareena Hirani    | [khhirani](https://github.com/khhirani)     | Approver - Rollouts          | Independent                                |
+| Mikhail Mazurskiy | [ash2k](https://github.com/ash2k)           | Reviewer - CD                | [GitLab](https://www.github.com/gitlab/)   |
+| Daisuke Taniwaki  | [dtaniwaki](https://github.com/dtaniwaki)   | Approver - Workflows, Events | [Ubie](https://ubie.life/)                 |
