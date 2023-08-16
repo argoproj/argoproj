@@ -37,7 +37,7 @@
 | Andrii Perenesenko        | [perenesenko](https://github.com/perenesenko)           | Reviewer - Rollouts                                   | [Capital One](https://github.com/capitalone/)   |
 | Hari Rongali              | [harikrongali](https://github.com/harikrongali)         | Reviewer - Rollouts                                   | [Lacework](https://github.com/lacework)         |
 | Regina Scott              | [reginapizza](https://github.com/reginapizza)           | Reviewer - CD                                         | [Red Hat](https://www.github.com/redhat/)       |
-| Ishita Sequeira           | [ishitasequeira](https://github.com/ishitasequeira)     | Reviewer - CD                                         | [Red Hat](https://www.github.com/redhat/)       |
+| Ishita Sequeira           | [ishitasequeira](https://github.com/ishitasequeira)     | Approver - CD                                         | [Red Hat](https://www.github.com/redhat/)       |
 | Ashutosh Singh            | [ashutosh16](https://github.com/ashutosh16)             | Reviewer - CD                                         | [Intuit](https://www.github.com/intuit/)        |
 | Daniel Soifer             | [daniel-codefresh](https://github.com/daniel-codefresh) | Reviewer - Events                                     | [Codefresh](https://www.github.com/codefresh/)  |
 | Isitha Subasinghe         | [isubasinghe](https://github.com/isubasinghe)           | Reviewer - Workflows                                  | [Pipekit](https://pipekit.io/)                  |
