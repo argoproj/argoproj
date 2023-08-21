@@ -268,7 +268,7 @@ before being able to contribute effectively.
 
 A change in membership role may be approved by consensus of the Argo Project leads and approvers. By convention, role changes are discussed in a meeting with Argo Project approvers before being finalized. Role changes are generally reviewed on a quarterly basis.
 
-The membership meeting should be attended by project leads and by approvers who have access to merge _any_ PR in their subproject. Approvers whose access is limited by the project's OWNERS file to a particular "scope" in the repo do not attend.
+The membership meeting should be attended by project leads and by unscoped approvers (i.e. those who have access to merge _any_ PR in their subproject). Scoped approvers (i.e. those whose access is limited by the project's OWNERS file to a particular "scope" in the repo) do not attend.
 
 ## Appointment of Subproject Leads
 
