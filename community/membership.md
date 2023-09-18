@@ -10,12 +10,12 @@ Argoproj. The Argo project is currently subdivided into four main subprojects:
 
 Responsibilities for roles are scoped to these subprojects.
 
-| Roles        | Responsibilities| Requirements  | Defined by|
-| -------------|:---------------|:-------------|:-------------|
-| member       | active contributor in the community | sponsored by 2 approvers or leads. multiple contributions to the project. | Argoproj GitHub org member|
-| reviewer     | review contributions from other members | sponsored by a lead. history of review and authorship in a subproject | OWNERS file reviewer entry|
-| approver     | approve accepting contributions     | sponsored by a lead. highly experienced and active reviewer + contributor to a subproject  | OWNERS file approver entry |
-| lead         | set direction and priorities for a subproject | demonstrated responsibility and excellent technical judgement for the subproject |  OWNERS file owner entry |
+| Roles    | Responsibilities                              | Requirements                                                                              | Defined by                 |
+|----------|:----------------------------------------------|:------------------------------------------------------------------------------------------|:---------------------------|
+| member   | active contributor in the community           | sponsored by 2 approvers or leads. multiple contributions to the project.                 | Argoproj GitHub org member |
+| reviewer | review contributions from other members       | sponsored by a lead. history of review and authorship in a subproject                     | OWNERS file reviewer entry |
+| approver | approve accepting contributions               | sponsored by a lead. highly experienced and active reviewer + contributor to a subproject | OWNERS file approver entry |
+| lead     | set direction and priorities for a subproject | demonstrated responsibility and excellent technical judgement for the subproject          | OWNERS file owner entry    |
 
 
 
@@ -197,12 +197,12 @@ directly or through delegation of these responsibilities.
 
 ### Requirements
 
-The process for becoming an subproject lead should be defined in the SIG
+The process for becoming a subproject lead should be defined in the SIG
 charter of the SIG owning the subproject.  Unlike the roles outlined above, the
 Leads of a subproject are typically limited to a relatively small group of
 decision makers and updated as fits the needs of the subproject.
 
-The following apply to the subproject for which one would be an lead.
+The following apply to the subproject for which one would be a lead.
 
 - Deep understanding of the technical goals and direction of the subproject
 - Deep understanding of the technical domain of the subproject
@@ -268,6 +268,7 @@ before being able to contribute effectively.
 
 A change in membership role may be approved by consensus of the Argo Project leads and approvers. By convention, role changes are discussed in a meeting with Argo Project approvers before being finalized. Role changes are generally reviewed on a quarterly basis.
 
+The membership meeting should be attended by project leads and by unscoped approvers (i.e. those who have access to merge _any_ PR in their subproject). Scoped approvers (i.e. those whose access is limited by the project's OWNERS file to a particular "scope" in the repo) do not attend.
 
 ## Appointment of Subproject Leads
 
