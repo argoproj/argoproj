@@ -23,17 +23,18 @@
 | Soumya Ghosh Dastidar     | [gdsoumya](https://github.com/gdsoumya)                 | Reviewer - CD                                         | [Akuity](https://akuity.io/)                    |
 | Alex Eftimie              | [alexef](https://github.com/alexef)                     | Reviewer - CD                                         | [GetYourGuide](https://www.getyourguide.com/)   |
 | Jann Fischer              | [jannfis](https://github.com/jannfis)                   | Approver - CD                                         | [Red Hat](https://www.github.com/redhat/)       |
-| Dan Garfield              | [todaywasawesome](https://github.com/todaywasawesome)   | Reviewer                                              | [Codefresh](https://www.github.com/codefresh/)  |
+| Dan Garfield              | [todaywasawesome](https://github.com/todaywasawesome)   | Approver(docs) - CD                                   | [Codefresh](https://www.github.com/codefresh/)  |
 | Ravi Hari                 | [RaviHari](https://github.com/RaviHari)                 | Reviewer - Rollouts                                   | [Intuit](https://www.github.com/intuit/)        |
 | Hui Kang                  | [huikang](https://github.com/huikang)                   | Approver - Rollouts                                   | [Salesforce](https://salesforce.com/)           |
 | Saumeya Katyal            | [saumeya](https://github.com/saumeya)                   | Reviewer - CD                                         | [Red Hat](https://www.github.com/redhat/)       |
 | Kostis Kapelonis          | [kostis-codefresh](https://github.com/kostis-codefresh) | Reviewer - Rollouts                                   | [Codefresh](https://www.github.com/codefresh/)  |
 | Pasha Kostohrys           | [pasha-codefresh](https://github.com/pasha-codefresh)   | Approver - CD                                         | [Codefresh](https://www.github.com/codefresh/)  |
 | Ed Lee                    | [edlee2121](https://github.com/edlee2121)               | Approver - Workflows, Events                          | [Intuit](https://www.github.com/intuit/)        |
-| Justin Marquis            | [34fathombelow](https://github.com/34fathombelow)       | Reviewer - CD                                         | [Akuity](https://akuity.io/)                    |
+| Justin Marquis            | [34fathombelow](https://github.com/34fathombelow)       | Approver(docs/ci) - CD                                | [Akuity](https://akuity.io/)                    |
 | Alexander Matyushentsev   | [alexmt](https://github.com/alexmt)                     | Lead - CD, Rollouts <br/>Approver - Workflows         | [Akuity](https://akuity.io/)                    |
+| Nicholas Morey            | [morey-tech](https://github.com/morey-tech)             | Reviewer(docs) - CD                                   | [Akuity](https://akuity.io/)                    |
 | Vaibhav Page              | [VaibhavPage](https://github.com/VaibhavPage)           | Lead - Events                                         | [Black Rock](https://www.github.com/blackrock/) |
-| Blake Pettersson          | [blakepettersson](https://github.com/blakepettersson)   | Reviewer - CD                                         | [Krobier](https://www.krobier.com)              |
+| Blake Pettersson          | [blakepettersson](https://github.com/blakepettersson)   | Approver(docs) - CD                                   | [Krobier](https://www.krobier.com)              |
 | Andrii Perenesenko        | [perenesenko](https://github.com/perenesenko)           | Reviewer - Rollouts                                   | [Capital One](https://github.com/capitalone/)   |
 | Hari Rongali              | [harikrongali](https://github.com/harikrongali)         | Reviewer - Rollouts                                   | [Lacework](https://github.com/lacework)         |
 | Regina Scott              | [reginapizza](https://github.com/reginapizza)           | Reviewer - CD                                         | [Red Hat](https://www.github.com/redhat/)       |
