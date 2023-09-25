@@ -73,8 +73,12 @@ Defined by: Member of the Argoproj GitHub organization
 
 ### Responsibilities and privileges
 
-- Have the ability to moderate GitHub discussions
-- Have the ability to triage GitHub issues through labeling
+- Have the ability to _moderate_ GitHub discussions
+  - This includes editing and hiding comments, labeling and closing discussions, and selecting an answer (when applicable)
+  - This does _not_ include editing the opening comment
+- Have the ability to _triage_ GitHub issues and pull requests
+  - This includes labeling, closing or re-opening, adding to projects, assigning, and adding reviewers
+  - This does _not_ include editing or hiding comments nor creating, deleting, or modifying labels or projects themselves
 - Responsive to issues and PRs assigned to them
 - Responsive to mentions of subprojects they are members of
 - Active owner of code they have contributed (unless ownership is explicitly transferred)
