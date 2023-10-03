@@ -3,7 +3,7 @@
 ## About
 
 
-The [Argo Project](https://github.com/argoproj) consists of four core projects that implement the main use-cases. 
+The [Argo Project](https://github.com/argoproj) consists of four core sub-projects that implement the main use-cases. 
 For the purposes of governance, [Argo Helm](https://github.com/argoproj/argo-helm) acts as a "fifth project."
 In addition to the core project repositories the [Argo Project Labs](https://github.com/argoproj-labs) organization hosts repositories of dependencies and ecosystem projects associated with the core projects.
 

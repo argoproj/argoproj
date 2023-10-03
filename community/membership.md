@@ -1,12 +1,14 @@
 # Community Membership
 
 This document outlines the various responsibilities of contributor roles in
-Argoproj. The Argo project is currently subdivided into four main subprojects:
+Argoproj. The Argo project is currently subdivided into four core sub-projects:
 
 * [Argo Workflows](https://github.com/argoproj/argo-workflows)
 * [Argo CD](https://github.com/argoproj/argo-cd)
 * [Argo Events](https://github.com/argoproj/argo-events)
 * [Argo Rollouts](https://github.com/argoproj/argo-rollouts)
+
+For the purposes of governance, [Argo Helm](https://github.com/argoproj/argo-helm) serves as a fifth sub-project.
 
 Responsibilities for roles are scoped to these subprojects.
 
@@ -58,7 +60,7 @@ Defined by: Member of the Argoproj GitHub organization
 - Sponsored by 2 approvers or leads. **Note the following requirements for sponsors**:
     - Sponsors must have close interactions with the prospective member - e.g. code/design/proposal review, coordinating
       on issues, etc.
-    - Sponsors must be approvers in at least 1 OWNERS file either in any of the four main subprojects in the [Argoproj org].
+    - Sponsors must be approvers in at least 1 OWNERS file either in any of the four core sub-projects in the [Argoproj org].
       - An approver in the [Argoproj org] may sponsor someone for the [Argoproj org]
       or any of the related [Argoproj GitHub organizations]; as long as it's a project they're involved with.
       - A sponsor who is an approver in any of the related [Argoproj GitHub organizations]
