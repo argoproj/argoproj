@@ -1,5 +1,5 @@
 # Argo Governance
-This document outlines the governance for the overall Argo Project and the four core sub-projects contained within, as well as the argo-helm subproject.  
+This document outlines the governance for the overall Argo Project and the four core sub-projects contained within, as well as the argo-helm sub-project.  
 
 ## Roles and Membership
 Roles are described in the [Community Membership](https://github.com/argoproj/argoproj/blob/master/community/membership.md) document
