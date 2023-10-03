@@ -3,11 +3,13 @@
 ## About
 
 
-The [Argo Project](https://github.com/argoproj) consists of four core projects that implement the main use-cases. In addition to the core project repositories the [Argo Project Labs](https://github.com/argoproj-labs) organization hosts repositories of dependencies and ecosystem projects associated with the core projects.
+The [Argo Project](https://github.com/argoproj) consists of four core projects that implement the main use-cases. 
+For the purposes of governance, [Argo Helm](https://github.com/argoproj/argo-helm) acts as a "fifth project."
+In addition to the core project repositories the [Argo Project Labs](https://github.com/argoproj-labs) organization hosts repositories of dependencies and ecosystem projects associated with the core projects.
 
 * Core project dependencies are projects which are either shared code libraries (such as [gitops-engine](https://github.com/argoproj/gitops-engine),
 [pkg](https://github.com/argoproj/pkg) or [argo-ui](https://github.com/argoproj/argo-ui) ) or repositories that host release/deployments
-artifacts ( such as [argo-helm](https://github.com/argoproj/argo-helm), or [homebrew-tap](https://github.com/argoproj/homebrew-tap) ). 
+artifacts or [homebrew-tap](https://github.com/argoproj/homebrew-tap)). 
 
 * The ecosystem projects are those projects which implement experimental features or opinionated use cases that are useful for the sub-set of users.
 

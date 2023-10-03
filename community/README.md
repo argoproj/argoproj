@@ -27,6 +27,10 @@ The projects are:
 * [Argo Workflows](https://github.com/argoproj/argo-workflows) - Container-native Workflow Engine
 * [Argo Rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery with support for Canary and Blue Green deployment strategies
 
+For the purpose of governance, there is one additional project:
+
+* [Argo Helm](https://github.com/argoproj/argo-helm) - Helm chart for Argo
+
 ## Community Meetings
 
 Approvers and leads for each project are responsible for organizing regular community meetings to provide status updates and solicit feedback.
