@@ -1,5 +1,4 @@
 owners:
-- alexec
 - alexmt
 - jessesuen
 - sarabala1979
@@ -9,8 +8,10 @@ owners:
 - zachaller
 
 approvers:
+- alexec
 - crenshaw-dev
 - huikang
+- ishitasequeira
 - jannfis
 - jgwest
 - juliev0
@@ -24,7 +25,7 @@ reviewers:
 - 34fathombelow
 - agrawroh
 - alexef
-- ash2k
+- ashutosh16
 - blakepettersson
 - chetan-rns
 - ciiay
@@ -32,7 +33,6 @@ reviewers:
 - gdsoumya
 - harikrongali
 - hblixt
-- ishitasequeira
 - isubasinghe
 - kostis-codefresh
 - perenesenko

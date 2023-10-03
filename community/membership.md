@@ -10,12 +10,12 @@ Argoproj. The Argo project is currently subdivided into four main subprojects:
 
 Responsibilities for roles are scoped to these subprojects.
 
-| Roles        | Responsibilities| Requirements  | Defined by|
-| -------------|:---------------|:-------------|:-------------|
-| member       | active contributor in the community | sponsored by 2 approvers or leads. multiple contributions to the project. | Argoproj GitHub org member|
-| reviewer     | review contributions from other members | sponsored by a lead. history of review and authorship in a subproject | OWNERS file reviewer entry|
-| approver     | approve accepting contributions     | sponsored by a lead. highly experienced and active reviewer + contributor to a subproject  | OWNERS file approver entry |
-| lead         | set direction and priorities for a subproject | demonstrated responsibility and excellent technical judgement for the subproject |  OWNERS file owner entry |
+| Roles    | Responsibilities                              | Requirements                                                                              | Defined by                 |
+|----------|:----------------------------------------------|:------------------------------------------------------------------------------------------|:---------------------------|
+| member   | active contributor in the community           | sponsored by 2 approvers or leads. multiple contributions to the project.                 | Argoproj GitHub org member |
+| reviewer | review contributions from other members       | sponsored by a lead. history of review and authorship in a subproject                     | OWNERS file reviewer entry |
+| approver | approve accepting contributions               | sponsored by a lead. highly experienced and active reviewer + contributor to a subproject | OWNERS file approver entry |
+| lead     | set direction and priorities for a subproject | demonstrated responsibility and excellent technical judgement for the subproject          | OWNERS file owner entry    |
 
 
 
@@ -73,8 +73,12 @@ Defined by: Member of the Argoproj GitHub organization
 
 ### Responsibilities and privileges
 
-- Have the ability to moderate GitHub discussions
-- Have the ability to triage GitHub issues through labeling
+- Have the ability to _moderate_ GitHub discussions
+  - This includes editing and hiding comments, labeling and closing discussions, and selecting an answer (when applicable)
+  - This does _not_ include editing the opening comment
+- Have the ability to _triage_ GitHub issues and pull requests
+  - This includes labeling, closing or re-opening, adding to projects, assigning, and adding reviewers
+  - This does _not_ include editing or hiding comments nor creating, deleting, or modifying labels or projects themselves
 - Responsive to issues and PRs assigned to them
 - Responsive to mentions of subprojects they are members of
 - Active owner of code they have contributed (unless ownership is explicitly transferred)
@@ -197,12 +201,12 @@ directly or through delegation of these responsibilities.
 
 ### Requirements
 
-The process for becoming an subproject lead should be defined in the SIG
+The process for becoming a subproject lead should be defined in the SIG
 charter of the SIG owning the subproject.  Unlike the roles outlined above, the
 Leads of a subproject are typically limited to a relatively small group of
 decision makers and updated as fits the needs of the subproject.
 
-The following apply to the subproject for which one would be an lead.
+The following apply to the subproject for which one would be a lead.
 
 - Deep understanding of the technical goals and direction of the subproject
 - Deep understanding of the technical domain of the subproject
@@ -257,23 +261,35 @@ measured using the CNCF [DevStats project], GitHub activity history, and other m
 by which a history of contributions can be reliably determined.
 
 If an actively contributing member is accidentally removed this way, they may open an
-issue to quickly be re-instated. 
+issue to quickly be re-instated.
 
 After an extended period away from the project with no activity,
 removed members would need to re-familiarize themselves with the current state
-before being able to contribute effectively. 
+before being able to contribute effectively.
 
 
 ## Change in membership roles
 
-A change in membership role may be approved by consensus of the Argo Project leads and approvers. By convention, role changes are discussed in a meeting with Argo Project approvers before being finalized.
+A change in membership role may be approved by consensus of the Argo Project leads and approvers. By convention, role changes are discussed in a meeting with Argo Project approvers before being finalized. Role changes are generally reviewed on a quarterly basis.
 
+The membership meeting should be attended by project leads and by unscoped approvers (i.e. those who have access to merge _any_ PR in their subproject). Scoped approvers (i.e. those whose access is limited by the project's OWNERS file to a particular "scope" in the repo) do not attend.
 
 ## Appointment of Subproject Leads
 
-Leads serve a unique and critical role in the direction and organization of each subproject. Each subproject will generally have two co-leads, who share responsibility. There is no fixed term for leads and they often serve until they retire or, in rare cases, are replaced by [voting](GOVERNANCE.md). Leads are encouraged to give other qualified members of the community an opportunity to serve. Former leads are welcome to nominate themelves again in the future.
+Leads serve a unique and critical role in the direction and organization of each subproject. Each subproject will generally have two co-leads, who share responsibility. There is no fixed term for leads and they often serve until they retire or, in rare cases, are replaced by [voting](GOVERNANCE.md). Leads are encouraged to give other qualified members of the community an opportunity to serve. Former leads are welcome to nominate themselves again in the future.
 
-When a new lead needs to be chosen for a subproject, the availability of the role must be communicated in advance to the Argo maintainer community. Any qualified maintainer may nominate themself for the role. The final decision for the appointment of a new lead will be made by consensus of existing Argo Project leads and approvers.
+When a new lead needs to be chosen for a subproject, the availability of the role must be announced in advance to the Argo maintainer community. Any qualified maintainer may nominate themselves for the role. The final decision for the appointment of a new lead will be made by consensus of existing Argo Project leads and approvers.
+
+The announcement should be posted in the #argo-maintainers Slack channel by an existing lead. The announcement should follow this model:
+
+```
+Argoproj leadership is considering adding a lead for the <project> subproject. If you would like to nominate yourself or 
+someone else, please open an issue in this repo: https://github.com/argoproj/argoproj/issues
+
+If you have any feedback about the current nominee(s), please comment on the issue nominating them.
+```
+
+This announcement should be posted at least two weeks before any vote is held to actually appoint a new lead.
 
 Key factors in the selection of new subproject leads are:
 - History of participation and leadership in the Argo project and user communities.
