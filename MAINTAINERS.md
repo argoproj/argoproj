@@ -37,7 +37,7 @@
 | Vlad Losev                | [vladlosev](https://github.com/vladlosev)               | Approver - Helm (Workflows)                           |                                                 |
 | Justin Marquis            | [34fathombelow](https://github.com/34fathombelow)       | Approver(docs/ci) - CD                                | [Akuity](https://akuity.io/)                    |
 | Alexander Matyushentsev   | [alexmt](https://github.com/alexmt)                     | Lead - CD, Rollouts <br/>Approver - Workflows         | [Akuity](https://akuity.io/)                    |
-| Marco Maurer              | [mkilchofer](https://github.com/mkilchofer)             | Lead - Helm                                           | [Swiss Post](https://www.github.com/swisspost)  |
+| Marco Maurer              | [mkilchhofer](https://github.com/mkilchhofer)           | Lead - Helm                                           | [Swiss Post](https://www.github.com/swisspost)  |
 | Jason Meridth             | [jmeridth](https://github.com/jmeridth)                 | Lead - Helm                                           | [Procore](https://www.github.com/procore)       |
 | Nicholas Morey            | [morey-tech](https://github.com/morey-tech)             | Reviewer(docs) - CD                                   | [Akuity](https://akuity.io/)                    |
 | Vaibhav Page              | [VaibhavPage](https://github.com/VaibhavPage)           | Lead - Events                                         | [Black Rock](https://www.github.com/blackrock/) |
