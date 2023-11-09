@@ -169,9 +169,12 @@ in an `OWNERS` file.
 - Reviewer for or author of at least 10 substantial PRs to the codebase, with the
   definition of substantial subject to the lead's discretion (e.g.
   refactors, enhancements rather than grammar correction or one-line pulls).
+- Exhibiting sound technical judgment through PR contributions
+- Exhibiting sound technical judgment through PR reviews
 - Sponsored by a subproject lead
   - With no objections from other leads
   - Done through PR to update the OWNERS file
+
 
 ### Responsibilities and privileges
 
