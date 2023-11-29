@@ -23,8 +23,8 @@ Sig marketing meetings are held twice monthly. Meetings can be found in the [Arg
 | Name | Company | Email |
 |--------------------------|-------------|---------------------|
 | Henrik Blixt | Intuit | Henrik_Blixt@intuit.com  |
-| Sharon Chitayat | Codefresh | sharon.chitayat@codefresh.io  |
+| Dan Garfield | Codefresh | dan@codefresh.io
 | Wojtek Cichoń | Akuity | wojtek@akuity.io  |
-| Christian Hernandez | Red Hat | christian@redhat.com  |
+| Christian Hernandez | Akuity | christian@akuity.io  |
 | Hong Wang | Akuity | hong@akuity.io  |
 | Caelan Urquhart | Pipekit | caelan_u@pipekit.io |
