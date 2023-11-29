@@ -27,3 +27,4 @@ Sig marketing meetings are held twice monthly. Meetings can be found in the [Arg
 | Wojtek Cichoń | Akuity | wojtek@akuity.io  |
 | Christian Hernandez | Red Hat | christian@redhat.com  |
 | Hong Wang | Akuity | hong@akuity.io  |
+| Meghan Murphy | Intuit | Meghan_Murphy@intuit.com |
