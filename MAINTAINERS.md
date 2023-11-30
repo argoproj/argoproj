@@ -44,7 +44,7 @@
 | Daniel Soifer             | [daniel-codefresh](https://github.com/daniel-codefresh) | Reviewer - Events                                      | [Codefresh](https://www.github.com/codefresh/) |
 | Isitha Subasinghe         | [isubasinghe](https://github.com/isubasinghe)           | Reviewer - Workflows                                   | [Pipekit](https://pipekit.io/)                 |
 | Jesse Suen                | [jessesuen](https://github.com/jessesuen)               | Lead - CD, Rollouts <br/>Approver - Workflows, Events  | [Akuity](https://akuity.io/)                   |
-| Yuan Tang                 | [terrytangyuan](https://github.com/terrytangyuan)       | Lead - Workflows <br/>Reviewer - CD                    | [Akuity](https://akuity.io/)                   |
+| Yuan Tang                 | [terrytangyuan](https://github.com/terrytangyuan)       | Lead - Workflows <br/>Reviewer - CD                    | [Red Hat](https://www.github.com/redhat/)                   |
 | William Tam               | [wtam2018](https://github.com/wtam2018)                 | Reviewer - CD                                          | [Red Hat](https://www.github.com/redhat/)      |
 | Julie Vogelman            | [juliev0](https://github.com/juliev0)                   | Approver - Workflows                                   | [Intuit](https://www.github.com/intuit/)       |
 | Derek Wang                | [whynowy](https://github.com/whynowy)                   | Lead - Events                                          | [Intuit](https://www.github.com/intuit/)       |
