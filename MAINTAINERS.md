@@ -36,7 +36,7 @@
 | Marco Maurer              | [mkilchhofer](https://github.com/mkilchhofer)           | Approver(helm-chart) - CD, Events, Rollouts, Workflows | [Swiss Post](https://post.ch/)                 |
 | Jason Meridth             | [jmeridth](https://github.com/jmeridth)                 | Approver(helm-chart) - CD, Events, Rollouts, Workflows | [Procore](https://www.procore.com/)            |
 | Nicholas Morey            | [morey-tech](https://github.com/morey-tech)             | Reviewer(docs) - CD                                    | [Akuity](https://akuity.io/)                   |
-| Blake Pettersson          | [blakepettersson](https://github.com/blakepettersson)   | Approver(docs) - CD                                    | [Krobier](https://www.krobier.com)             |
+| Blake Pettersson          | [blakepettersson](https://github.com/blakepettersson)   | Approver(docs) - CD                                    | [Akuity](https://akuity.io/)                   |
 | Hari Rongali              | [harikrongali](https://github.com/harikrongali)         | Reviewer - Rollouts                                    | [Lacework](https://github.com/lacework)        |
 | Regina Scott              | [reginapizza](https://github.com/reginapizza)           | Reviewer - CD                                          | [Red Hat](https://www.github.com/redhat/)      |
 | Ishita Sequeira           | [ishitasequeira](https://github.com/ishitasequeira)     | Approver - CD                                          | [Red Hat](https://www.github.com/redhat/)      |
@@ -44,7 +44,7 @@
 | Daniel Soifer             | [daniel-codefresh](https://github.com/daniel-codefresh) | Reviewer - Events                                      | [Codefresh](https://www.github.com/codefresh/) |
 | Isitha Subasinghe         | [isubasinghe](https://github.com/isubasinghe)           | Reviewer - Workflows                                   | [Pipekit](https://pipekit.io/)                 |
 | Jesse Suen                | [jessesuen](https://github.com/jessesuen)               | Lead - CD, Rollouts <br/>Approver - Workflows, Events  | [Akuity](https://akuity.io/)                   |
-| Yuan Tang                 | [terrytangyuan](https://github.com/terrytangyuan)       | Lead - Workflows <br/>Reviewer - CD                    | [Red Hat](https://www.github.com/redhat/)                   |
+| Yuan Tang                 | [terrytangyuan](https://github.com/terrytangyuan)       | Lead - Workflows <br/>Reviewer - CD                    | [Red Hat](https://www.github.com/redhat/)      |
 | William Tam               | [wtam2018](https://github.com/wtam2018)                 | Reviewer - CD                                          | [Red Hat](https://www.github.com/redhat/)      |
 | Julie Vogelman            | [juliev0](https://github.com/juliev0)                   | Approver - Workflows                                   | [Intuit](https://www.github.com/intuit/)       |
 | Derek Wang                | [whynowy](https://github.com/whynowy)                   | Lead - Events                                          | [Intuit](https://www.github.com/intuit/)       |
