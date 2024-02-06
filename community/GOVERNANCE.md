@@ -2,9 +2,9 @@
 This document outlines the governance for the overall Argo Project and the four sub-projects contained within.  
 
 ## Roles and Membership
-Roles are described in the [Community Membership](https://github.com/argoproj/argoproj/blob/master/community/membership.md) document
+Roles are described in the [Community Membership](https://github.com/argoproj/argoproj/blob/master/community/membership.md) document.
 For the purpose of governance, reviewers, approvers and leads are considered maintainers.
-The list of current maintainers, their project and organizational affiliation(s)is maintained in the [MAINTAINERS](https://github.com/argoproj/argoproj/blob/master/MAINTAINERS.md) file.
+The list of current maintainers and their project and organizational affiliations are maintained in the [MAINTAINERS](https://github.com/argoproj/argoproj/blob/master/MAINTAINERS.md) file.
 
 
 ## Conflict Resolution and Voting

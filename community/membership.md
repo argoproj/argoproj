@@ -37,7 +37,7 @@ below.
 
 
 
-## Member
+### Member
 
 Members are continuously active contributors in the community. They can have issues and PRs 
 assigned to them. Members are expected to remain active contributors to the community. Members are
@@ -46,7 +46,7 @@ facilitate issue management and moderate discussions.
 
 Defined by: Member of the Argoproj GitHub organization
 
-### Requirements
+#### Requirements
 
 - Enabled [two-factor authentication] on their GitHub account
 - Have made multiple contributions to the project or community.  Contribution may include, but is not limited to:
@@ -71,7 +71,7 @@ Defined by: Member of the Argoproj GitHub organization
 - Have your sponsoring reviewers reply confirmation of sponsorship: `+1`
 - Once your sponsors have responded, your request will be reviewed by the project leads. Any missing information will be requested.
 
-### Responsibilities and privileges
+#### Responsibilities and privileges
 
 - Have the ability to _moderate_ GitHub discussions
   - This includes editing and hiding comments, labeling and closing discussions, and selecting an answer (when applicable)
@@ -93,8 +93,11 @@ perform code reviews and work towards becoming a primary *reviewer* for the
 subproject that they are active in.
 
 
+### Maintainers
 
-## Reviewer
+Reviewers, approvers and leads are considered maintainers.
+
+#### Reviewer
 
 Reviewers are able to review code for quality and correctness on some part of a
 subproject. They are knowledgeable about both the codebase and software
@@ -112,7 +115,7 @@ While these guidelines are going to be used for setting contribution expectation
 the maintainers will recognize the impact of an individual's contribution while 
 making a decision on promotion an individual to a "reviewer."
 
-### Requirements
+##### Requirements
 
 The following apply to the part of codebase for which one would be a reviewer in
 an `OWNERS` file.
@@ -128,7 +131,7 @@ an `OWNERS` file.
   - Done through PR to update the OWNERS file
 - May either self-nominate, be nominated by an approver in the subproject
 
-### Responsibilities and privileges
+##### Responsibilities and privileges
 
 The following apply to the part of codebase for which one would be a reviewer in
 an `OWNERS` file.
@@ -145,7 +148,7 @@ an `OWNERS` file.
 
 
 
-## Approver
+#### Approver
 
 Code approvers are able to both review and approve code contributions as well as 
 help subproject leads triage issues and with project management.
@@ -160,7 +163,7 @@ Argoproj project.
 
 Approver status is scoped to a part of the codebase.
 
-### Requirements
+##### Requirements
 
 The following apply to the part of codebase for which one would be an approver
 in an `OWNERS` file.
@@ -176,7 +179,7 @@ in an `OWNERS` file.
   - Done through PR to update the OWNERS file
 
 
-### Responsibilities and privileges
+##### Responsibilities and privileges
 
 The following apply to the part of codebase for which one would be an approver
 in an `OWNERS` file.
@@ -192,7 +195,7 @@ in an `OWNERS` file.
 
 
 
-## Lead
+#### Lead
 
 Subproject Leads are the technical authority for a subproject in the Argo
 project.  They *MUST* have demonstrated both good judgement and responsibility
@@ -202,7 +205,7 @@ directly or through delegation of these responsibilities.
 
 **Defined by:** *owners* entry in subproject `OWNERS` files
 
-### Requirements
+##### Requirements
 
 The process for becoming a subproject lead should be defined in the SIG
 charter of the SIG owning the subproject.  Unlike the roles outlined above, the
@@ -219,7 +222,7 @@ The following apply to the subproject for which one would be a lead.
   - Identifying subtle or complex issues in designs and implementation PRs
 - Directly contributed to the subproject through code and reviews, including contributions demonstrating strong technical understanding and implementation complexity.
 
-### Responsibilities and privileges
+##### Responsibilities and privileges
 
 The following apply to the subproject for which one would be an lead.
 
@@ -237,8 +240,9 @@ The following apply to the subproject for which one would be an lead.
 - Promote and foster the community (e.g. hosting meetings, workshops, partner engagements, collaborations)
 
 
+## Membership Management
 
-## Inactive members
+### Inactive members
 
 _Members are continuously active contributors in the community._
 
@@ -256,7 +260,7 @@ go through the org membership process again after re-familiarizing themselves
 with the current state.
 
 
-### How inactivity is measured
+#### How inactivity is measured
 
 Inactive members are defined as members of one of the Argoproj Organizations
 with no significant contributions within the last 12 months. Contributions are
@@ -271,13 +275,13 @@ removed members would need to re-familiarize themselves with the current state
 before being able to contribute effectively.
 
 
-## Change in membership roles
+### Change in membership roles
 
 A change in membership role may be approved by consensus of the Argo Project leads and approvers. By convention, role changes are discussed in a meeting with Argo Project approvers before being finalized. Role changes are generally reviewed on a quarterly basis.
 
 The membership meeting should be attended by project leads and by unscoped approvers (i.e. those who have access to merge _any_ PR in their subproject). Scoped approvers (i.e. those whose access is limited by the project's OWNERS file to a particular "scope" in the repo) do not attend.
 
-## Appointment of Subproject Leads
+### Appointment of Subproject Leads
 
 Leads serve a unique and critical role in the direction and organization of each subproject. Each subproject will generally have two co-leads, who share responsibility. There is no fixed term for leads and they often serve until they retire or, in rare cases, are replaced by [voting](GOVERNANCE.md). Leads are encouraged to give other qualified members of the community an opportunity to serve. Former leads are welcome to nominate themselves again in the future.
 
