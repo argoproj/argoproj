@@ -3,15 +3,16 @@ owners:
 - jessesuen
 - sarabala1979
 - terrytangyuan
-- VaibhavPage
 - whynowy
 - zachaller
 
 approvers:
+- agilgur5
 - alexec
 - crenshaw-dev
-- huikang
+- gdsoumya
 - ishitasequeira
+- isubasinghe
 - jannfis
 - jgwest
 - juliev0
@@ -30,12 +31,10 @@ reviewers:
 - chetan-rns
 - ciiay
 - daniel-codefresh
-- gdsoumya
 - harikrongali
 - hblixt
-- isubasinghe
+- joibel
 - kostis-codefresh
-- perenesenko
 - RaviHari
 - reginapizza
 - saumeya
