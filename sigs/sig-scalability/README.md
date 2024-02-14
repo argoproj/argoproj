@@ -19,7 +19,7 @@ To join, create a pull request adding yourself to the list below.
 <!-- Alphanumeric order based on `Name` -->
 | Name                                                   | Company   | Email |
 | ------------------------------------------------------ | --------- | ----- |
-| [Alexandre Gaudreault](https://github.com/agaudreault) | AWS       |       |
+| [Alexandre Gaudreault](https://github.com/agaudreault) | Intuit    |       |
 | [Andrew Lee](https://github.com/andklee)               | AWS       |       |
 | [Carlos Santana](https://github.com/csantanapr)        | AWS       |       |
 | [Dan Garfield](https://github.com/todaywasawesome)     | Codefresh |       |
