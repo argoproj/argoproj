@@ -17,17 +17,18 @@ Membership is open to any interested person in the Argo community.
 To join, create a pull request adding yourself to the list below.
 
 <!-- Alphanumeric order based on `Name` -->
-| Name                                                 | Company   | Email |
-|------------------------------------------------------|-----------|-------|
-| [Andrew Lee](https://github.com/andklee)             | AWS       |       |
-| [Carlos Santana](https://github.com/csantanapr)      | AWS       |       |
-| [Dan Garfield](https://github.com/todaywasawesome)   | Codefresh |       |
-| [Ishita Sequeira](https://github.com/ishitasequeira) | Red Hat   |       |
-| [Jann Fischer](https://github.com/jannfis)           | Red Hat   |       |
-| [Jun Duan](https://github.com/waltforme)             | IBM       |       |
-| [Leonardo Luz Almeida](https://github.com/leoluz)    | Intuit    |       |
-| [Michael Crenshaw](https://github.com/crenshaw-dev)  | Intuit    |       |
-| [Nicholas Morey](https://github.com/morey-tech)      | Akuity    |       |
-| [Nima Kaviani](https://github.com/nimakaviani)       | AWS       |       |
-| [Vikram Sethi](https://github.com/vsethi)            | Adobe     |       |
-| [Zach Aller](https://github.com/zachaller)           | Intuit    |       |
+| Name                                                   | Company   | Email |
+| ------------------------------------------------------ | --------- | ----- |
+| [Alexandre Gaudreault](https://github.com/agaudreault) | AWS       |       |
+| [Andrew Lee](https://github.com/andklee)               | AWS       |       |
+| [Carlos Santana](https://github.com/csantanapr)        | AWS       |       |
+| [Dan Garfield](https://github.com/todaywasawesome)     | Codefresh |       |
+| [Ishita Sequeira](https://github.com/ishitasequeira)   | Red Hat   |       |
+| [Jann Fischer](https://github.com/jannfis)             | Red Hat   |       |
+| [Jun Duan](https://github.com/waltforme)               | IBM       |       |
+| [Leonardo Luz Almeida](https://github.com/leoluz)      | Intuit    |       |
+| [Michael Crenshaw](https://github.com/crenshaw-dev)    | Intuit    |       |
+| [Nicholas Morey](https://github.com/morey-tech)        | Akuity    |       |
+| [Nima Kaviani](https://github.com/nimakaviani)         | AWS       |       |
+| [Vikram Sethi](https://github.com/vsethi)              | Adobe     |       |
+| [Zach Aller](https://github.com/zachaller)             | Intuit    |       |
