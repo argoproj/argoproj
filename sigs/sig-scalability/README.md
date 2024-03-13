@@ -31,3 +31,4 @@ To join, create a pull request adding yourself to the list below.
 | [Nima Kaviani](https://github.com/nimakaviani)       | AWS       |       |
 | [Vikram Sethi](https://github.com/vsethi)            | Adobe     |       |
 | [Zach Aller](https://github.com/zachaller)           | Intuit    |       |
+| [Stephen Schmidt](https://github.com/z3r0sum)        | Elastic   |       |
