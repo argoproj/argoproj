@@ -17,6 +17,7 @@ assignees: ''
 - [ ] I am actively contributing to 1 or more Argoproj subprojects
 - [ ] I have two sponsors that meet the sponsor requirements listed in the community membership guidelines
 - [ ] I have spoken to my sponsors ahead of this application, and they have agreed to sponsor my application
+- [ ] I understand that I can [make my membership public](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-your-membership-in-organizations/publicizing-or-hiding-organization-membership) if I'd like to once I am invited to the organization
 
 ### Sponsors
 - @<sponsor-1>
