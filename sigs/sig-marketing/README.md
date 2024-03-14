@@ -33,3 +33,4 @@ Sig marketing meetings are held twice monthly. Meetings can be found in the [Arg
 | Hong Wang | Akuity | hong@akuity.io  |
 | Harriet Lawrence | Red Hat | halawren@redhat.com |
 | Meghan Murphy | Intuit | Meghan_Murphy@intuit.com |
+| Caelan Urquhart | Pipekit | caelan_u@pipekit.io |
