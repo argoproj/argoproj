@@ -20,7 +20,7 @@
 | Remington Breeze          | [rbreeze](https://github.com/rbreeze)                   | Approver CD, Rollouts                                  | [Akuity](https://akuity.io/)                         |
 | Yi Cai                    | [ciiay](https://github.com/ciiay)                       | Reviewer - CD                                          | [Red Hat](https://www.github.com/redhat/)            |
 | Keith Chong               | [keithchong](https://github.com/keithchong)             | Approver - CD                                          | [Red Hat](https://www.github.com/redhat/)            |
-| Alan Clucas               | [Joibel](https://github.com/Joibel)                     | Reviewer - Workflows                                   | [Pipekit](https://www.pipekit.io/)                   |
+| Alan Clucas               | [Joibel](https://github.com/Joibel)                     | Approver - Workflows                                   | [Pipekit](https://www.pipekit.io/)                   |
 | Alex Collins              | [alexec](https://github.com/alexec)                     | Approver - Workflows <br/>Approver - CD                | [Intuit](https://www.github.com/intuit/)             |
 | Tim Collins               | [tico24](https://github.com/tico24)                     | Approver(helm-chart) - CD, Events, Workflows           | [Pipekit](https://pipekit.io/)                       |
 | Michael Crenshaw          | [crenshaw-dev](https://github.com/crenshaw-dev)         | Approver - CD                                          | [Intuit](https://www.github.com/intuit/)             |
@@ -29,8 +29,8 @@
 | Alex Eftimie              | [alexef](https://github.com/alexef)                     | Reviewer - CD                                          | [GetYourGuide](https://www.getyourguide.com/)        |
 | Jann Fischer              | [jannfis](https://github.com/jannfis)                   | Approver - CD                                          | [Red Hat](https://www.github.com/redhat/)            |
 | Dan Garfield              | [todaywasawesome](https://github.com/todaywasawesome)   | Approver(docs) - CD                                    | [Codefresh](https://www.github.com/codefresh/)       |
+| Alexandre Gaudreault      | [agaudreault](https://github.com/agaudreault)           | Reviewer - CD                                          | [Intuit](https://www.github.com/intuit/)             |
 | Anton Gilgur              | [agilgur5](https://github.com/agilgur5)                 | Approver - Workflows                                   | Independent                                          |
-| Ravi Hari                 | [RaviHari](https://github.com/RaviHari)                 | Reviewer - Rollouts                                    | [Intuit](https://www.github.com/intuit/)             |
 | Christian Hernandez       | [christianh814](https://github.com/christianh814)       | Reviewer(docs) - CD                                    | [Akuity](https://akuity.io/)                         |
 | Saumeya Katyal            | [saumeya](https://github.com/saumeya)                   | Reviewer - CD                                          | [Red Hat](https://www.github.com/redhat/)            |
 | Kostis Kapelonis          | [kostis-codefresh](https://github.com/kostis-codefresh) | Reviewer - Rollouts                                    | [Codefresh](https://www.github.com/codefresh/)       |
@@ -52,12 +52,13 @@
 | Jesse Suen                | [jessesuen](https://github.com/jessesuen)               | Lead - CD, Rollouts <br/>Approver - Workflows, Events  | [Akuity](https://akuity.io/)                         |
 | Yuan Tang                 | [terrytangyuan](https://github.com/terrytangyuan)       | Lead - Workflows <br/>Reviewer - CD                    | [Red Hat](https://www.github.com/redhat/)            |
 | William Tam               | [wtam2018](https://github.com/wtam2018)                 | Reviewer - CD                                          | [Red Hat](https://www.github.com/redhat/)            |
+| Shuangkun Tian            | [shuangkun](https://github.com/shuangkun)               | Reviewer - Workflows                                   | Alibaba                                              |
 | Julie Vogelman            | [juliev0](https://github.com/juliev0)                   | Approver - Workflows                                   | [Intuit](https://www.github.com/intuit/)             |
 | Derek Wang                | [whynowy](https://github.com/whynowy)                   | Lead - Events                                          | [Intuit](https://www.github.com/intuit/)             |
 | Hong Wang                 | [wanghong230](https://github.com/wanghong230)           | Reviewer                                               | [Akuity](https://akuity.io/)                         |
 | Jonathan West             | [jgwest](https://github.com/jgwest)                     | Approver - CD                                          | [Red Hat](https://www.github.com/redhat/)            |
 | May Zhang                 | [mayzhang2000](https://github.com/mayzhang2000)         | Approver - CD                                          | [Intuit](https://www.github.com/intuit/)             |
-| Tianchu Zhao              | [tczhao](https://github.com/tczhao)                     | Reviewer - Workflows                                   | Independent                                          |
+| Tianchu Zhao              | [tczhao](https://github.com/tczhao)                     | Approver - Workflows                                   | Independent                                          |
 
 ## Alumni
 
@@ -65,6 +66,7 @@
 |--------------------|-----------------------------------------------|------------------------------|-------------------------------------------------|
 | Simon Behar        | [simster7](https://github.com/simster7)       | Approver - Workflows         | [AirBnB](https://www.github.com/airbnb/)        |
 | Xianlu Chen        | [xianlubird](https://github.com/xianlubird)   | Reviewer - Workflows         | [Alibaba Cloud](https://github.com/aliyun)      |
+| Ravi Hari          | [RaviHari](https://github.com/RaviHari)       | Reviewer - Rollouts          | [Intuit](https://www.github.com/intuit/)        |
 | Kareena Hirani     | [khhirani](https://github.com/khhirani)       | Approver - Rollouts          | Independent                                     |
 | Hui Kang           | [huikang](https://github.com/huikang)         | Approver - Rollouts          | [Salesforce](https://salesforce.com/)           |
 | Mikhail Mazurskiy  | [ash2k](https://github.com/ash2k)             | Reviewer - CD                | [GitLab](https://www.github.com/gitlab/)        |
