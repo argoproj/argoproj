@@ -58,7 +58,7 @@
 | Hong Wang                 | [wanghong230](https://github.com/wanghong230)           | Reviewer                                               | [Akuity](https://akuity.io/)                         |
 | Jonathan West             | [jgwest](https://github.com/jgwest)                     | Approver - CD                                          | [Red Hat](https://www.github.com/redhat/)            |
 | May Zhang                 | [mayzhang2000](https://github.com/mayzhang2000)         | Approver - CD                                          | [Intuit](https://www.github.com/intuit/)             |
-| Tianchu Zhao              | [tczhao](https://github.com/tczhao)                     | Approver - Workflows                                   | Independent                                          |
+| Tianchu Zhao              | [tczhao](https://github.com/tczhao)                     | Approver - Workflows                                   | [Atlan](https://atlan.com/)                          |
 
 ## Alumni
 
