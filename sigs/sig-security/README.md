@@ -8,6 +8,12 @@ Sig security meetings include public and non-public sections and are held twice 
 ## Security Policy and Reporting Issues
 Argo Project security policy and instructions for reporting issues are available [here](https://github.com/argoproj/argoproj/blob/master/SECURITY.md).
 
+## Sig-Lead
+| Name                                                    | Company   | Email                       |
+|---------------------------------------------------------|-----------|-----------------------------|
+| [Michael Crenshaw](https://github.com/crenshaw-dev)     | Intuit    |                             |
+| [Jann Fischer](https://github.com/jannfis)              | RedHat    |                             |
+
 ## Members
 | Name                                                    | Company   | Email                       |
 |---------------------------------------------------------|-----------|-----------------------------|
