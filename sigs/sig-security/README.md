@@ -12,6 +12,7 @@ Argo Project security policy and instructions for reporting issues are available
 | Name                                                    | Company   | Email                       |
 |---------------------------------------------------------|-----------|-----------------------------|
 | [Michael Crenshaw](https://github.com/crenshaw-dev)     | Intuit    |                             |
+| [Jann Fischer](https://github.com/jannfis)              | RedHat    |                             |
 
 ## Members
 | Name                                                    | Company   | Email                       |
