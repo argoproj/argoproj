@@ -2,7 +2,7 @@
 name: Organization Reviewer Promotion Request
 about: Request promotion in a Argoproj Org
 title: 'REQUEST: Promotion to Reviewer for <your-GH-handle>'
-labels: area/github-membership
+labels: type/promotion-request
 assignees: ''
 
 ---

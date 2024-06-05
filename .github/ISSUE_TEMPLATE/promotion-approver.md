@@ -2,7 +2,7 @@
 name: Organization Approver Promotion Request
 about: Request promotion in a Argoproj Org
 title: 'REQUEST: Promotion to Approver for <your-GH-handle>'
-labels: area/github-membership
+labels: type/promotion-request
 assignees: ''
 
 ---
@@ -17,7 +17,7 @@ IMPORTANT: A request for promotion to Approver should be initiated by an Approve
 
 ### Sub-project(s)
 
-Promotion is requested for the following sub-project(s). 
+Promotion is requested for the following sub-project(s).
 
 - [ ] Argo CD
 - [ ] Argo Events
