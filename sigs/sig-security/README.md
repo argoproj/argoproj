@@ -8,11 +8,18 @@ Sig security meetings include public and non-public sections and are held twice 
 ## Security Policy and Reporting Issues
 Argo Project security policy and instructions for reporting issues are available [here](https://github.com/argoproj/argoproj/blob/master/SECURITY.md).
 
+## Sig-Lead
+| Name                                                    | Company   | Email                       |
+|---------------------------------------------------------|-----------|-----------------------------|
+| [Michael Crenshaw](https://github.com/crenshaw-dev)     | Intuit    |                             |
+| [Jann Fischer](https://github.com/jannfis)              | RedHat    |                             |
+
 ## Members
 | Name                                                    | Company   | Email                       |
 |---------------------------------------------------------|-----------|-----------------------------|
 | [Abhishek Veeramalla](https://github.com/iam-veermalla) | Red Hat   |                             |
 | [Alexander Matyushentsev](https://github.com/alexmt)    | Akuity    |                             |
+| [Chris van Dal](https://github.com/cvandal)                                           | Codefresh |  |
 | [Dan Garfield](https://github.com/todaywasawesome)      | Codefresh | dan@codefresh.io            |
 | [Ed Lee](https://github.com/edlee2121)                  | Intuit    |                             |
 | [Henrik Blixt](https://github.com/hblixt)               | Intuit    | Henrik_Blixt@intuit.com     |
@@ -21,6 +28,5 @@ Argo Project security policy and instructions for reporting issues are available
 | [Leonardo Luz](https://github.com/leoluz)               | Intuit    |                             |
 | [Michael Crenshaw](https://github.com/crenshaw-dev)     | Intuit    |                             | 
 | [Pavel Kostohrys](https://github.com/pasha-codefresh)   | Codefresh |                             |
-| Sasha Shapiro                                           | Codefresh | sasha.shapirov@codefresh.io |
 | [William Tam](https://github.com/wtam2018)              | Red Hat   |                             |
 | [Zach Aller](https://github.com/zachaller)              | Intuit    |                             |

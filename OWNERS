@@ -5,25 +5,28 @@ owners:
 - terrytangyuan
 - whynowy
 - zachaller
+- crenshaw-dev
 
 approvers:
 - agilgur5
 - alexec
-- crenshaw-dev
 - gdsoumya
 - ishitasequeira
 - isubasinghe
 - jannfis
 - jgwest
+- joibel
 - juliev0
 - keithchong
 - leoluz
 - mayzhang2000
 - pasha-codefresh
 - rbreeze
+- tczhao
 
 reviewers:
 - 34fathombelow
+- agaudreault
 - agrawroh
 - alexef
 - ashutosh16
@@ -33,13 +36,11 @@ reviewers:
 - daniel-codefresh
 - harikrongali
 - hblixt
-- joibel
 - kostis-codefresh
-- RaviHari
 - reginapizza
 - saumeya
 - sbose78
-- tczhao
+- shuangkun
 - todaywasawesome
 - wanghong230
 - wtam2018
