@@ -40,7 +40,7 @@
 | Justin Marquis            | [34fathombelow](https://github.com/34fathombelow)       | Approver(docs/ci) - CD                                 | [Akuity](https://akuity.io/)                         |
 | Alexander Matyushentsev   | [alexmt](https://github.com/alexmt)                     | Lead - CD, Rollouts <br/>Approver - Workflows          | [Akuity](https://akuity.io/)                         |
 | Marco Maurer              | [mkilchhofer](https://github.com/mkilchhofer)           | Approver(helm-chart) - CD, Events, Rollouts, Workflows | [Swiss Post](https://post.ch/)                       |
-| JM (Jason Meridth)        | [jmeridth](https://github.com/jmeridth)                 | Approver(helm-chart) - CD, Events, Rollouts, Workflows | [GitHub](https://github.com/)                  |
+| JM (Jason Meridth)        | [jmeridth](https://github.com/jmeridth)                 | Approver(helm-chart) - CD, Events, Rollouts, Workflows | [GitHub](https://github.com/)                        |
 | Nicholas Morey            | [morey-tech](https://github.com/morey-tech)             | Reviewer(docs) - CD                                    | [Akuity](https://akuity.io/)                         |
 | Blake Pettersson          | [blakepettersson](https://github.com/blakepettersson)   | Approver(docs) - CD                                    | [Akuity](https://akuity.io/)                         |
 | Hari Rongali              | [harikrongali](https://github.com/harikrongali)         | Reviewer - Rollouts                                    | [Lacework](https://github.com/lacework)              |
