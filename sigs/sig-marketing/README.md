@@ -15,22 +15,23 @@ Sig marketing meetings are held twice monthly. Meetings can be found in the [Arg
 ## Membership Roles
 | Role | Responsibilities | 
 |-------------------|------------------------------------------------------|
-| Member | Create and approve official communications (emails, social, blogs, etc). Manage and work on official events. Work in comittee on projects as deemed appropriate by ArgoProj maintainers. Provide regular updates to maintainers on marketing initiatives. |
-| Interested Party | Provide support, create content, and assist with sig-marketing intiatives. No nomination required to be added as an intersted party. |
+| Member | Create and approve official communications (emails, social, blogs, etc). Manage and work on official events. Work in committee on projects as deemed appropriate by ArgoProj maintainers. Provide regular updates to maintainers on marketing initiatives. |
+| Interested Party | Provide support, create content, and assist with sig-marketing initiatives. No nomination is required to be added as an interested party. |
 | Lead | Coordinates work in the SIG. Leads and runs the SIG Marketing meetings. Reports back on SIG Marketing completed and upcoming work to maintainers. |
 
 ## Sig-Lead
 | Name | Company | Email |
 |--------------------------|-------------|---------------------|
-| Dan Garfield | Codefresh | dan@codefresh.io |
+| Dan Garfield | Codefresh / Octopus Deploy | dan@codefresh.io |
 
 ## Members
 | Name | Company | Email |
 |--------------------------|-------------|---------------------|
-| Henrik Blixt | Intuit | Henrik_Blixt@intuit.com  |
-| Wojtek Cichoń | Akuity | wojtek@akuity.io  |
-| Christian Hernandez | Akuity | christian@akuity.io  |
-| Hong Wang | Akuity | hong@akuity.io  |
-| Harriet Lawrence | Red Hat | halawren@redhat.com |
-| Meghan Murphy | Intuit | Meghan_Murphy@intuit.com |
 | Caelan Urquhart | Pipekit | caelan_u@pipekit.io |
+| Christian Hernandez | Akuity | christian@akuity.io  |
+| Harriet Lawrence | Red Hat | halawren@redhat.com |
+| Henrik Blixt | Intuit | Henrik_Blixt@intuit.com  |
+| Hong Wang | Akuity | hong@akuity.io  |
+| Jenny Blekh | Octopus Deploy | jenny.blekh@octopus.com |
+| Meghan Murphy | Intuit | Meghan_Murphy@intuit.com |
+| Wojtek Cichoń | Akuity | wojtek@akuity.io  |
