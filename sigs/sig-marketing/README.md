@@ -6,7 +6,7 @@ Argo Sig Marketing coordinates efforts between interested parties to promote, ad
 Sig marketing meetings are held twice monthly. Meetings can be found in the [Argo Project public calendar](https://calendar.google.com/calendar/embed?src=argoproj%40gmail.com&ctz=America%2FDenver).
 
 ## Membership Requirements 
-- Members are nominated and approved by Argo Proj maintainers. 
+- Members are nominated and approved by other members and/or maintainers. 
 - Must represent the open-source community’s best interest with a vendor-neutral practice.
 - Must follow the CNCF rules and guidances closely.
 - Must have shown a proven record of enabling the open-source community by marketing.
@@ -18,6 +18,10 @@ Sig marketing meetings are held twice monthly. Meetings can be found in the [Arg
 | Member | Create and approve official communications (emails, social, blogs, etc). Manage and work on official events. Work in committee on projects as deemed appropriate by ArgoProj maintainers. Provide regular updates to maintainers on marketing initiatives. |
 | Interested Party | Provide support, create content, and assist with sig-marketing initiatives. No nomination is required to be added as an interested party. |
 | Lead | Coordinates work in the SIG. Leads and runs the SIG Marketing meetings. Reports back on SIG Marketing completed and upcoming work to maintainers. |
+| Emeritus | Inactive members that can eventually become active again without the need for additional processes.
+
+## How to Join
+Participate in our monthly meetings to stay informed and share your ideas. Eventually, fork the repository, make your changes, and submit a PR for review. Volunteer for ArgoCon Call for Papers (CFP) reviews to engage with the community and shape the conference content. Additionally, help at events like ArgoCon or community meetups by organizing, managing, or assisting in various tasks. By actively engaging in these activities, you’ll become an integral part of the project, contributing to its success and gaining recognition within the community.
 
 ## Sig-Lead
 | Name | Company | Email |
@@ -35,3 +39,11 @@ Sig marketing meetings are held twice monthly. Meetings can be found in the [Arg
 | Jenny Blekh | Octopus Deploy | jenny.blekh@octopus.com |
 | Meghan Murphy | Intuit | Meghan_Murphy@intuit.com |
 | Wojtek Cichoń | Akuity | wojtek@akuity.io  |
+
+## Interested Party
+| Name | Company | Email |
+|--------------------------|-------------|---------------------|
+
+## Emeritus
+| Name | Company | Email |
+|--------------------------|-------------|---------------------|
