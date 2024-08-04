@@ -29,7 +29,7 @@
 | Alex Eftimie              | [alexef](https://github.com/alexef)                     | Reviewer - CD                                          | [GetYourGuide](https://www.getyourguide.com/)        |
 | Jann Fischer              | [jannfis](https://github.com/jannfis)                   | Approver - CD                                          | [Red Hat](https://www.github.com/redhat/)            |
 | Dan Garfield              | [todaywasawesome](https://github.com/todaywasawesome)   | Approver(docs) - CD                                    | [Codefresh](https://www.github.com/codefresh/)       |
-| Alexandre Gaudreault      | [agaudreault](https://github.com/agaudreault)           | Reviewer - CD                                          | [Intuit](https://www.github.com/intuit/)             |
+| Alexandre Gaudreault      | [agaudreault](https://github.com/agaudreault)           | Approver - CD                                          | [Intuit](https://www.github.com/intuit/)             |
 | Anton Gilgur              | [agilgur5](https://github.com/agilgur5)                 | Approver - Workflows                                   | Independent                                          |
 | Christian Hernandez       | [christianh814](https://github.com/christianh814)       | Reviewer(docs) - CD                                    | [Akuity](https://akuity.io/)                         |
 | Saumeya Katyal            | [saumeya](https://github.com/saumeya)                   | Reviewer - CD                                          | [Red Hat](https://www.github.com/redhat/)            |

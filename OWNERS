@@ -8,6 +8,7 @@ owners:
 - crenshaw-dev
 
 approvers:
+- agaudreault
 - agilgur5
 - alexec
 - gdsoumya
@@ -26,7 +27,6 @@ approvers:
 
 reviewers:
 - 34fathombelow
-- agaudreault
 - agrawroh
 - alexef
 - ashutosh16
