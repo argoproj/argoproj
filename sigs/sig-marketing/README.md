@@ -37,7 +37,7 @@ Participate in our monthly meetings to stay informed and share your ideas. Event
 | Henrik Blixt | Intuit | Henrik_Blixt@intuit.com  |
 | Hong Wang | Akuity | hong@akuity.io  |
 | Jenny Blekh | Octopus Deploy | jenny.blekh@octopus.com |
-| Meghan Murphy | Intuit | Meghan_Murphy@intuit.com |
+| Meghan Murphy |  |  |
 | Wojtek Cichoń | Akuity | wojtek@akuity.io  |
 
 ## Interested Party
