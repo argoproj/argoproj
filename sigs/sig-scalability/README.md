@@ -11,6 +11,12 @@ SIG Scalability meetings are held on the second and forth Wednesday of each mont
 
 The members of the group can be contacted on [the CNCF Slack](https://slack.cncf.io/), in the `#argo-sig-scalability` channel and by using [the `type:scalability` label](https://github.com/argoproj/argo-cd/pulls?q=is%3Apr+is%3Aopen+label%3Atype%3Ascalability) on PRs and issues.
 
+## Sig-Lead
+| Name                                                    | Company   | Email                       |
+|---------------------------------------------------------|-----------|-----------------------------|
+| [Carlos Santana](https://github.com/csantanapr)         | AWS       |                             |
+| [Ishita Sequeira](https://github.com/ishitasequeira)    | Red Hat   |                             |
+
 ## Members
 Membership is open to any interested person in the Argo community.
 
@@ -21,9 +27,7 @@ To join, create a pull request adding yourself to the list below.
 | ------------------------------------------------------ | --------- | ----- |
 | [Alexandre Gaudreault](https://github.com/agaudreault) | Intuit    |       |
 | [Andrew Lee](https://github.com/andklee)               | AWS       |       |
-| [Carlos Santana](https://github.com/csantanapr)        | AWS       |       |
 | [Dan Garfield](https://github.com/todaywasawesome)     | Codefresh |       |
-| [Ishita Sequeira](https://github.com/ishitasequeira)   | Red Hat   |       |
 | [Jann Fischer](https://github.com/jannfis)             | Red Hat   |       |
 | [Jun Duan](https://github.com/waltforme)               | IBM       |       |
 | [Leonardo Luz Almeida](https://github.com/leoluz)      | Intuit    |       |
