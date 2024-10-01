@@ -34,5 +34,6 @@ To join, create a pull request adding yourself to the list below.
 | [Michael Crenshaw](https://github.com/crenshaw-dev)    | Intuit    |       |
 | [Nicholas Morey](https://github.com/morey-tech)        | Akuity    |       |
 | [Nima Kaviani](https://github.com/nimakaviani)         | AWS       |       |
+| [Stephen Schmidt](https://github.com/z3r0sum)          | Elastic   |       |
 | [Vikram Sethi](https://github.com/vsethi)              | Adobe     |       |
 | [Zach Aller](https://github.com/zachaller)             | Intuit    |       |
