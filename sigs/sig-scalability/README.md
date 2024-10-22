@@ -37,3 +37,4 @@ To join, create a pull request adding yourself to the list below.
 | [Stephen Schmidt](https://github.com/z3r0sum)          | Elastic   |       |
 | [Vikram Sethi](https://github.com/vsethi)              | Adobe     |       |
 | [Zach Aller](https://github.com/zachaller)             | Intuit    |       |
+| [Michael Porter](https://github.com/michaelpporter)    | Paramount |       |
