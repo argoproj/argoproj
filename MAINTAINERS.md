@@ -72,4 +72,4 @@
 | Mikhail Mazurskiy  | [ash2k](https://github.com/ash2k)             | Reviewer - CD                | [GitLab](https://www.github.com/gitlab/)        |
 | Vaibhav Page       | [VaibhavPage](https://github.com/VaibhavPage) | Lead - Events                | [Black Rock](https://www.github.com/blackrock/) |
 | Andrii Perenesenko | [perenesenko](https://github.com/perenesenko) | Reviewer - Rollouts          | [Capital One](https://github.com/capitalone/)   |
-| Daisuke Taniwaki   | [dtaniwaki](https://github.com/dtaniwaki)     | Approver - Workflows, Events | [Ubie](https://ubie.life/)                      |
+| Daisuke Taniwaki   | [dtaniwaki](https://github.com/dtaniwaki)     | Approver - Workflows, Events | [JMDC](https://www.jmdc.co.jp/en/)                      |
