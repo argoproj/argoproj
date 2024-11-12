@@ -14,6 +14,11 @@ Argo Project security policy and instructions for reporting issues are available
 | [Michael Crenshaw](https://github.com/crenshaw-dev)     | Intuit    |                             |
 | [Jann Fischer](https://github.com/jannfis)              | Red Hat   |                             |
 
+## Secretary
+| Name                                                    | Company   | Email                       |
+|---------------------------------------------------------|-----------|-----------------------------|
+| [Pavel Kostohrys](https://github.com/pasha-codefresh)   | Codefresh |                             |
+
 ## Members
 | Name                                                    | Company   | Email                       |
 |---------------------------------------------------------|-----------|-----------------------------|
@@ -28,7 +33,6 @@ Argo Project security policy and instructions for reporting issues are available
 | [Jesse Suen](https://github.com/jessesuen)              | Akuity    |                             |
 | [Leonardo Luz](https://github.com/leoluz)               | Intuit    |                             |
 | [Michael Crenshaw](https://github.com/crenshaw-dev)     | Intuit    |                             | 
-| [Pavel Kostohrys](https://github.com/pasha-codefresh)   | Codefresh |                             |
 | [Siddhesh Ghadi](https://github.com/svghadi)            | Red Hat   |                             |
 | [William Tam](https://github.com/wtam2018)              | Red Hat   |                             |
 | [Zach Aller](https://github.com/zachaller)              | Intuit    |                             |
