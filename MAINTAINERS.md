@@ -30,7 +30,6 @@
 | Jann Fischer              | [jannfis](https://github.com/jannfis)                   | Approver - CD                                          | [Red Hat](https://www.github.com/redhat/)            |
 | Dan Garfield              | [todaywasawesome](https://github.com/todaywasawesome)   | Approver(docs) - CD                                    | [Codefresh](https://www.github.com/codefresh/)       |
 | Alexandre Gaudreault      | [agaudreault](https://github.com/agaudreault)           | Approver - CD                                          | [Intuit](https://www.github.com/intuit/)             |
-| Anton Gilgur              | [agilgur5](https://github.com/agilgur5)                 | Approver - Workflows                                   | Independent                                          |
 | Christian Hernandez       | [christianh814](https://github.com/christianh814)       | Reviewer(docs) - CD                                    | [Akuity](https://akuity.io/)                         |
 | Saumeya Katyal            | [saumeya](https://github.com/saumeya)                   | Reviewer - CD                                          | [Red Hat](https://www.github.com/redhat/)            |
 | Kostis Kapelonis          | [kostis-codefresh](https://github.com/kostis-codefresh) | Reviewer - Rollouts                                    | [Codefresh](https://www.github.com/codefresh/)       |
@@ -72,4 +71,5 @@
 | Mikhail Mazurskiy  | [ash2k](https://github.com/ash2k)             | Reviewer - CD                | [GitLab](https://www.github.com/gitlab/)        |
 | Vaibhav Page       | [VaibhavPage](https://github.com/VaibhavPage) | Lead - Events                | [Black Rock](https://www.github.com/blackrock/) |
 | Andrii Perenesenko | [perenesenko](https://github.com/perenesenko) | Reviewer - Rollouts          | [Capital One](https://github.com/capitalone/)   |
-| Daisuke Taniwaki   | [dtaniwaki](https://github.com/dtaniwaki)     | Approver - Workflows, Events | [Ubie](https://ubie.life/)                      |
+| Daisuke Taniwaki   | [dtaniwaki](https://github.com/dtaniwaki)     | Approver - Workflows, Events | [JMDC](https://www.jmdc.co.jp/en/)              |
+| Anton Gilgur       | [agilgur5](https://github.com/agilgur5)       | Approver - Workflows         | Independent                                     |
