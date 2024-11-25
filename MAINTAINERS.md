@@ -50,7 +50,7 @@
 | Jesse Suen                | [jessesuen](https://github.com/jessesuen)               | Lead - CD, Rollouts <br/>Approver - Workflows, Events  | [Akuity](https://akuity.io/)                         |
 | Yuan Tang                 | [terrytangyuan](https://github.com/terrytangyuan)       | Lead - Workflows <br/>Reviewer - CD                    | [Red Hat](https://www.github.com/redhat/)            |
 | William Tam               | [wtam2018](https://github.com/wtam2018)                 | Reviewer - CD                                          | [Red Hat](https://www.github.com/redhat/)            |
-| Shuangkun Tian            | [shuangkun](https://github.com/shuangkun)               | Approver - Workflows                                   | Alibaba                                              |
+| Shuangkun Tian            | [shuangkun](https://github.com/shuangkun)               | Reviewer - Workflows                                   | Alibaba                                              |
 | Ryan Umstead              | [rumstead](https://github.com/rumstead)                 | Reviewer - CD                                          | [Black Rock](https://www.github.com/blackrock/)      |
 | Julie Vogelman            | [juliev0](https://github.com/juliev0)                   | Approver - Workflows                                   | [Intuit](https://www.github.com/intuit/)             |
 | Regina Voloshin           | [reggie-k](https://github.com/reggie-k)                 | Reviewer - CD                                          | [Codefresh](https://www.github.com/codefresh/)       |

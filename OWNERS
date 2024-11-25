@@ -22,7 +22,6 @@ approvers:
 - mayzhang2000
 - pasha-codefresh
 - rbreeze
-- shuangkun
 - tczhao
 
 reviewers:
@@ -43,6 +42,7 @@ reviewers:
 - rumstead
 - saumeya
 - sbose78
+- shuangkun
 - todaywasawesome
 - wanghong230
 - wtam2018
