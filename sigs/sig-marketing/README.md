@@ -38,6 +38,7 @@ Participate in our monthly meetings to stay informed and share your ideas. Event
 | Hong Wang | Akuity | hong@akuity.io  |
 | Jenny Blekh | Octopus Deploy | jenny.blekh@octopus.com |
 | Jimil Patel | Intuit | jimil_patel@intuit.com |
+| Revital Barletz | Octopus Deploy | revital.barletz@octopus.com  |
 | Wojtek Cichoń | Akuity | wojtek@akuity.io  |
 
 ## Interested Party
