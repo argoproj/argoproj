@@ -38,6 +38,7 @@
 | Nitish Kumar	             | [nitishify](https://github.com/nitishify)               | Reviewer - CD                                                                | [Akuity](https://akuity.io/)                         |
 | Ed Lee                    | [edlee2121](https://github.com/edlee2121)               | Approver - Workflows, Events                                                 | [Intuit](https://www.github.com/intuit/)             |
 | Vlad Losev                | [vladlosev](https://github.com/vladlosev)               | Approver(helm-chart) - CD                                                    | [Sage Intacct](https://github.com/intacct)           |
+| Mason Malone              | [MasonM](https://github.com/MasonM)                     | Reviewer - Workflows                                                         |                                                      |
 | Justin Marquis            | [34fathombelow](https://github.com/34fathombelow)       | Approver(docs/ci) - CD                                                       | [Akuity](https://akuity.io/)                         |
 | Alexander Matyushentsev   | [alexmt](https://github.com/alexmt)                     | Lead - CD, Rollouts <br/>Approver - Workflows                                | [Akuity](https://akuity.io/)                         |
 | Marco Maurer              | [mkilchhofer](https://github.com/mkilchhofer)           | Approver(helm-chart) - CD, Events, Rollouts, Workflows                       | [Swiss Post](https://post.ch/)                       |
