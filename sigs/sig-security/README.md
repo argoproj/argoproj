@@ -25,6 +25,7 @@ Argo Project security policy and instructions for reporting issues are available
 | [Abhishek Veeramalla](https://github.com/iam-veermalla) | Red Hat   |                             |
 | [Alexander Matyushentsev](https://github.com/alexmt)    | Akuity    |                             |
 | [Blake Pettersson](https://github.com/blakepettersson)  | Akuity    |                             |
+| [Christian Hernandez](https://github.com/christianh814) | Akuity    | christian@akuity.io         |
 | [Chris van Dal](https://github.com/cvandal)             | Codefresh |                             |
 | [Dan Garfield](https://github.com/todaywasawesome)      | Codefresh | dan@codefresh.io            |
 | [Ed Lee](https://github.com/edlee2121)                  | Intuit    |                             |

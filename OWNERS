@@ -6,6 +6,7 @@ owners:
 - whynowy
 - zachaller
 - crenshaw-dev
+- Joibel
 
 approvers:
 - agaudreault
@@ -15,7 +16,6 @@ approvers:
 - isubasinghe
 - jannfis
 - jgwest
-- joibel
 - juliev0
 - keithchong
 - leoluz
@@ -35,8 +35,11 @@ reviewers:
 - daniel-codefresh
 - harikrongali
 - hblixt
+- jswxstw
 - kostis-codefresh
 - reginapizza
+- reggie-k
+- rumstead
 - saumeya
 - sbose78
 - shuangkun
