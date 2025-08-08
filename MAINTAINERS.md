@@ -2,12 +2,12 @@
 
 [GOVERNANCE.md](https://github.com/argoproj/argoproj/blob/master/community/GOVERNANCE.md) describes the Argo governance.
 
-[membership.md](https://github.com/argoproj/argoproj/blob/master/community/membership.md) describes the responsibilities and requirements on the project roles. 
+[membership.md](https://github.com/argoproj/argoproj/blob/master/community/membership.md) describes the responsibilities and requirements on the project roles.
 
 ## Maintainers
 
 | Maintainer                | GitHub ID                                               | Project Roles                                                                | Affiliation                                          |
-|---------------------------|---------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------|
+| ------------------------- | ------------------------------------------------------- | ---------------------------------------------------------------------------- | ---------------------------------------------------- |
 | Rohit Agrawal             | [agrawroh](https://github.com/agrawroh)                 | Reviewer - Rollouts                                                          | [Databricks](https://databricks.com/)                |
 | Aikawa                    | [yu-croco](https://github.com/yu-croco)                 | Approver(helm-chart) - CD, Events, Rollouts, Workflows                       |                                                      |
 | Zach Aller                | [zachaller](https://github.com/zachaller)               | Lead - Rollouts <br/>Reviewer - CD                                           | [Intuit](https://www.github.com/intuit/)             |
@@ -29,14 +29,14 @@
 | Alex Eftimie              | [alexef](https://github.com/alexef)                     | Reviewer - CD                                                                | [GetYourGuide](https://www.getyourguide.com/)        |
 | Jann Fischer              | [jannfis](https://github.com/jannfis)                   | Approver - CD                                                                | [Red Hat](https://www.github.com/redhat/)            |
 | Dan Garfield              | [todaywasawesome](https://github.com/todaywasawesome)   | Approver(docs) - CD                                                          | [Codefresh](https://www.github.com/codefresh/)       |
-| Alexandre Gaudreault      | [agaudreault](https://github.com/agaudreault)           | Approver - CD, Reviewer - Rollouts                                           | [Intuit](https://www.github.com/intuit/)             |
+| Alexandre Gaudreault      | [agaudreault](https://github.com/agaudreault)           | Approver - CD <br/>Reviewer - Rollouts                                       | [Intuit](https://www.github.com/intuit/)             |
 | Christian Hernandez       | [christianh814](https://github.com/christianh814)       | Reviewer(docs) - CD                                                          | [Akuity](https://akuity.io/)                         |
 | jswxstw                   | [jswxstw](https://github.com/jswxstw)                   | Reviewer - Workflows                                                         | Independent                                          |
 | Saumeya Katyal            | [saumeya](https://github.com/saumeya)                   | Reviewer - CD                                                                | [Red Hat](https://www.github.com/redhat/)            |
 | Kostis Kapelonis          | [kostis-codefresh](https://github.com/kostis-codefresh) | Reviewer - Rollouts                                                          | [Codefresh](https://www.github.com/codefresh/)       |
 | Andrii Korotkov           | [andrii-korotkov](https://github.com/andrii-korotkov)   | Reviewer - CD                                                                | [Verkada](https://www.verkada.com/)                  |
 | Pasha Kostohrys           | [pasha-codefresh](https://github.com/pasha-codefresh)   | Approver - CD                                                                | [Codefresh](https://www.github.com/codefresh/)       |
-| Nitish Kumar              | [nitishfy](https://github.com/nitishfy)                 | Reviewer - CD                                                                | [Akuity](https://akuity.io/)                         |
+| Nitish Kumar              | [nitishfy](https://github.com/nitishfy)                 | Approver(docs) - CD                                                          | [Akuity](https://akuity.io/)                         |
 | Ed Lee                    | [edlee2121](https://github.com/edlee2121)               | Approver - Workflows, Events                                                 | [Intuit](https://www.github.com/intuit/)             |
 | Vlad Losev                | [vladlosev](https://github.com/vladlosev)               | Approver(helm-chart) - CD                                                    | [Sage Intacct](https://github.com/intacct)           |
 | Mason Malone              | [MasonM](https://github.com/MasonM)                     | Reviewer - Workflows                                                         | [Adobe](https://www.adobe.com/)                      |
@@ -54,7 +54,7 @@
 | Jesse Suen                | [jessesuen](https://github.com/jessesuen)               | Lead - CD, Rollouts <br/>Approver - Workflows, Events                        | [Akuity](https://akuity.io/)                         |
 | Yuan Tang                 | [terrytangyuan](https://github.com/terrytangyuan)       | Lead - Workflows <br/>Reviewer - CD                                          | [Red Hat](https://www.github.com/redhat/)            |
 | William Tam               | [wtam2018](https://github.com/wtam2018)                 | Reviewer - CD                                                                | [Red Hat](https://www.github.com/redhat/)            |
-| Shuangkun Tian            | [shuangkun](https://github.com/shuangkun)               | Reviewer - Workflows                                                         | Alibaba                                              |
+| Shuangkun Tian            | [shuangkun](https://github.com/shuangkun)               | Reviewer - Workflows                                                         | [Alibaba Cloud](https://github.com/aliyun)           |
 | Ryan Umstead              | [rumstead](https://github.com/rumstead)                 | Approver - CD                                                                | [Black Rock](https://www.github.com/blackrock/)      |
 | Julie Vogelman            | [juliev0](https://github.com/juliev0)                   | Approver - Workflows                                                         | [Intuit](https://www.github.com/intuit/)             |
 | Regina Voloshin           | [reggie-k](https://github.com/reggie-k)                 | Approver - CD                                                                | [Codefresh](https://www.github.com/codefresh/)       |
@@ -63,11 +63,12 @@
 | Jonathan West             | [jgwest](https://github.com/jgwest)                     | Approver - CD                                                                | [Red Hat](https://www.github.com/redhat/)            |
 | May Zhang                 | [mayzhang2000](https://github.com/mayzhang2000)         | Approver - CD                                                                | [Intuit](https://www.github.com/intuit/)             |
 | Tianchu Zhao              | [tczhao](https://github.com/tczhao)                     | Approver - Workflows                                                         | [Atlan](https://atlan.com/)                          |
+| William Van Hevelingen    | [blkperl](https://github.com/blkperl)                   | Reviewer - Workflows                                                         | [Acquia](https://github.com/acquia)                  |
 
 ## Alumni
 
 | Alumni             | GitHub ID                                               | Project Roles                | Affiliation                                     |
-|--------------------|---------------------------------------------------------|------------------------------|-------------------------------------------------|
+| ------------------ | ------------------------------------------------------- | ---------------------------- | ----------------------------------------------- |
 | Simon Behar        | [simster7](https://github.com/simster7)                 | Approver - Workflows         | [AirBnB](https://www.github.com/airbnb/)        |
 | Xianlu Chen        | [xianlubird](https://github.com/xianlubird)             | Reviewer - Workflows         | [Alibaba Cloud](https://github.com/aliyun)      |
 | Anton Gilgur       | [agilgur5](https://github.com/agilgur5)                 | Approver - Workflows         | Independent                                     |
