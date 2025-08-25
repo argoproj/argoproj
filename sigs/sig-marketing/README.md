@@ -47,3 +47,4 @@ Participate in our monthly meetings to stay informed and share your ideas. Event
 ## Emeritus
 | Name | Company | Email |
 |--------------------------|-------------|---------------------|
+| Wojtek Cichoń | Akuity | wojtek@akuity.io  |
