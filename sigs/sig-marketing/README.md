@@ -40,6 +40,7 @@ Participate in our monthly meetings to stay informed and share your ideas. Event
 | Jimil Patel | Intuit | jimil_patel@intuit.com |
 | Revital Barletz | Octopus Deploy | revital.barletz@octopus.com  |
 | Wojtek Cichoń | Akuity | wojtek@akuity.io  |
+| Ben Edmunds | Ninety | bedmunds@ninety.io  |
 
 ## Interested Party
 | Name | Company | Email |
