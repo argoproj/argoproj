@@ -8,7 +8,7 @@ Sig marketing meetings are held twice monthly. Meetings can be found in the [Arg
 ## Membership Requirements 
 - Members are nominated and approved by other Marketing SIG members and/or Argo Project Maintainers. 
 - Must represent the open-source community’s best interest with a vendor-neutral practice.
-- Must follow the CNCF rules and guidances closely.
+- Must follow the CNCF rules and guidelines closely.
 - Must have shown a proven record of enabling the open-source community by marketing.
 - Technical marketing is preferred.
 
@@ -32,14 +32,13 @@ Participate in our monthly meetings to stay informed and share your ideas. Event
 | Name | Company | Email |
 |--------------------------|-------------|---------------------|
 | Caelan Urquhart | Pipekit | caelan_u@pipekit.io |
-| Christian Hernandez | Akuity | christian@akuity.io  |
+| Christian Hernandez | Independent | christian@chernand.io  |
 | Harriet Lawrence | Red Hat | halawren@redhat.com |
 | Henrik Blixt | Intuit | Henrik_Blixt@intuit.com  |
 | Hong Wang | Akuity | hong@akuity.io  |
 | Jenny Blekh | Octopus Deploy | jenny.blekh@octopus.com |
 | Jimil Patel | Intuit | jimil_patel@intuit.com |
 | Revital Barletz | Octopus Deploy | revital.barletz@octopus.com  |
-| Wojtek Cichoń | Akuity | wojtek@akuity.io  |
 
 ## Interested Party
 | Name | Company | Email |
@@ -48,3 +47,4 @@ Participate in our monthly meetings to stay informed and share your ideas. Event
 ## Emeritus
 | Name | Company | Email |
 |--------------------------|-------------|---------------------|
+| Wojtek Cichoń | Akuity | wojtek@akuity.io  |
