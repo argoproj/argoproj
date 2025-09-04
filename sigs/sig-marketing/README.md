@@ -39,6 +39,8 @@ Participate in our monthly meetings to stay informed and share your ideas. Event
 | Jenny Blekh | Octopus Deploy | jenny.blekh@octopus.com |
 | Jimil Patel | Intuit | jimil_patel@intuit.com |
 | Revital Barletz | Octopus Deploy | revital.barletz@octopus.com  |
+| Adriana Naula      | Akuity | adriana.naula@akuity.io      |
+| Carolyn King       | Akuity | carolyn.king@akuity.io       |
 
 ## Interested Party
 | Name | Company | Email |
