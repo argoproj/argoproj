@@ -41,6 +41,7 @@ Participate in our monthly meetings to stay informed and share your ideas. Event
 | Revital Barletz | Octopus Deploy | revital.barletz@octopus.com  |
 | Adriana Naula      | Akuity | adriana.naula@akuity.io      |
 | Carolyn King       | Akuity | carolyn.king@akuity.io       |
+| Austin Blankenship | Akuity | austin.blankenship@akuity.io |
 
 ## Interested Party
 | Name | Company | Email |
