@@ -5,7 +5,7 @@ Before submitting the ticket please ensure you understand which [projects](../co
 Once you are ready, please help the reviewer understand your project better by 
 answering the following questions in your onboarding proposal:
 
-- [x] What is your project repository Github URL? - **https://github.com/akuity/argocd-mcp**
+- [x] What is your project repository Github URL? - **https://github.com/argoproj-labs/mcp-for-argocd**
 - [x] Do you wish to host your project repository https://github.com/argoproj-labs or https://github.com/argoproj ? - **https://github.com/argoproj-labs**
 - [x] Does your project focus on enhancing or providing additional features to one of the existing [core
  projects](https://github.com/argoproj/argoproj#what-is-argoproj) ? If yes, which of the core projects is your proposed project related to? - **https://github.com/argoproj/argo-cd**
