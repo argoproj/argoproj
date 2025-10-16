@@ -1,12 +1,13 @@
 # Community Membership
 
 This document outlines the various responsibilities of contributor roles in
-Argoproj. The Argo project is currently subdivided into four main subprojects:
+Argoproj. The Argo project is currently subdivided into five main subprojects:
 
 * [Argo Workflows](https://github.com/argoproj/argo-workflows)
 * [Argo CD](https://github.com/argoproj/argo-cd)
 * [Argo Events](https://github.com/argoproj/argo-events)
 * [Argo Rollouts](https://github.com/argoproj/argo-rollouts)
+* [Argo Helm](https://github.com/argoproj/argo-helm)
 
 Responsibilities for roles are scoped to these subprojects.
 
@@ -40,7 +41,7 @@ below.
 
 ### Member
 
-Members are continuously active contributors in the community. They can have issues and PRs 
+Members are continuously active contributors in the community. They can have issues and PRs
 assigned to them. Members are expected to remain active contributors to the community. Members are
 given the [Triage](https://docs.github.com/en/organizations/managing-access-to-your-organizations-repositories/repository-permission-levels-for-an-organization) GitHub role to Argoproj repositories, in order to
 facilitate issue management and moderate discussions.
@@ -112,8 +113,8 @@ Reviewer status is scoped to a part of the codebase.
 **Note:** Acceptance of code contributions requires at least one approver in
 addition to the assigned reviewers.
 
-While these guidelines are going to be used for setting contribution expectations, 
-the maintainers will recognize the impact of an individual's contribution while 
+While these guidelines are going to be used for setting contribution expectations,
+the maintainers will recognize the impact of an individual's contribution while
 making a decision on promotion an individual to a "reviewer."
 
 ##### Requirements
@@ -151,7 +152,7 @@ an `OWNERS` file.
 
 #### Approver
 
-Code approvers are able to both review and approve code contributions as well as 
+Code approvers are able to both review and approve code contributions as well as
 help subproject leads triage issues and with project management.
 
 While code review is focused on code quality and correctness, approval is focused on
@@ -232,7 +233,7 @@ The following apply to the subproject for which one would be an lead.
 - Define milestones and releases.
   - Decides on when PRs are merged to control the release scope.
 - Mentor and guide approvers, reviewers, and contributors to the subproject.
-- Escalate reviewer and maintainer concerns (i.e. responsiveness, availability, and general contributor community health) to the maintainers group. 
+- Escalate reviewer and maintainer concerns (i.e. responsiveness, availability, and general contributor community health) to the maintainers group.
 - Ensure continued health of subproject
   - Adequate test coverage to confidently release
   - Tests are passing reliably (i.e. not flaky) and are fixed when they fail
@@ -291,7 +292,7 @@ When a new lead needs to be chosen for a subproject, the availability of the rol
 The announcement should be posted in the #argo-maintainers Slack channel by an existing lead. The announcement should follow this model:
 
 ```
-Argoproj leadership is considering adding a lead for the <project> subproject. If you would like to nominate yourself or 
+Argoproj leadership is considering adding a lead for the <project> subproject. If you would like to nominate yourself or
 someone else, please open an issue in this repo: https://github.com/argoproj/argoproj/issues
 
 If you have any feedback about the current nominee(s), please comment on the issue nominating them.
@@ -302,7 +303,7 @@ This announcement should be posted at least two weeks before any vote is held to
 Key factors in the selection of new subproject leads are:
 - History of participation and leadership in the Argo project and user communities.
 - Demonstrated high standards for personal and professional conduct.
-- Leads should reflect and represent the diversity of the Argo Community 
+- Leads should reflect and represent the diversity of the Argo Community
 - Sustained technical contributions to the subproject including demonstrating strong technical understanding and implementation complexity.
 
 ## Argoproj Ecosystem
