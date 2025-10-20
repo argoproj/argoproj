@@ -265,7 +265,7 @@ with the current state.
 
 Inactive members are defined as members of one of the Argoproj Organizations
 with no significant contributions within the last 12 months. Contributions are
-measured using the CNCF [DevStats project], GitHub activity history, and other media
+measured using the Linux Foundation's [LFX Insights](https://insights.linuxfoundation.org/project/argo/contributors), GitHub activity history, and other media
 by which a history of contributions can be reliably determined.
 
 If an actively contributing member is accidentally removed this way, they may open an
