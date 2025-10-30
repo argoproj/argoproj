@@ -6,7 +6,7 @@
 
 ## What is Argoproj?
 
-Argoproj is a collection of tools for getting work done with Kubernetes.
+Argoproj is a collection of tools for getting the work done with Kubernetes.
 * [Argo Workflows](https://github.com/argoproj/argo-workflows) - Container-native Workflow Engine
 * [Argo CD](https://github.com/argoproj/argo-cd) - Declarative GitOps Continuous Delivery
 * [Argo Events](https://github.com/argoproj/argo-events) - Event-based Dependency Manager
