@@ -17,7 +17,7 @@ Argo Project security policy and instructions for reporting issues are available
 ## Secretary
 | Name                                                    | Company   | Email                       |
 |---------------------------------------------------------|-----------|-----------------------------|
-| [Pavel Kostohrys](https://github.com/pasha-codefresh)   | Codefresh |                             |
+| [Pavel Kostohrys](https://github.com/pasha-codefresh)   | Octopus Deploy |                             |
 
 ## Members
 | Name                                                    | Company   | Email                       |
