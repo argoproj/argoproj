@@ -1,7 +1,6 @@
 owners:
 - alexmt
 - jessesuen
-- sarabala1979
 - terrytangyuan
 - whynowy
 - zachaller
@@ -22,6 +21,7 @@ approvers:
 - mayzhang2000
 - pasha-codefresh
 - rbreeze
+- sarabala1979
 - tczhao
 
 reviewers:
