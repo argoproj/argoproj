@@ -26,7 +26,7 @@ Regurgitating the output of an LLM is unlikely to be particularly helpful, or
 valuable, to other contributors, maintainers, and end-users for a couple of reasons.
 
 First, time is a very scarce resource for maintainers and approvers. Thoughtful,
-high-quality code reviews both essential to the success of Argoproj, and
+high-quality code reviews are essential to the success of Argoproj, and
 require a significant time commitment. There is not enough time to give proper
 responses to low-effort pull requests without compromising our responsiveness to
 high-effort pull requests. Second, Argoproj is a complex, fast-moving
