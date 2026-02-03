@@ -29,6 +29,7 @@ Argo Project security policy and instructions for reporting issues are available
 | [Chris van Dal](https://github.com/cvandal)             | Octopus Deploy |                             |
 | [Dan Garfield](https://github.com/todaywasawesome)      | Octopus Deploy | dan.garfield@octopus.com            |
 | [Ed Lee](https://github.com/edlee2121)                  | Intuit    |                             |
+| [Eugene Dudin](https://github.com/dudinea)              | Octopus Deploy    |                             |
 | [Henrik Blixt](https://github.com/hblixt)               | Intuit    | Henrik_Blixt@intuit.com     |
 | [Jann Fischer](https://github.com/jannfis)              | Red Hat   | jfischer@redhat.com         |
 | [Jesse Suen](https://github.com/jessesuen)              | Akuity    |                             |
