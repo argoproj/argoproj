@@ -91,7 +91,7 @@ willing participant in the process of contributing to Argoproj.
 
 _Q: Can I close or hide issues or pull requests that are made through LLMs?_
 
-Yes, as your discretion you may close or hide issues or pull requests that are
+Yes, at your discretion you may close or hide issues or pull requests that are
 made through LLMs. We ask that you provide a clear explanation for why you are
 doing so, and -- if possible -- provide guidance on how the contributor can
 improve their contribution.
