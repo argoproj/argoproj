@@ -25,20 +25,18 @@ respective code repositories:
 
 ### Argoproj Labs
 
-The [Argoproj Labs](https://github.com/argoproj-labs) projects are a set community maintained projects (housed under a single GitHub organization) and do not fall under the scope of CNCF. They are independently maintained and typically have a separate set of members and maintainers from the [Argoproj maintainers](MAINTAINERS.md). Labs project have  **_not_** undergone the same security reviews, membership requirements, and may have different security practices than the four Argo sub-projects. All Labs projects are required to have a `SECURITY.md` in the root of their repository documenting their security policies as well as listing security contacts for reporting vulnerabilities. 
+The [Argoproj Labs](https://github.com/argoproj-labs) projects are a set community maintained projects (housed under a single GitHub organization) and do not fall under the scope of CNCF. They are independently maintained and typically have a separate set of members and maintainers from the [Argoproj maintainers](MAINTAINERS.md). Labs project have  **_not_** undergone the same security reviews, membership requirements, and may have different security practices than the four Argo sub-projects. All Labs projects are required to have a `SECURITY.md` in the root of their repository documenting their security policies as well as listing security contacts for reporting vulnerabilities.
 
 ## Reporting Vulnerabilities
 
-In general, we kindly ask you for responsible disclosure of any security
-vulnerabilities you may have found in one of our projects. Please do not create
-a GitHub issue, but instead contact us via e-mail at the following address:
+In general, we kindly ask you for responsible disclosure of any security vulnerabilities you may have found in one of our projects.
+Please do not create a GitHub issue, but instead open a draft GitHub security advisory: https://docs.github.com/en/code-security/how-tos/report-and-fix-vulnerabilities/fix-reported-vulnerabilities/creating-a-repository-security-advisory
 
-* cncf-argo-security@lists.cncf.io
+We no longer accept security disclosure by email.
 
 For reporting vulnerabilities to projects under Argoproj Labs, please visit the project's `SECURITY.md` policy to reach the correct contacts.
 
-We also kindly ask you to allow us some time for analysing the report and react
-on it. We will get in contact with you as soon as possible.
+We also kindly ask you to allow us some time for analysing the report and react on it. We will get in contact with you as soon as possible.
 
 ## Internet Bug Bounty collaboration
 
