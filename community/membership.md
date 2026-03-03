@@ -268,7 +268,7 @@ with no significant contributions within the last 12 months. Contributions are
 measured using the Linux Foundation's [LFX Insights](https://insights.linuxfoundation.org/project/argo/contributors), GitHub activity history, and other media
 by which a history of contributions can be reliably determined.
 
-Inactive approvers are defined as members of one of the Argoproj Organizations 
+Inactive approvers are defined as members who hold an approver role in one of the Argoproj subprojects 
 who have not reviewed any pull requests in their main repository within the last 
 12 months.
 
