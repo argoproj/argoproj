@@ -19,7 +19,7 @@ feature.
 
 ## Definition
 
-Argo projects adopt the standard software life cycle terminology to
+Argo projects adopt the standard software maturity terminology to
 define the different feature statuses:
 
 - _Alpha_
@@ -29,8 +29,8 @@ define the different feature statuses:
 ### Alpha
 
 _Alpha_ means that a feature is in its early stage and is considered
-as experimental which means that it can be removed from future
-releases. This is an useful status to use when there are uncertainties
+as experimental, which means that it can be removed from future
+releases. This is a useful status to use when there are uncertainties
 about a new feature and maintainers want to get feedback from the
 community. _Alpha_ features are usually behind feature flags disabled
 by default. Users are expected to understand the risks of enabling
@@ -40,9 +40,9 @@ _Alpha_ features.
 
 _Beta_ features are usually enabled by default and are not considered
 as experimental. _Beta_ features are considered in its early maturity
-stage. This means that common use cases are functional but there are
+stage. This means that common use cases are functional, but there are
 known uncovered edge cases. Edge cases will be tracked as issues and
-are expected to be voted on. Votes take place by adding a thumbs up
+are expected to be voted on. Votes take place by adding a thumbs-up
 emoji reaction in the main description of an issue. In most cases,
 issues with more votes will take higher priority. _Beta_ features may
 not be backwards compatible with previous releases of the feature
@@ -52,7 +52,7 @@ while in this status.
 
 _Stable_ features are tested and validated with various use cases, are
 considered mature, and are expected to be backwards compatible. Issues
-will be tracked as bugs and depending on the impact a patch with the
+will be tracked as bugs, and depending on the impact, a patch with the
 fix might be released.
 
 ## The promotion process
@@ -60,9 +60,9 @@ fix might be released.
 Features can be introduced in Argo projects in _Alpha_ or _Beta_
 statuses. If a feature is not introduced with a particular status,
 it is assumed to be stable. After a feature is introduced with a 
-specific status it can then be promoted to the next one.
+specific status, it can then be promoted to the next one.
 
-The transition from one status to the other respect the following
+The transition from one status to the other respects the following
 rules:
 
 1. _Alpha_ features can transition to _Beta_.
@@ -70,18 +70,17 @@ rules:
 eventually be removed from the code base.
 1. _Beta_ features can transition to _Stable_.
 1. If for some reason a _Beta_ feature fails to be promoted, it could
-eventually be removed from the code base followed from at least one
+eventually be removed from the code base followed by at least one
 release deprecation period.
 1. If a serious issue is identified in a stable feature that justifies
-it to be removed, it will follow at least two releases deprecation
-period.
+it to be removed, it will happen after a deprecation period of at least two releases.
 
 If a _Beta_ or _Stable_ feature is decided to be removed, it will
 respect a deprecation period. The information will be available in the
 release notes and in the official documentation for that given
 feature.
 
-The diagram bellow represents the possible transitions features can
+The diagram below represents the possible transitions features can
 have:
 
 ``` 
@@ -105,17 +104,17 @@ have:
 
 Promoting a feature is a responsibility shared between maintainers,
 contributors and the user community. Any of those parties can request
-a feature to be promoted. Ideally this can be done by creating an
-issue or a discussion in the Github repository of the project
+a feature to be promoted. Ideally, this can be done by creating an
+issue or a discussion in the GitHub repository of the project
 containing that feature. Promotion requests can be brought to
-maintainers attention in our weekly [Argo Contributors Office
+maintainers' attention in our weekly [Argo Contributors Office
 hours][1] meeting.
 
 ## What it means for Argo users
 
 Feature status is a framework to provide transparency and allow
 setting expectations for Argo users. It should be used to support the
-decision making process about whether or not a given feature is
+decision-making process about whether or not a given feature is
 feasible to be leveraged by a company or individual. Argo projects
 depend on the user base to provide valuable feedback and submit bugs
 with good information so features can be promoted to a more mature
@@ -123,7 +122,7 @@ stage.
 
 ## What it means for Argo contributors
 
-If you are contributing with new feature in one of the Argo projects,
+If you are contributing a feature in one of the Argo projects,
 please classify it with one of the statuses described in this
 document. The current status should be indicated next to every feature
 in our official documentation. The format of a feature status in the
@@ -131,7 +130,7 @@ documentation should be:
 
 `Current Status: <status> (Since <version>)`
 
-Since relates to the version it changed the status, _not_ the version
+"Since" relates to the version that changed the status, _not_ the version
 when the feature was first introduced in the codebase.
 
 Example:
@@ -139,7 +138,7 @@ Example:
 `## Server-Side Apply Current Status: Beta (Since v2.5.0)`
 
 The status must also be informed in the title of the PR introducing
-the feature so it can be available in the release notes.
+the feature, so it can be available in the release notes.
 
 The format of a feature status in the PR title should be:
 
