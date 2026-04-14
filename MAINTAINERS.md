@@ -19,7 +19,7 @@
 | Jaewoo Choi               | [choejwoo](https://github.com/choejwoo)                 | Reviewer - CD                                                                | Hyundai-Autoever                                     |
 | Alan Clucas               | [Joibel](https://github.com/Joibel)                     | Lead - Workflows                                                             | [Pipekit](https://www.pipekit.io/)                   |
 | Alex Collins              | [alexec](https://github.com/alexec)                     | Approver - Workflows <br/>Approver - CD                                      | [Intuit](https://www.github.com/intuit/)             |
-| Tim Collins               | [tico24](https://github.com/tico24)                     | Approver(helm-chart) - CD, Events, Workflows<br />Reviewer(docs) - Workflows | [Pipekit](https://pipekit.io/)                       |
+| Tim Collins               | [tico24](https://github.com/tico24)                     | Approver(helm-chart) - CD, Events, Workflows<br />Reviewer(docs) - Workflows | Independent                                       |
 | Michael Crenshaw          | [crenshaw-dev](https://github.com/crenshaw-dev)         | Lead - CD                                                                    | [Intuit](https://www.github.com/intuit/)             |
 | Soumya Ghosh Dastidar     | [gdsoumya](https://github.com/gdsoumya)                 | Approver - CD                                                                | [Akuity](https://akuity.io/)                         |
 | Petr Drastil              | [pdrastil](https://github.com/pdrastil)                 | Approver(helm-chart) - CD, Events                                            | Independent                                          |
