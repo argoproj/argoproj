@@ -24,12 +24,14 @@ Argo Project security policy and instructions for reporting issues are available
 |---------------------------------------------------------|-----------|-----------------------------|
 | [Abhishek Veeramalla](https://github.com/iam-veermalla) | Red Hat   |                             |
 | [Alexander Matyushentsev](https://github.com/alexmt)    | Akuity    |                             |
+| [Alan Clucas](https://github.com/Joibel)                | Pipekit   |                             |
 | [Blake Pettersson](https://github.com/blakepettersson)  | Akuity    |                             |
-| [Christian Hernandez](https://github.com/christianh814) | Cisco    |          |
+| [Christian Hernandez](https://github.com/christianh814) | Cisco     |          |
 | [Chris van Dal](https://github.com/cvandal)             | Octopus Deploy |                             |
 | [Dan Garfield](https://github.com/todaywasawesome)      | Octopus Deploy | dan.garfield@octopus.com            |
 | [Eugene Dudin](https://github.com/dudinea)              | Octopus Deploy    |                             |
 | [Henrik Blixt](https://github.com/hblixt)               | Intuit    | Henrik_Blixt@intuit.com     |
+| [Isitha Subasinghe](https://github.com/isubasinghe)     | Pipekit   |                             |
 | [Jann Fischer](https://github.com/jannfis)              | Red Hat   | jfischer@redhat.com         |
 | [Jesse Suen](https://github.com/jessesuen)              | Akuity    |                             |
 | [Leonardo Luz](https://github.com/leoluz)               | Intuit    |                             |
