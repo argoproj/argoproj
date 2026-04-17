@@ -25,6 +25,7 @@ After the Membership meeting is concluded, you should
   - [ ] [argo-workflows](https://github.com/argoproj/argo-workflows/blob/master/OWNERS)
   - [ ] [argo-events](https://github.com/argoproj/argo-events/blob/master/OWNERS)
   - [ ] [argo-rollouts](https://github.com/argoproj/argo-rollouts/blob/master/OWNERS)
+- [ ] Make sure to update the [CNCF Maintainer list](https://github.com/cncf/foundation/blob/main/project-maintainers.csv) to keep it in sync with the Argo maintainers.
 - [ ] Send a message to the `#argo-cd-contributors` tagging new members to update their membership to Public
   ```
   Congrats to new Argoproj members and maintainers!
