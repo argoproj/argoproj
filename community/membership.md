@@ -3,30 +3,26 @@
 This document outlines the various responsibilities of contributor roles in
 Argoproj. The Argo project is currently subdivided into four main subprojects:
 
-* [Argo Workflows](https://github.com/argoproj/argo-workflows)
-* [Argo CD](https://github.com/argoproj/argo-cd)
-* [Argo Events](https://github.com/argoproj/argo-events)
-* [Argo Rollouts](https://github.com/argoproj/argo-rollouts)
+- [Argo Workflows](https://github.com/argoproj/argo-workflows)
+- [Argo CD](https://github.com/argoproj/argo-cd)
+- [Argo Events](https://github.com/argoproj/argo-events)
+- [Argo Rollouts](https://github.com/argoproj/argo-rollouts)
 
 Responsibilities for roles are scoped to these subprojects.
 
-| Roles    | Responsibilities                              | Requirements                                                                              | Defined by                 |
-|----------|:----------------------------------------------|:------------------------------------------------------------------------------------------|:---------------------------|
-| member   | active contributor in the community           | sponsored by 2 approvers or leads. multiple contributions to the project.                 | Argoproj GitHub org member |
-| reviewer | review contributions from other members       | sponsored by a lead. history of review and authorship in a subproject                     | OWNERS file reviewer entry |
-| approver | approve accepting contributions               | sponsored by a lead. highly experienced and active reviewer + contributor to a subproject | OWNERS file approver entry |
-| scoped reviewer/approver | review/approve contributions in one or more areas of a subproject | same requirements as reviewer/approver but scoped to one or more areas of a subproject | CODEOWNER file as part of a GitHub team scoped to an area |
-| lead     | set direction and priorities for a subproject | demonstrated responsibility and excellent technical judgement for the subproject          | OWNERS file owner entry    |
-
-
+| Roles                    | Responsibilities                                                  | Requirements                                                                              | Defined by                                                |
+| ------------------------ | :---------------------------------------------------------------- | :---------------------------------------------------------------------------------------- | :-------------------------------------------------------- |
+| member                   | active contributor in the community                               | sponsored by 2 approvers or leads. multiple contributions to the project.                 | Argoproj GitHub org member                                |
+| reviewer                 | review contributions from other members                           | sponsored by a lead. history of review and authorship in a subproject                     | OWNERS file reviewer entry                                |
+| approver                 | approve accepting contributions                                   | sponsored by a lead. highly experienced and active reviewer + contributor to a subproject | OWNERS file approver entry                                |
+| scoped reviewer/approver | review/approve contributions in one or more areas of a subproject | same requirements as reviewer/approver but scoped to one or more areas of a subproject    | CODEOWNER file as part of a GitHub team scoped to an area |
+| lead                     | set direction and priorities for a subproject                     | demonstrated responsibility and excellent technical judgement for the subproject          | OWNERS file owner entry                                   |
 
 ## New contributors
 
 New contributors should be welcomed to the community by existing members,
 helped with PR workflow, and directed to relevant documentation and
 communication channels.
-
-
 
 ## Established community members
 
@@ -36,11 +32,9 @@ policies, procedures, conventions, etc., and technical and/or writing ability.
 Role-specific expectations, responsibilities, and requirements are enumerated
 below.
 
-
-
 ### Member
 
-Members are continuously active contributors in the community. They can have issues and PRs 
+Members are continuously active contributors in the community. They can have issues and PRs
 assigned to them. Members are expected to remain active contributors to the community. Members are
 given the [Triage](https://docs.github.com/en/organizations/managing-access-to-your-organizations-repositories/repository-permission-levels-for-an-organization) GitHub role to Argoproj repositories, in order to
 facilitate issue management and moderate discussions.
@@ -50,25 +44,25 @@ Defined by: Member of the Argoproj GitHub organization
 #### Requirements
 
 - Enabled [two-factor authentication] on their GitHub account
-- Have made multiple contributions to the project or community.  Contribution may include, but is not limited to:
-    - Authoring or reviewing PRs on GitHub
-    - Filing or commenting on issues on GitHub
-    - Contributing to SIG, subproject, or community discussions (e.g. meetings, Slack, email discussion
-      forums, Stack Overflow)
+- Have made multiple contributions to the project or community. Contribution may include, but is not limited to:
+  - Authoring or reviewing PRs on GitHub
+  - Filing or commenting on issues on GitHub
+  - Contributing to SIG, subproject, or community discussions (e.g. meetings, Slack, email discussion
+    forums, Stack Overflow)
 - Actively contributing to 1 or more subprojects.
 - Sponsored by 2 approvers or leads. **Note the following requirements for sponsors**:
-    - Sponsors must have close interactions with the prospective member - e.g. code/design/proposal review, coordinating
-      on issues, etc.
-    - Sponsors must be approvers in at least 1 OWNERS file either in any of the four main subprojects in the [Argoproj org].
-      - An approver in the [Argoproj org] may sponsor someone for the [Argoproj org]
+  - Sponsors must have close interactions with the prospective member - e.g. code/design/proposal review, coordinating
+    on issues, etc.
+  - Sponsors must be approvers in at least 1 OWNERS file either in any of the four main subprojects in the [Argoproj org].
+    - An approver in the [Argoproj org] may sponsor someone for the [Argoproj org]
       or any of the related [Argoproj GitHub organizations]; as long as it's a project they're involved with.
-      - A sponsor who is an approver in any of the related [Argoproj GitHub organizations]
+    - A sponsor who is an approver in any of the related [Argoproj GitHub organizations]
       but not in the [Argoproj org] can only sponsor someone for the orgs they are associated with.
-    - Sponsors must be from multiple member companies to demonstrate integration across community.
+  - Sponsors must be from multiple member companies to demonstrate integration across community.
 - **[Open an issue][membership request] against the argoproj/argoproj repo**
-   - Ensure your sponsors are @mentioned on the issue
-   - Complete every item on the checklist ([preview the current version of the template][membership template])
-   - Make sure that the list of contributions included is representative of your work on the project.
+  - Ensure your sponsors are @mentioned on the issue
+  - Complete every item on the checklist ([preview the current version of the template][membership template])
+  - Make sure that the list of contributions included is representative of your work on the project.
 - Have your sponsoring reviewers reply confirmation of sponsorship: `+1`
 - Once your sponsors have responded, your request will be reviewed by the project leads. Any missing information will be requested.
 
@@ -90,13 +84,20 @@ Defined by: Member of the Argoproj GitHub organization
 - They can be assigned to issues and PRs, and people can ask members for reviews with a `/cc @username`.
 
 **Note:** members who frequently contribute code are expected to proactively
-perform code reviews and work towards becoming a primary *reviewer* for the
+perform code reviews and work towards becoming a primary _reviewer_ for the
 subproject that they are active in.
-
 
 ### Maintainers
 
 Reviewers, approvers and leads are considered maintainers.
+
+Argo maintainers have access to a free [GitHub Copilot Enterprise](https://contribute.cncf.io/blog/2025/12/16/github-copilot-enterprise-for-maintainers/) license provided by CNCF. The bundle includes:
+
+- **Copilot Coding Agent** – An autonomous agent that acts as a virtual pair programmer. Assign it complex tasks (e.g. refactoring a module or fixing a bug) and it will attempt to implement the solution.
+- **Copilot Code Review** – Analyzes pull requests to identify bugs, suggest improvements, and ensure code consistency before human review.
+- **Contextual Chat** – Ask questions about your specific project and receive answers grounded in your codebase and documentation.
+
+To apply, submit a request via the [CNCF Service Desk](https://servicedesk.cncf.io/) under the _Program Management_ category and provide your GitHub handle.
 
 #### Reviewer
 
@@ -104,7 +105,7 @@ Reviewers are able to review code for quality and correctness on some part of a
 subproject. They are knowledgeable about both the codebase and software
 engineering principles.
 
-**Defined by:** *reviewers* entry in an OWNERS file in a repo owned by the
+**Defined by:** _reviewers_ entry in an OWNERS file in a repo owned by the
 Argoproj project.
 
 Reviewer status is scoped to a part of the codebase.
@@ -112,8 +113,8 @@ Reviewer status is scoped to a part of the codebase.
 **Note:** Acceptance of code contributions requires at least one approver in
 addition to the assigned reviewers.
 
-While these guidelines are going to be used for setting contribution expectations, 
-the maintainers will recognize the impact of an individual's contribution while 
+While these guidelines are going to be used for setting contribution expectations,
+the maintainers will recognize the impact of an individual's contribution while
 making a decision on promotion an individual to a "reviewer."
 
 ##### Requirements
@@ -147,11 +148,9 @@ an `OWNERS` file.
 - Assigned PRs to review related to subproject of expertise
 - Assigned test bugs related to subproject of expertise
 
-
-
 #### Approver
 
-Code approvers are able to both review and approve code contributions as well as 
+Code approvers are able to both review and approve code contributions as well as
 help subproject leads triage issues and with project management.
 
 While code review is focused on code quality and correctness, approval is focused on
@@ -159,7 +158,7 @@ holistic acceptance of a contribution including: backwards / forwards
 compatibility, adhering to API and flag conventions, subtle performance and
 correctness issues, interactions with other parts of the system, etc.
 
-**Defined by:** *approvers* entry in an OWNERS file in a repo owned by the
+**Defined by:** _approvers_ entry in an `OWNERS` file in a repo owned by the
 Argoproj project.
 
 Approver status is scoped to a part of the codebase.
@@ -179,7 +178,6 @@ in an `OWNERS` file.
   - With no objections from other leads
   - Done through PR to update the OWNERS file
 
-
 ##### Responsibilities and privileges
 
 The following apply to the part of codebase for which one would be an approver
@@ -194,22 +192,20 @@ in an `OWNERS` file.
 - Mentor contributors and reviewers
 - May approve and merge code contributions for acceptance
 
-
-
 #### Lead
 
 Subproject Leads are the technical authority for a subproject in the Argo
-project.  They *MUST* have demonstrated both good judgement and responsibility
-towards the health of that subproject.  Subproject leads *MUST* set technical
+project. They _MUST_ have demonstrated both good judgement and responsibility
+towards the health of that subproject. Subproject leads _MUST_ set technical
 direction and make or approve design decisions for their subproject - either
 directly or through delegation of these responsibilities.
 
-**Defined by:** *owners* entry in subproject `OWNERS` files
+**Defined by:** _owners_ entry in subproject `OWNERS` files
 
 ##### Requirements
 
 The process for becoming a subproject lead should be defined in the SIG
-charter of the SIG owning the subproject.  Unlike the roles outlined above, the
+charter of the SIG owning the subproject. Unlike the roles outlined above, the
 Leads of a subproject are typically limited to a relatively small group of
 decision makers and updated as fits the needs of the subproject.
 
@@ -232,14 +228,13 @@ The following apply to the subproject for which one would be an lead.
 - Define milestones and releases.
   - Decides on when PRs are merged to control the release scope.
 - Mentor and guide approvers, reviewers, and contributors to the subproject.
-- Escalate reviewer and maintainer concerns (i.e. responsiveness, availability, and general contributor community health) to the maintainers group. 
+- Escalate reviewer and maintainer concerns (i.e. responsiveness, availability, and general contributor community health) to the maintainers group.
 - Ensure continued health of subproject
   - Adequate test coverage to confidently release
   - Tests are passing reliably (i.e. not flaky) and are fixed when they fail
 - Ensure a healthy process for discussion and decision making is in place.
 - Work with other subproject leads to maintain the project's overall health and success holistically
 - Promote and foster the community (e.g. hosting meetings, workshops, partner engagements, collaborations)
-
 
 ## Membership Management
 
@@ -260,7 +255,6 @@ will be removed from the Argoproj Github Organizations and will be required to
 go through the org membership process again after re-familiarizing themselves
 with the current state.
 
-
 #### How inactivity is measured
 
 Inactive members are defined as members of one of the Argoproj Organizations
@@ -274,7 +268,6 @@ issue to quickly be re-instated.
 After an extended period away from the project with no activity,
 removed members would need to re-familiarize themselves with the current state
 before being able to contribute effectively.
-
 
 ### Change in membership roles
 
@@ -291,7 +284,7 @@ When a new lead needs to be chosen for a subproject, the availability of the rol
 The announcement should be posted in the #argo-maintainers Slack channel by an existing lead. The announcement should follow this model:
 
 ```
-Argoproj leadership is considering adding a lead for the <project> subproject. If you would like to nominate yourself or 
+Argoproj leadership is considering adding a lead for the <project> subproject. If you would like to nominate yourself or
 someone else, please open an issue in this repo: https://github.com/argoproj/argoproj/issues
 
 If you have any feedback about the current nominee(s), please comment on the issue nominating them.
@@ -300,9 +293,10 @@ If you have any feedback about the current nominee(s), please comment on the iss
 This announcement should be posted at least two weeks before any vote is held to actually appoint a new lead.
 
 Key factors in the selection of new subproject leads are:
+
 - History of participation and leadership in the Argo project and user communities.
 - Demonstrated high standards for personal and professional conduct.
-- Leads should reflect and represent the diversity of the Argo Community 
+- Leads should reflect and represent the diversity of the Argo Community
 - Sustained technical contributions to the subproject including demonstrating strong technical understanding and implementation complexity.
 
 ## Argoproj Ecosystem
@@ -319,11 +313,10 @@ you will need explicit sponsorship for your membership request.
 
 ### Actively used GitHub Organizations
 
-| Name | Description |
-| :--: | :---------: |
-| [argoproj](https://github.com/argoproj) | Core Argo Projects and supporting projects |
-| [argoproj-labs](https://github.com/argoproj-labs) | Experimental and ecosystem projects |
-
+|                       Name                        |                Description                 |
+| :-----------------------------------------------: | :----------------------------------------: |
+|      [argoproj](https://github.com/argoproj)      | Core Argo Projects and supporting projects |
+| [argoproj-labs](https://github.com/argoproj-labs) |    Experimental and ecosystem projects     |
 
 [Argoproj GitHub organizations]: #actively-used-github-organizations
 [Argoproj org]: https://github.com/argoproj
