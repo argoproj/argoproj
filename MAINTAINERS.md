@@ -7,7 +7,7 @@
 ## Maintainers
 
 | Maintainer                | GitHub ID                                               | Project Roles                                                                | Affiliation                                          |
-|---------------------------|---------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------|
+| ------------------------- | ------------------------------------------------------- | ---------------------------------------------------------------------------- | ---------------------------------------------------- |
 | Rohit Agrawal             | [agrawroh](https://github.com/agrawroh)                 | Reviewer - Rollouts                                                          | [Databricks](https://databricks.com/)                |
 | Aikawa                    | [yu-croco](https://github.com/yu-croco)                 | Approver(helm-chart) - CD, Events, Rollouts, Workflows                       |                                                      |
 | Zach Aller                | [zachaller](https://github.com/zachaller)               | Lead - Rollouts <br/>Reviewer - CD                                           | [Intuit](https://www.github.com/intuit/)             |
@@ -19,7 +19,7 @@
 | Jaewoo Choi               | [choejwoo](https://github.com/choejwoo)                 | Reviewer - CD                                                                | Hyundai-Autoever                                     |
 | Alan Clucas               | [Joibel](https://github.com/Joibel)                     | Lead - Workflows                                                             | [Pipekit](https://www.pipekit.io/)                   |
 | Alex Collins              | [alexec](https://github.com/alexec)                     | Approver - Workflows <br/>Approver - CD                                      | [Intuit](https://www.github.com/intuit/)             |
-| Tim Collins               | [tico24](https://github.com/tico24)                     | Approver(helm-chart) - CD, Events, Workflows<br />Reviewer(docs) - Workflows | Independent                                       |
+| Tim Collins               | [tico24](https://github.com/tico24)                     | Approver(helm-chart) - CD, Events, Workflows<br />Reviewer(docs) - Workflows | Independent                                          |
 | Michael Crenshaw          | [crenshaw-dev](https://github.com/crenshaw-dev)         | Lead - CD                                                                    | [Intuit](https://www.github.com/intuit/)             |
 | Soumya Ghosh Dastidar     | [gdsoumya](https://github.com/gdsoumya)                 | Approver - CD                                                                | [Akuity](https://akuity.io/)                         |
 | Petr Drastil              | [pdrastil](https://github.com/pdrastil)                 | Approver(helm-chart) - CD, Events                                            | Independent                                          |
@@ -29,7 +29,7 @@
 | Dan Garfield              | [todaywasawesome](https://github.com/todaywasawesome)   | Approver(docs) - CD                                                          | [Codefresh](https://www.github.com/codefresh/)       |
 | Alexandre Gaudreault      | [agaudreault](https://github.com/agaudreault)           | Approver - CD <br/>Reviewer - Rollouts                                       | [Intuit](https://www.github.com/intuit/)             |
 | Christian Hernandez       | [christianh814](https://github.com/christianh814)       | Reviewer(docs) - CD                                                          | [Akuity](https://akuity.io/)                         |
-| Peter Jiang               | [pjiang](https://github.com/pjiang)                     | Approver(docs) - CD                                                          | [Intuit](https://www.intuit.com/)                    |
+| Peter Jiang               | [pjiang-dev](https://github.com/pjiang-dev)             | Approver(docs) - CD                                                          | [Intuit](https://www.intuit.com/)                    |
 | Yucong Wang               | [jswxstw](https://github.com/jswxstw)                   | Reviewer - Workflows                                                         | Independent                                          |
 | Kostis Kapelonis          | [kostis-codefresh](https://github.com/kostis-codefresh) | Reviewer - Rollouts                                                          | [Codefresh](https://www.github.com/codefresh/)       |
 | Andrii Korotkov           | [andrii-korotkov](https://github.com/andrii-korotkov)   | Reviewer - CD                                                                | [Verkada](https://www.verkada.com/)                  |
@@ -68,7 +68,7 @@
 ## Alumni
 
 | Alumni                  | GitHub ID                                               | Project Roles                | Affiliation                                     |
-|-------------------------|---------------------------------------------------------|------------------------------|-------------------------------------------------|
+| ----------------------- | ------------------------------------------------------- | ---------------------------- | ----------------------------------------------- |
 | Chetan Banavikalmutt    | [chetan-rns](https://github.com/chetan-rns)             | Reviewer - CD                | [Red Hat](https://www.redhat.com/)              |
 | Simon Behar             | [simster7](https://github.com/simster7)                 | Approver - Workflows         | [AirBnB](https://www.github.com/airbnb/)        |
 | Shoubhik Bose           | [sbose78](https://github.com/sbose78)                   | Reviewer                     | [Red Hat](https://www.redhat.com/)              |

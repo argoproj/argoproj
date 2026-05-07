@@ -10,7 +10,6 @@ The following steps should be completed by the Lead or a current Approver a few 
 - [ ] Add a valid Zoom link to the spreadsheet
 - [ ] Once the spreadsheet is ready, post it in #argo-approvers
 
-
 After the Membership meeting is concluded, you should
 
 - [ ] Follow the different checklists for role promotions
@@ -19,12 +18,18 @@ After the Membership meeting is concluded, you should
   - [Approver](./approver-promotion-checklist.md)
   - [Lead](./lead-promotion-checklist.md)
 - [ ] Create and merge a new pull request in argoproj/argoproj to reflect the changes (e.g. https://github.com/argoproj/argoproj/pull/342)
-  - [ ] Update the [MAINTAINERS](https://github.com/argoproj/argoproj/blob/master/MAINTAINERS.md) file.
-- [ ] Send a message to the #argo-cd-contributors tagging new members to update their membership to Public
+  - [ ] Update the [MAINTAINERS.md](https://github.com/argoproj/argoproj/blob/master/MAINTAINERS.md) file.
+  - [ ] Update the [OWNERS](https://github.com/argoproj/argoproj/blob/master/OWNERS) file.
+- [ ] If applicable, create and merge a pull request in the relevant subproject repository to update the `OWNERS` file:
+  - [ ] [argo-cd](https://github.com/argoproj/argo-cd/blob/master/OWNERS)
+  - [ ] [argo-workflows](https://github.com/argoproj/argo-workflows/blob/master/OWNERS)
+  - [ ] [argo-events](https://github.com/argoproj/argo-events/blob/master/OWNERS)
+  - [ ] [argo-rollouts](https://github.com/argoproj/argo-rollouts/blob/master/OWNERS)
+- [ ] Make sure to update the [CNCF Maintainer list](https://github.com/cncf/foundation/blob/main/project-maintainers.csv) to keep it in sync with the Argo maintainers.
+- [ ] Send a message to the `#argo-cd-contributors` tagging new members to update their membership to Public
   ```
   Congrats to new Argoproj members and maintainers!
   @<NEW-MEMBER-1> @<NEW-MEMBER-2>
   Please, consider updating your membership to [Public](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-your-membership-in-organizations/publicizing-or-hiding-organization-membership) :tada:
   <PR_LINK>
   ```
-
