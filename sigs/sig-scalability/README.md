@@ -17,6 +17,11 @@ The members of the group can be contacted on [the CNCF Slack](https://slack.cncf
 | [Carlos Santana](https://github.com/csantanapr)         | AWS       |                             |
 | [Ishita Sequeira](https://github.com/ishitasequeira)    | Red Hat   |                             |
 
+## Secretary
+| Name                                                    | Company   | Email                       |
+|---------------------------------------------------------|-----------|-----------------------------|
+| [Carlos Santana](https://github.com/csantanapr)         | AWS       |                             |
+
 ## Members
 Membership is open to any interested person in the Argo community.
 
