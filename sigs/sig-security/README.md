@@ -37,6 +37,7 @@ Argo Project security policy and instructions for reporting issues are available
 | [Leonardo Luz](https://github.com/leoluz)               | Intuit    |                             |
 | [Michael Crenshaw](https://github.com/crenshaw-dev)     | Intuit    |                             | 
 | [Papapetrou Patroklos](https://github.com/ppapapetrou76)     | Octopus Deploy    |                             | 
+| [Regina Voloshin](https://github.com/reggie-k)              | Octopus Deploy    |                             |
 | [Siddhesh Ghadi](https://github.com/svghadi)            | Red Hat   |                             |
 | [William Tam](https://github.com/wtam2018)              | Red Hat   |                             |
 | [Zach Aller](https://github.com/zachaller)              | Intuit    |                             |
