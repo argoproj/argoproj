@@ -9,24 +9,22 @@ owners:
 
 approvers:
 - agaudreault
-- alexec
 - gdsoumya
 - ishitasequeira
 - isubasinghe
 - jannfis
-- jgwest
 - juliev0
 - keithchong
 - leoluz
 - mayzhang2000
 - pasha-codefresh
 - rbreeze
-- sarabala1979
 - tczhao
 
 reviewers:
 - 34fathombelow
 - agrawroh
+- alexec
 - alexef
 - ashutosh16
 - blakepettersson
@@ -34,14 +32,21 @@ reviewers:
 - chetan-rns
 - ciiay
 - daniel-codefresh
+- dudinea
+- edlee2121
 - harikrongali
 - hblixt
+- jgwest
 - jswxstw
+- jwinters01
 - kostis-codefresh
 - nitishfy
+- olivergondza
+- pdrastil
 - reginapizza
 - reggie-k
 - rumstead
+- sarabala1979
 - saumeya
 - sbose78
 - shuangkun
