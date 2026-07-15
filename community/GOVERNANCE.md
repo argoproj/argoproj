@@ -37,5 +37,5 @@ This is a meeting for maintainers mainly to discuss and resolve technical issues
 This meeting is focused on the community and end users and will include project updates, user presentation and other items of interest to the user community.
 
 #### Meeting Calendar
-* [Google Calendar](https://calendar.google.com/calendar/embed?src=argoproj@gmail.com)
-* [ICS file](https://calendar.google.com/calendar/ical/argoproj%40gmail.com/public/basic.ics)
+* [Google Calendar](https://zoom-lfx.platform.linuxfoundation.org/meetings/argo?view=month)
+* [iCal](https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWrBWQA1)

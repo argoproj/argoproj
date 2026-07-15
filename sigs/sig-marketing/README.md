@@ -3,7 +3,7 @@
 Argo Sig Marketing coordinates efforts between interested parties to promote, advocate, and grow the Argo Project and community. This includes social media, subreddits, events, branding, and all other marketing activities.
 
 ## Meetings
-Sig marketing meetings are held twice monthly. Meetings can be found in the [Argo Project public calendar](https://calendar.google.com/calendar/embed?src=argoproj%40gmail.com&ctz=America%2FDenver).
+Sig marketing meetings are held twice monthly. Meetings can be found in the [Argo Project public calendar](https://zoom-lfx.platform.linuxfoundation.org/meetings/argo?view=month).
 
 ## Membership Requirements 
 - Members are nominated and approved by other Marketing SIG members and/or Argo Project Maintainers. 

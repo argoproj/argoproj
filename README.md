@@ -41,8 +41,8 @@ For help contributing, visit the [#argo-contributors channel](https://cloud-nati
 To learn about Argoproj governance, see our [community governance document](community/GOVERNANCE.md).
 
 ## Project Resources
-* [Argo Community Meeting Calendar](https://calendar.google.com/calendar/embed?src=argoproj@gmail.com)
-  * [ICS file](https://calendar.google.com/calendar/ical/argoproj%40gmail.com/public/basic.ics)
+* [Argo Community Meeting Calendar](https://zoom-lfx.platform.linuxfoundation.org/meetings/argo?view=month)
+  * [iCal](https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWrBWQA1)
 * Argo GitHub:  https://github.com/argoproj
 * Argo website: https://argoproj.github.io
 * Argo Slack:   https://argoproj.github.io/community/join-slack
