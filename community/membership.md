@@ -326,7 +326,7 @@ you will need explicit sponsorship for your membership request.
 [Argoproj org]: https://github.com/argoproj
 [argoproj-labs]: https://github.com/argoproj-labs
 [membership request]: https://github.com/argoproj/argoproj/issues/new?template=membership.md&title=REQUEST%3A%20New%20membership%20for%20%3Cyour-GH-handle%3E
-[membership template]: https://github.com/argoproj/argoproj/blob/master/.github/ISSUE_TEMPLATE/membership.md
+[membership template]: https://github.com/argoproj/argoproj/blob/main/.github/ISSUE_TEMPLATE/membership.md
 [two-factor authentication]: https://help.github.com/articles/about-two-factor-authentication
 [elevated set of permissions]: #Responsibilities-and-privileges
 [Devstats project]: https://argo.devstats.cncf.io/

@@ -4,7 +4,7 @@ This document explains the common procedures expected by contributors while subm
 
 ## Code of Conduct
 
-Please read and abide by the [CNCF Community Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md)
+Please read and abide by the [CNCF Community Code of Conduct](https://github.com/cncf/foundation/blob/main/code-of-conduct.md)
 
 ## General workflow
 

@@ -1,8 +1,8 @@
 # Argoproj Maintainers
 
-[GOVERNANCE.md](https://github.com/argoproj/argoproj/blob/master/community/GOVERNANCE.md) describes the Argo governance.
+[GOVERNANCE.md](https://github.com/argoproj/argoproj/blob/main/community/GOVERNANCE.md) describes the Argo governance.
 
-[membership.md](https://github.com/argoproj/argoproj/blob/master/community/membership.md) describes the responsibilities and requirements on the project roles.
+[membership.md](https://github.com/argoproj/argoproj/blob/main/community/membership.md) describes the responsibilities and requirements on the project roles.
 
 ## Maintainers
 

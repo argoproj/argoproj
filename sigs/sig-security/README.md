@@ -6,7 +6,7 @@ Argo SIG Security is focused on improving security across the Argo project, prom
 Sig security meetings include public and non-public sections and are held twice monthly. Meetings can be found in the [Argo Project public calendar](https://zoom-lfx.platform.linuxfoundation.org/meetings/argo?view=month).
 
 ## Security Policy and Reporting Issues
-Argo Project security policy and instructions for reporting issues are available [here](https://github.com/argoproj/argoproj/blob/master/SECURITY.md).
+Argo Project security policy and instructions for reporting issues are available [here](https://github.com/argoproj/argoproj/blob/main/SECURITY.md).
 
 ## Sig-Lead
 | Name                                                    | Company   | Email                       |
