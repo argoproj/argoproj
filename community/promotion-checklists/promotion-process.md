@@ -2,7 +2,7 @@ The following steps should be completed by the Lead or a current Approver a few 
 
 - [ ] Post a reminder in the #argo-cd-contributors CNCF Slack channel that the membership promotion cycle is coming up
   ```
-  Hey, all :wave: Argoproj membership and promotions requests are being reviewed `<DATE>`. If you’re interesting in being an Argoproj member, or if you are already a member and would like to be considered for promotion, please read the membership document and submit an issue on the argoproj/argoproj repo! https://github.com/argoproj/argoproj/blob/master/community/membership.md
+  Hey, all :wave: Argoproj membership and promotions requests are being reviewed `<DATE>`. If you’re interesting in being an Argoproj member, or if you are already a member and would like to be considered for promotion, please read the membership document and submit an issue on the argoproj/argoproj repo! https://github.com/argoproj/argoproj/blob/main/community/membership.md
   If you already have an open issue, please make sure the description is up to date with all your latest and greatest contributions. :slightly_smiling_face:
   ```
 - [ ] Create a new speadsheet as a copy of the last one, and give access to people with the link
@@ -18,8 +18,8 @@ After the Membership meeting is concluded, you should
   - [Approver](./approver-promotion-checklist.md)
   - [Lead](./lead-promotion-checklist.md)
 - [ ] Create and merge a new pull request in argoproj/argoproj to reflect the changes (e.g. https://github.com/argoproj/argoproj/pull/342)
-  - [ ] Update the [MAINTAINERS.md](https://github.com/argoproj/argoproj/blob/master/MAINTAINERS.md) file.
-  - [ ] Update the [OWNERS](https://github.com/argoproj/argoproj/blob/master/OWNERS) file.
+  - [ ] Update the [MAINTAINERS.md](https://github.com/argoproj/argoproj/blob/main/MAINTAINERS.md) file.
+  - [ ] Update the [OWNERS](https://github.com/argoproj/argoproj/blob/main/OWNERS) file.
 - [ ] If applicable, create and merge a pull request in the relevant subproject repository to update the `OWNERS` file:
   - [ ] [argo-cd](https://github.com/argoproj/argo-cd/blob/master/OWNERS)
   - [ ] [argo-workflows](https://github.com/argoproj/argo-workflows/blob/master/OWNERS)
