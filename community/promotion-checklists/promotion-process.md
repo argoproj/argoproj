@@ -10,7 +10,6 @@ The following steps should be completed by the Lead or a current Approver a few 
 - [ ] Add a valid Zoom link to the spreadsheet
 - [ ] Once the spreadsheet is ready, post it in #argo-approvers
 
-
 After the Membership meeting is concluded, you should
 
 - [ ] Follow the different checklists for role promotions
@@ -18,13 +17,16 @@ After the Membership meeting is concluded, you should
   - [Reviewer](./reviewer-promotion-checklist.md)
   - [Approver](./approver-promotion-checklist.md)
   - [Lead](./lead-promotion-checklist.md)
-- [ ] Create and merge a new pull request in argoproj/argoproj to reflect the changes (e.g. https://github.com/argoproj/argoproj/pull/342)
-  - [ ] Update the [MAINTAINERS](https://github.com/argoproj/argoproj/blob/master/MAINTAINERS.md) file.
+- [ ] Create and merge a pull request in [argoproj/.project](https://github.com/argoproj/.project/blob/main/maintainers.yaml) updating `maintainers.yaml` (the authoritative roster).
+  - [ ] Add/remove the person in the appropriate group(s) (e.g. `argocd-maintainers`, `argo-workflows-approvers`, `argocd-leads`). Roles are cumulative, so an approver is also in `*-maintainers` and a lead is also in `*-approvers` and `*-maintainers`.
+  - [ ] Merging triggers the automation: it reconciles the GitHub org teams from `maintainers.yaml`.
+  - Note: The `.project` automation supersedes the manual [CNCF maintainers CSV](https://github.com/cncf/foundation/blob/main/project-maintainers.csv).
+- [ ] Update [argoproj/argoproj `MAINTAINERS.md`](https://github.com/argoproj/argoproj/blob/master/MAINTAINERS.md) to match the roster change. This file is maintained by hand: add/remove the person's row and update their roles/affiliation. `maintainers.yaml` remains the source of truth for membership.
 - [ ] Send a message to the #argo-cd-contributors tagging new members to update their membership to Public
   ```
   Congrats to new Argoproj members and maintainers!
   @<NEW-MEMBER-1> @<NEW-MEMBER-2>
   Please, consider updating your membership to [Public](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-your-membership-in-organizations/publicizing-or-hiding-organization-membership) :tada:
+  Also, please create an [OpenProfile](https://openprofile.dev/) (if you don't have one), connect your GitHub account and make sure your profile and primary email are up to date.
   <PR_LINK>
   ```
-
