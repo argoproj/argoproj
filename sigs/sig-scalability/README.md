@@ -7,7 +7,7 @@ The initial focus of the group is on Argo CD, working through the [the Argo CD S
 The goals of this group are to create benchmarking tooling to objectively measure the scaliablity of the projects, and improving [the "scaling up" experience](https://argo-cd.readthedocs.io/en/stable/operator-manual/high_availability/#scaling-up) for end users.
 
 ## Meetings
-SIG Scalability meetings are held on the second and forth Wednesday of each month. Meetings can be found in the [Argo Project public calendar](https://calendar.google.com/calendar/embed?src=argoproj%40gmail.com).
+SIG Scalability meetings are held on the second and forth Wednesday of each month. Meetings can be found in the [Argo Project public calendar](https://zoom-lfx.platform.linuxfoundation.org/meetings/argo?view=month).
 
 The members of the group can be contacted on [the CNCF Slack](https://slack.cncf.io/), in the `#argo-sig-scalability` channel and by using [the `type:scalability` label](https://github.com/argoproj/argo-cd/pulls?q=is%3Apr+is%3Aopen+label%3Atype%3Ascalability) on PRs and issues.
 

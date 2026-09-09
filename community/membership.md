@@ -13,10 +13,10 @@ Responsibilities for roles are scoped to these subprojects.
 | Roles                    | Responsibilities                                                  | Requirements                                                                              | Defined by                                                |
 | ------------------------ | :---------------------------------------------------------------- | :---------------------------------------------------------------------------------------- | :-------------------------------------------------------- |
 | member                   | active contributor in the community                               | sponsored by 2 approvers or leads. multiple contributions to the project.                 | Argoproj GitHub org member                                |
-| reviewer                 | review contributions from other members                           | sponsored by a lead. history of review and authorship in a subproject                     | OWNERS file reviewer entry                                |
-| approver                 | approve accepting contributions                                   | sponsored by a lead. highly experienced and active reviewer + contributor to a subproject | OWNERS file approver entry                                |
-| scoped reviewer/approver | review/approve contributions in one or more areas of a subproject | same requirements as reviewer/approver but scoped to one or more areas of a subproject    | CODEOWNER file as part of a GitHub team scoped to an area |
-| lead                     | set direction and priorities for a subproject                     | demonstrated responsibility and excellent technical judgement for the subproject          | OWNERS file owner entry                                   |
+| reviewer                 | review contributions from other members                           | sponsored by a lead. history of review and authorship in a subproject                     | `<sub>-maintainers` group in `.project/maintainers.yaml`  |
+| approver                 | approve accepting contributions                                   | sponsored by a lead. highly experienced and active reviewer + contributor to a subproject | `<sub>-approvers` group in `.project/maintainers.yaml`    |
+| scoped reviewer/approver | review/approve contributions in one or more areas of a subproject | same requirements as reviewer/approver but scoped to one or more areas of a subproject    | CODEOWNERS file as part of a GitHub team scoped to an area |
+| lead                     | set direction and priorities for a subproject                     | demonstrated responsibility and excellent technical judgement for the subproject          | `<sub>-leads` group in `.project/maintainers.yaml`        |
 
 ## New contributors
 
@@ -53,7 +53,7 @@ Defined by: Member of the Argoproj GitHub organization
 - Sponsored by 2 approvers or leads. **Note the following requirements for sponsors**:
   - Sponsors must have close interactions with the prospective member - e.g. code/design/proposal review, coordinating
     on issues, etc.
-  - Sponsors must be approvers in at least 1 OWNERS file either in any of the four main subprojects in the [Argoproj org].
+  - Sponsors must be approvers in at least 1 of the four main subprojects in the [Argoproj org] (i.e. listed in a `<sub>-approvers` group in [`maintainers.yaml`](https://github.com/argoproj/.project/blob/main/maintainers.yaml)).
     - An approver in the [Argoproj org] may sponsor someone for the [Argoproj org]
       or any of the related [Argoproj GitHub organizations]; as long as it's a project they're involved with.
     - A sponsor who is an approver in any of the related [Argoproj GitHub organizations]
@@ -95,14 +95,20 @@ Each maintainer must sign in to [OpenProfile](https://openprofile.dev/), connect
 GitHub account listed in `maintainers.yaml`, and keep their primary email current, so
 CNCF automation can grant service desk and mailing-list access.
 
+Argo maintainers have access to a free [GitHub Copilot Enterprise](https://contribute.cncf.io/blog/2025/12/16/github-copilot-enterprise-for-maintainers/) license provided by CNCF. The bundle includes:
+
+- **Copilot Coding Agent** – An autonomous agent that acts as a virtual pair programmer. Assign it complex tasks (e.g. refactoring a module or fixing a bug) and it will attempt to implement the solution.
+- **Copilot Code Review** – Analyzes pull requests to identify bugs, suggest improvements, and ensure code consistency before human review.
+- **Contextual Chat** – Ask questions about your specific project and receive answers grounded in your codebase and documentation.
+
 #### Reviewer
 
 Reviewers are able to review code for quality and correctness on some part of a
 subproject. They are knowledgeable about both the codebase and software
 engineering principles.
 
-**Defined by:** _reviewers_ entry in an OWNERS file in a repo owned by the
-Argoproj project.
+**Defined by:** membership in a subproject `<sub>-maintainers` group in
+[`.project/maintainers.yaml`](https://github.com/argoproj/.project/blob/main/maintainers.yaml).
 
 Reviewer status is scoped to a part of the codebase.
 
@@ -115,8 +121,7 @@ making a decision on promotion an individual to a "reviewer."
 
 ##### Requirements
 
-The following apply to the part of codebase for which one would be a reviewer in
-an `OWNERS` file.
+The following apply to the part of codebase for which one would be a reviewer.
 
 - Member for at least 3 months
 - Active community participation (meetings, slack, stack overflow) and interact with issues for at least 1 month.
@@ -126,13 +131,12 @@ an `OWNERS` file.
 - Knowledgeable about the codebase
 - Sponsored by a subproject lead
   - With no objections from other leads
-  - Done through PR to update the OWNERS file
+  - Done through PR to update [`.project/maintainers.yaml`](https://github.com/argoproj/.project/blob/main/maintainers.yaml)
 - May either self-nominate, be nominated by an approver in the subproject
 
 ##### Responsibilities and privileges
 
-The following apply to the part of codebase for which one would be a reviewer in
-an `OWNERS` file.
+The following apply to the part of codebase for which one would be a reviewer.
 
 - Respond to new PRs and Issues by asking clarifying questions
 - Organize the backlog by applying labels, milestones, assignees, and projects
@@ -154,15 +158,16 @@ holistic acceptance of a contribution including: backwards / forwards
 compatibility, adhering to API and flag conventions, subtle performance and
 correctness issues, interactions with other parts of the system, etc.
 
-**Defined by:** _approvers_ entry in an OWNERS file in a repo owned by the
-Argoproj project.
+**Defined by:** membership in a subproject `<sub>-approvers` group in
+[`.project/maintainers.yaml`](https://github.com/argoproj/.project/blob/main/maintainers.yaml).
+Scoped approvers are instead defined by a scoped GitHub team in the subproject's
+CODEOWNERS file.
 
-Approver status is scoped to a part of the codebase.
+Approver status may be scoped to a part of the codebase.
 
 ##### Requirements
 
-The following apply to the part of codebase for which one would be an approver
-in an `OWNERS` file.
+The following apply to the part of codebase for which one would be an approver.
 
 - Reviewer for at least 3 months
 - Reviewer for or author of at least 10 substantial PRs to the codebase, with the
@@ -172,12 +177,11 @@ in an `OWNERS` file.
 - Exhibiting sound technical judgment through PR reviews
 - Sponsored by a subproject lead
   - With no objections from other leads
-  - Done through PR to update the OWNERS file
+  - Done through PR to update [`.project/maintainers.yaml`](https://github.com/argoproj/.project/blob/main/maintainers.yaml)
 
 ##### Responsibilities and privileges
 
-The following apply to the part of codebase for which one would be an approver
-in an `OWNERS` file.
+The following apply to the part of codebase for which one would be an approver.
 
 - Approver status may be a precondition to accepting large code contributions
 - Demonstrate sound technical judgement
@@ -196,7 +200,7 @@ towards the health of that subproject. Subproject leads _MUST_ set technical
 direction and make or approve design decisions for their subproject - either
 directly or through delegation of these responsibilities.
 
-**Defined by:** _owners_ entry in subproject `OWNERS` files
+**Defined by:** membership in a subproject `<sub>-leads` group in [`.project/maintainers.yaml`](https://github.com/argoproj/.project/blob/main/maintainers.yaml)
 
 ##### Requirements
 
@@ -258,6 +262,10 @@ with no significant contributions within the last 12 months. Contributions are
 measured using the Linux Foundation's [LFX Insights](https://insights.linuxfoundation.org/project/argo/contributors), GitHub activity history, and other media
 by which a history of contributions can be reliably determined.
 
+Inactive approvers are defined as members who hold an approver role in one of the Argoproj subprojects
+who have not reviewed any pull requests in their main repository within the last
+12 months.
+
 If an actively contributing member is accidentally removed this way, they may open an
 issue to quickly be re-instated.
 
@@ -269,7 +277,7 @@ before being able to contribute effectively.
 
 A change in membership role may be approved by consensus of the Argo Project leads and approvers. By convention, role changes are discussed in a meeting with Argo Project approvers before being finalized. Role changes are generally reviewed on a quarterly basis.
 
-The membership meeting should be attended by project leads and by unscoped approvers (i.e. those who have access to merge _any_ PR in their subproject). Scoped approvers (i.e. those whose access is limited by the project's OWNERS file to a particular "scope" in the repo) do not attend.
+The membership meeting should be attended by project leads and by unscoped approvers (i.e. those who have access to merge _any_ PR in their subproject). Scoped approvers (i.e. those whose access is limited by the project's CODEOWNERS file, via a scoped GitHub team, to a particular "scope" in the repo) do not attend.
 
 ### Appointment of Subproject Leads
 
@@ -318,7 +326,7 @@ you will need explicit sponsorship for your membership request.
 [Argoproj org]: https://github.com/argoproj
 [argoproj-labs]: https://github.com/argoproj-labs
 [membership request]: https://github.com/argoproj/argoproj/issues/new?template=membership.md&title=REQUEST%3A%20New%20membership%20for%20%3Cyour-GH-handle%3E
-[membership template]: https://github.com/argoproj/argoproj/blob/master/.github/ISSUE_TEMPLATE/membership.md
+[membership template]: https://github.com/argoproj/argoproj/blob/main/.github/ISSUE_TEMPLATE/membership.md
 [two-factor authentication]: https://help.github.com/articles/about-two-factor-authentication
 [elevated set of permissions]: #Responsibilities-and-privileges
 [Devstats project]: https://argo.devstats.cncf.io/

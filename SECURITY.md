@@ -19,9 +19,9 @@ sub-projects
 For more specific policies, please refer to the following documents in their
 respective code repositories:
 
-* [Security Policy for Argo Workflows](https://github.com/argoproj/argo-workflows/blob/master/SECURITY.md)
+* [Security Policy for Argo Workflows](https://github.com/argoproj/argo-workflows/blob/main/SECURITY.md)
 * [Security Policy for Argo Events](https://github.com/argoproj/argo-events/blob/master/SECURITY.md)
-* [Security Policy for Argo Rollouts](https://github.com/argoproj/argo-rollouts/blob/master/docs/security.md)
+* [Security Policy for Argo Rollouts](https://github.com/argoproj/argo-rollouts/blob/master/SECURITY.md)
 * [Security Policy for Argo CD](https://github.com/argoproj/argo-cd/blob/master/SECURITY.md)
 
 ### Argoproj Labs

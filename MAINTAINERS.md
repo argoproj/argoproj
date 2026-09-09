@@ -1,8 +1,8 @@
 # Argoproj Maintainers
 
-[GOVERNANCE.md](https://github.com/argoproj/argoproj/blob/master/community/GOVERNANCE.md) describes the Argo governance.
+[GOVERNANCE.md](https://github.com/argoproj/argoproj/blob/main/community/GOVERNANCE.md) describes the Argo governance.
 
-[membership.md](https://github.com/argoproj/argoproj/blob/master/community/membership.md) describes the responsibilities and requirements on the project roles.
+[membership.md](https://github.com/argoproj/argoproj/blob/main/community/membership.md) describes the responsibilities and requirements on the project roles.
 
 ## Maintainers
 
@@ -20,30 +20,32 @@
 | Aikawa                    | [yu-croco](https://github.com/yu-croco)                 | Approver(helm-chart) - CD, Events, Rollouts, Workflows                       |                                                      |
 | Zach Aller                | [zachaller](https://github.com/zachaller)               | Lead - Rollouts <br/>Reviewer - CD                                           | [Intuit](https://www.github.com/intuit/)             |
 | Leonardo Luz Almeida      | [leoluz](https://github.com/leoluz)                     | Approver - CD, Rollouts                                                      | [Intuit](https://www.github.com/intuit/)             |
-| Saravanan Balasubramanian | [sarabala1979](https://github.com/sarabala1979)         | Approver - Workflows                                                         | [Intuit](https://www.github.com/intuit/)             |
+| Saravanan Balasubramanian | [sarabala1979](https://github.com/sarabala1979)         | Reviewer - Workflows                                                         | [Intuit](https://www.github.com/intuit/)             |
 | Marko Bevc                | [mbevc1](https://github.com/mbevc1)                     | Approver(helm-chart) - CD                                                    | [The Scale Factory](https://github.com/scalefactory) |
 | Henrik Blixt              | [hblixt](https://github.com/hblixt)                     | Reviewer                                                                     | [Intuit](https://www.github.com/intuit/)             |
+| Hariharasuthan Raajeshwar | [Hariharasuthan99](https://github.com/Hariharasuthan99) | Reviewer - Rollouts                                                          | Amadeus                                              |
 | Keith Chong               | [keithchong](https://github.com/keithchong)             | Approver - CD                                                                | [Red Hat](https://www.redhat.com/)                   |
-| Jaewoo Choi               | [choejwoo](https://github.com/choejwoo)                 | Reviewer - CD                                                                | Hyundai-Autoever                                     |
+| Jaewoo Choi               | [choejwoo](https://github.com/choejwoo)                 | Approver(ui) - CD                                                            | Hyundai-Autoever                                     |
 | Alan Clucas               | [Joibel](https://github.com/Joibel)                     | Lead - Workflows                                                             | [Pipekit](https://www.pipekit.io/)                   |
-| Alex Collins              | [alexec](https://github.com/alexec)                     | Approver - Workflows <br/>Approver - CD                                      | [Intuit](https://www.github.com/intuit/)             |
-| Tim Collins               | [tico24](https://github.com/tico24)                     | Approver(helm-chart) - CD, Events, Workflows<br />Reviewer(docs) - Workflows | Independent                                          |
+| Alex Collins              | [alexec](https://github.com/alexec)                     | Reviewer - Workflows <br/>Reviewer - CD                                      | [Intuit](https://www.github.com/intuit/)             |
+| Tim Collins               | [tico24](https://github.com/tico24)                     | Approver(helm-chart) - CD, Events, Workflows<br />Approver(docs) - Workflows | Independent                                          |
 | Michael Crenshaw          | [crenshaw-dev](https://github.com/crenshaw-dev)         | Lead - CD                                                                    | [Intuit](https://www.github.com/intuit/)             |
 | Soumya Ghosh Dastidar     | [gdsoumya](https://github.com/gdsoumya)                 | Approver - CD                                                                | [Akuity](https://akuity.io/)                         |
-| Petr Drastil              | [pdrastil](https://github.com/pdrastil)                 | Approver(helm-chart) - CD, Events                                            | Independent                                          |
-| Eugene Dudin              | [dudinea](https://github.com/dudinea)                   | Reviewer - CD                                                                | [Octopus Deploy](https://octopus.com/)               |
+| Petr Drastil              | [pdrastil](https://github.com/pdrastil)                 | Reviewer(helm-chart) - CD, Events                                            | Independent                                          |
+| Eugene Dudin              | [dudinea](https://github.com/dudinea)                   | Approver - CD                                                                | [Octopus Deploy](https://octopus.com/)               |
 | Alex Eftimie              | [alexef](https://github.com/alexef)                     | Reviewer - CD                                                                | [GetYourGuide](https://www.getyourguide.com/)        |
 | Jann Fischer              | [jannfis](https://github.com/jannfis)                   | Approver - CD                                                                | [Red Hat](https://www.redhat.com/)                   |
-| Dan Garfield              | [todaywasawesome](https://github.com/todaywasawesome)   | Approver(docs) - CD                                                          | [Codefresh](https://www.github.com/codefresh/)       |
-| Alexandre Gaudreault      | [agaudreault](https://github.com/agaudreault)           | Approver - CD <br/>Reviewer - Rollouts                                       | [Intuit](https://www.github.com/intuit/)             |
+| Dan Garfield              | [todaywasawesome](https://github.com/todaywasawesome)   | Approver(docs) - CD                                                          | [Octopus Deploy](https://octopus.com/)               |
+| Aditya Raj                | [adityaraj178](https://github.com/adityaraj178)         | Reviewer - CD                                                                | Amadeus                                              |
+| Alexandre Gaudreault      | [agaudreault](https://github.com/agaudreault)           | Approver - CD <br/>Approver - Rollouts                                       | [Intuit](https://www.github.com/intuit/)             |
 | Christian Hernandez       | [christianh814](https://github.com/christianh814)       | Reviewer(docs) - CD                                                          | [Akuity](https://akuity.io/)                         |
-| Peter Jiang               | [pjiang](https://github.com/pjiang)                     | Approver(docs) - CD                                                          | [Intuit](https://www.intuit.com/)                    |
+| Peter Jiang               | [pjiang-dev](https://github.com/pjiang-dev)             | Approver(docs) - CD                                                          | [Intuit](https://www.intuit.com/)                    |
 | Yucong Wang               | [jswxstw](https://github.com/jswxstw)                   | Reviewer - Workflows                                                         | Independent                                          |
-| Kostis Kapelonis          | [kostis-codefresh](https://github.com/kostis-codefresh) | Reviewer - Rollouts                                                          | [Codefresh](https://www.github.com/codefresh/)       |
+| Kostis Kapelonis          | [kostis-codefresh](https://github.com/kostis-codefresh) | Approver - Rollouts                                                          | [Octopus Deploy](https://octopus.com/)               |
 | Andrii Korotkov           | [andrii-korotkov](https://github.com/andrii-korotkov)   | Reviewer - CD                                                                | [Verkada](https://www.verkada.com/)                  |
-| Pasha Kostohrys           | [pasha-codefresh](https://github.com/pasha-codefresh)   | Approver - CD                                                                | [Codefresh](https://www.github.com/codefresh/)       |
-| Nitish Kumar              | [nitishfy](https://github.com/nitishfy)                 | Approver(cli,docs) - CD                                                      | [Akuity](https://akuity.io/)                         |
-| Ed Lee                    | [edlee2121](https://github.com/edlee2121)               | Approver - Workflows, Events                                                 | [Intuit](https://www.github.com/intuit/)             |
+| Pasha Kostohrys           | [pasha-codefresh](https://github.com/pasha-codefresh)   | Approver - CD                                                                | [Octopus Deploy](https://octopus.com/)               |
+| Nitish Kumar              | [nitishfy](https://github.com/nitishfy)                 | Approver - CD                                                                | [Akuity](https://akuity.io/)                         |
+| Ed Lee                    | [edlee2121](https://github.com/edlee2121)               | Reviewer - Workflows, Events                                                 | [Intuit](https://www.github.com/intuit/)             |
 | Vlad Losev                | [vladlosev](https://github.com/vladlosev)               | Approver(helm-chart) - CD                                                    | [Sage Intacct](https://github.com/intacct)           |
 | Mason Malone              | [MasonM](https://github.com/MasonM)                     | Approver - Workflows                                                         | [Adobe](https://www.adobe.com/)                      |
 | Alexy Mantha              | [alexymantha](https://github.com/alexymantha)           | Reviewer - CD                                                                | GoTo                                                 |
@@ -51,12 +53,13 @@
 | Alexander Matyushentsev   | [alexmt](https://github.com/alexmt)                     | Lead - CD <br/>Approver - Workflows                                          | [Akuity](https://akuity.io/)                         |
 | Marco Maurer              | [mkilchhofer](https://github.com/mkilchhofer)           | Approver(helm-chart) - CD, Events, Rollouts, Workflows                       | [Swiss Post](https://post.ch/)                       |
 | Jason Meridth             | [jmeridth](https://github.com/jmeridth)                 | Approver(helm-chart) - CD, Events, Rollouts, Workflows                       | [Chainguard](https://chainguard.dev/)                |
+| Oliver Gondža             | [olivergondza](https://github.com/olivergondza)         | Reviewer - CD                                                                | [Red Hat](https://www.redhat.com/)                   |
 | Papapetrou Patroklos      | [ppapapetrou76](https://github.com/ppapapetrou76)       | Approver(cli,docs) - CD                                                      | [Octopus Deploy](https://octopus.com/)               |
 | Blake Pettersson          | [blakepettersson](https://github.com/blakepettersson)   | Approver - CD                                                                | [Akuity](https://akuity.io/)                         |
 | Kanika Rana               | [ranakan19](https://github.com/ranakan19)               | Reviewer - CD                                                                | [Red Hat](https://www.redhat.com/)                   |
 | Eduardo Rodrigues         | [eduardodbr](https://github.com/eduardodbr)             | Reviewer - Events, Workflows                                                 |                                                      |
 | Ishita Sequeira           | [ishitasequeira](https://github.com/ishitasequeira)     | Approver - CD                                                                | [Red Hat](https://www.redhat.com/)                   |
-| Ashutosh Singh            | [ashutosh16](https://github.com/ashutosh16)             | Approver(docs) - CD                                                          | [Intuit](https://www.github.com/intuit/)             |
+| Ashutosh Singh            | [ashutosh16](https://github.com/ashutosh16)             | Reviewer(docs) - CD                                                          | [Intuit](https://www.github.com/intuit/)             |
 | Linghao Su                | [linghaoSu](https://github.com/linghaoSu)               | Reviewer - CD                                                                | [DaoCloud](https://daocloud.io)                      |
 | Isitha Subasinghe         | [isubasinghe](https://github.com/isubasinghe)           | Approver - Workflows                                                         | [Pipekit](https://pipekit.io/)                       |
 | Jesse Suen                | [jessesuen](https://github.com/jessesuen)               | Lead - Rollouts <br/>Approver - CD, Workflows, Events                        | [Akuity](https://akuity.io/)                         |
@@ -68,8 +71,8 @@
 | Regina Voloshin           | [reggie-k](https://github.com/reggie-k)                 | Approver - CD                                                                | [Codefresh](https://www.github.com/codefresh/)       |
 | Derek Wang                | [whynowy](https://github.com/whynowy)                   | Lead - Events                                                                | [Intuit](https://www.github.com/intuit/)             |
 | Hong Wang                 | [wanghong230](https://github.com/wanghong230)           | Reviewer                                                                     | [Akuity](https://akuity.io/)                         |
-| Jonathan West             | [jgwest](https://github.com/jgwest)                     | Approver - CD                                                                | [Red Hat](https://www.redhat.com/)                   |
-| Jonathan Winters          | [jwinters01](https://github.com/jwinters01)             | Reviewer - CD                                                                | [Intuit](https://www.github.com/intuit/)             |
+| Jonathan West             | [jgwest](https://github.com/jgwest)                     | Reviewer - CD                                                                | [Red Hat](https://www.redhat.com/)                   |
+| Jonathan Winters          | [jwinters01](https://github.com/jwinters01)             | Approver(ui) - CD                                                            | [Intuit](https://www.github.com/intuit/)             |
 | Tianchu Zhao              | [tczhao](https://github.com/tczhao)                     | Approver - Workflows                                                         | [Atlan](https://atlan.com/)                          |
 | William Van Hevelingen    | [blkperl](https://github.com/blkperl)                   | Reviewer - Workflows                                                         | [Acquia](https://github.com/acquia)                  |
 
