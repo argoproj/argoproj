@@ -19,7 +19,7 @@
 | Rohit Agrawal             | [agrawroh](https://github.com/agrawroh)                 | Reviewer - Rollouts                                                          | [Databricks](https://databricks.com/)                |
 | Aikawa                    | [yu-croco](https://github.com/yu-croco)                 | Approver(helm-chart) - CD, Events, Rollouts, Workflows                       |                                                      |
 | Zach Aller                | [zachaller](https://github.com/zachaller)               | Lead - Rollouts <br/>Reviewer - CD                                           | [Intuit](https://www.github.com/intuit/)             |
-| Leonardo Luz Almeida      | [leoluz](https://github.com/leoluz)                     | Approver - CD, Rollouts                                                      | [Intuit](https://www.github.com/intuit/)             |
+| Leonardo Luz Almeida      | [leoluz](https://github.com/leoluz)                     | Approver - CD, Rollouts                                                      | [Akuity](https://akuity.io/)             |
 | Saravanan Balasubramanian | [sarabala1979](https://github.com/sarabala1979)         | Reviewer - Workflows                                                         | [Intuit](https://www.github.com/intuit/)             |
 | Marko Bevc                | [mbevc1](https://github.com/mbevc1)                     | Approver(helm-chart) - CD                                                    | [The Scale Factory](https://github.com/scalefactory) |
 | Henrik Blixt              | [hblixt](https://github.com/hblixt)                     | Reviewer                                                                     | [Intuit](https://www.github.com/intuit/)             |
