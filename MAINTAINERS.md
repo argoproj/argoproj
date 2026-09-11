@@ -6,8 +6,16 @@
 
 ## Maintainers
 
-| Maintainer                | GitHub ID                                               | Project Roles                                                                | Affiliation                                          |
-|---------------------------|---------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------|
+> [!NOTE]
+> The **authoritative source of truth** for maintainer membership is
+> [`maintainers.yaml`](https://github.com/argoproj/.project/blob/main/maintainers.yaml)
+> in [argoproj/.project](https://github.com/argoproj/.project).
+>
+> The table below is maintained by hand for display only (name, roles, and
+> affiliation).
+
+| Maintainer Name           | GitHub ID                                               | Project Roles                                                                | Affiliation                                          |
+| ------------------------- | ------------------------------------------------------- | ---------------------------------------------------------------------------- | ---------------------------------------------------- |
 | Rohit Agrawal             | [agrawroh](https://github.com/agrawroh)                 | Reviewer - Rollouts                                                          | [Databricks](https://databricks.com/)                |
 | Aikawa                    | [yu-croco](https://github.com/yu-croco)                 | Approver(helm-chart) - CD, Events, Rollouts, Workflows                       |                                                      |
 | Zach Aller                | [zachaller](https://github.com/zachaller)               | Lead - Rollouts <br/>Reviewer - CD                                           | [Intuit](https://www.github.com/intuit/)             |
@@ -70,8 +78,8 @@
 
 ## Alumni
 
-| Alumni                  | GitHub ID                                               | Project Roles                | Affiliation                                     |
-|-------------------------|---------------------------------------------------------|------------------------------|-------------------------------------------------|
+| Alumni Name             | GitHub ID                                               | Project Roles                | Affiliation                                     |
+| ----------------------- | ------------------------------------------------------- | ---------------------------- | ----------------------------------------------- |
 | Chetan Banavikalmutt    | [chetan-rns](https://github.com/chetan-rns)             | Reviewer - CD                | [Red Hat](https://www.redhat.com/)              |
 | Simon Behar             | [simster7](https://github.com/simster7)                 | Approver - Workflows         | [AirBnB](https://www.github.com/airbnb/)        |
 | Shoubhik Bose           | [sbose78](https://github.com/sbose78)                   | Reviewer                     | [Red Hat](https://www.redhat.com/)              |
