@@ -35,6 +35,7 @@ Argo Project security policy and instructions for reporting issues are available
 | [Jann Fischer](https://github.com/jannfis)              | Red Hat   | jfischer@redhat.com         |
 | [Jesse Suen](https://github.com/jessesuen)              | Akuity    |                             |
 | [Leonardo Luz](https://github.com/leoluz)               | Intuit    |                             |
+| [Mason Malone](https://github.com/MasonM)               | Adobe     |                             |
 | [Michael Crenshaw](https://github.com/crenshaw-dev)     | Intuit    |                             | 
 | [Papapetrou Patroklos](https://github.com/ppapapetrou76)     | Octopus Deploy    |                             | 
 | [Regina Voloshin](https://github.com/reggie-k)              | Octopus Deploy    |                             |
