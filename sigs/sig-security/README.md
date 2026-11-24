@@ -39,5 +39,6 @@ Argo Project security policy and instructions for reporting issues are available
 | [Papapetrou Patroklos](https://github.com/ppapapetrou76)     | Octopus Deploy    |                             | 
 | [Regina Voloshin](https://github.com/reggie-k)              | Octopus Deploy    |                             |
 | [Siddhesh Ghadi](https://github.com/svghadi)            | Red Hat   |                             |
+| [Tim Collins](https://github.com/tico24)                | Independent |                             |
 | [William Tam](https://github.com/wtam2018)              | Red Hat   |                             |
 | [Zach Aller](https://github.com/zachaller)              | Intuit    |                             |
