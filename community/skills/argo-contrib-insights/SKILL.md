@@ -1,5 +1,5 @@
 ---
-name: argocd-contrib-leaderboard
+name: argo-contrib-insights
 description: Produce a Top Reviewers + Top Mergers leaderboard for argoproj/argo-cd and argoproj/argo-rollouts over the past 7 days, formatted for the weekly Argo contrib-experience meeting (every Thursday). Use this skill whenever the user asks for contributor stats, review/merge leaderboards, "who reviewed/merged the most PRs", meeting prep for the contrib-experience sync, Thursday meeting numbers, maintainer activity report, or anything similar — even if the words "leaderboard" or "skill" aren't used. Trigger on prompts like "pull top reviewers for this week", "numbers for contrib meeting", "who's been active in argo-cd this week", "weekly review stats", or "give me the Thursday report".
 ---
 

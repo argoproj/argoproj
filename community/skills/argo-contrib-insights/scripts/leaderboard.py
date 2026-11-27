@@ -71,7 +71,7 @@ def github_search_count(query: str) -> int:
     """Return `total_count` from GitHub REST search/issues. Anonymous."""
     url = GITHUB_SEARCH_URL + "?" + urllib.parse.urlencode({"q": query, "per_page": 1})
     req = urllib.request.Request(url, headers={
-        "User-Agent": "argocd-contrib-leaderboard",
+        "User-Agent": "argo-contrib-insights",
         "Accept": "application/vnd.github+json",
     })
     try:
