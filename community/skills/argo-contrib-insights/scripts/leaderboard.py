@@ -302,7 +302,14 @@ def render_html_section(title: str, drop_down_label: str, link_url: str,
 
 
 def render_html(sections: list[str]) -> str:
-    body = "".join(sections)
+    # Set the font weight explicitly on every item. Google Docs and Word
+    # apply the formatting at the cursor to text without its own style, so
+    # pasting next to a bold line would otherwise bold contributor names.
+    body = (
+        "".join(sections)
+        .replace("<li>", '<li style="font-weight:400">')
+        .replace("<strong>", '<strong style="font-weight:700">')
+    )
     return (
         '<!DOCTYPE html><html><head><meta charset="utf-8"></head><body>'
         f'<ul>{body}</ul></body></html>'
