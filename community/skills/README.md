@@ -8,10 +8,10 @@
 
 ## Installing
 
-The `argo-community` plugin bundles every skill in this directory. Its marketplace manifest lives in `community/.claude-plugin/`, so add the marketplace by URL:
+The `argo-community` plugin bundles every skill in this directory. Its marketplace manifest lives in `community/skills/.claude-plugin/`, so add the marketplace by URL:
 
 ```
-/plugin marketplace add https://raw.githubusercontent.com/argoproj/argoproj/main/community/.claude-plugin/marketplace.json
+/plugin marketplace add https://raw.githubusercontent.com/argoproj/argoproj/main/community/skills/.claude-plugin/marketplace.json
 /plugin install argo-community@argoproj
 ```
 
@@ -19,4 +19,4 @@ To pick up new or updated skills later, run `/plugin marketplace update argoproj
 
 ## Adding a skill
 
-Create `community/skills/<skill-name>/SKILL.md` (plus any scripts it needs). The plugin picks up every directory under `community/skills/` automatically. Bump `version` in `community/.claude-plugin/plugin.json` so existing installs get the update.
+Create `community/skills/<skill-name>/SKILL.md` (plus any scripts it needs). The plugin picks up every skill directory under `community/skills/` automatically. Bump `version` in `community/skills/.claude-plugin/plugin.json` so existing installs get the update.

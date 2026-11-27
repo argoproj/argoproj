@@ -13,7 +13,7 @@
       "source": {
         "source": "git-subdir",
         "url": "https://github.com/argoproj/argoproj.git",
-        "path": "community",
+        "path": "community/skills",
         "ref": "main"
       },
       "description": "Skills for Argo community work, such as contrib-experience meeting insights (GitHub stats and LFX Insights top reviewers/mergers).",

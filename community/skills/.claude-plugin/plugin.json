@@ -8,5 +8,12 @@
   },
   "homepage": "https://github.com/argoproj/argoproj/tree/main/community/skills",
   "repository": "https://github.com/argoproj/argoproj",
-  "keywords": ["argo", "argocd", "argo-rollouts", "community", "contributors"]
+  "keywords": [
+    "argo",
+    "argocd",
+    "argo-rollouts",
+    "community",
+    "contributors"
+  ],
+  "skills": "./"
 }
