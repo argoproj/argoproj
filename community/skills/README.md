@@ -8,17 +8,11 @@
 
 ## Installing
 
-This repository is a Claude Code plugin marketplace. The `argo-community` plugin bundles every skill in this directory.
+The `argo-community` plugin bundles every skill in this directory. Its marketplace manifest lives in `community/.claude-plugin/`, so add the marketplace by URL:
 
 ```
-/plugin marketplace add argoproj/argoproj
+/plugin marketplace add https://raw.githubusercontent.com/argoproj/argoproj/main/community/.claude-plugin/marketplace.json
 /plugin install argo-community@argoproj
-```
-
-On Claude Code 2.1.275 or later you can do it in one step:
-
-```
-/plugin install argo-community --marketplace argoproj/argoproj
 ```
 
 To pick up new or updated skills later, run `/plugin marketplace update argoproj`.

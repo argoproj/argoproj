@@ -10,7 +10,12 @@
   "plugins": [
     {
       "name": "argo-community",
-      "source": "./community",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/argoproj/argoproj.git",
+        "path": "community",
+        "ref": "main"
+      },
       "description": "Skills for Argo community work, such as contrib-experience meeting insights (GitHub stats and LFX Insights top reviewers/mergers).",
       "category": "productivity"
     }
