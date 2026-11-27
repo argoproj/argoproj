@@ -1,0 +1,83 @@
+{
+  "skill_name": "argo-contrib-insights",
+  "evals": [
+    {
+      "id": 0,
+      "prompt": "It's Thursday morning and I'm hosting the Argo contrib-experience sync in two hours. Pull the usual top reviewers and top mergers for both argo-cd and argo-rollouts so I can paste it into the agenda.",
+      "expected_output": "Two Markdown sections — one per repo — each with a Top Reviewers and a Top Mergers table over the past 7 days. Bots filtered. Agent surfaces the headline numbers in chat.",
+      "files": [],
+      "assertions": [
+        {
+          "name": "argo_cd_section_present",
+          "description": "Output contains an argoproj/argo-cd heading",
+          "type": "response_contains",
+          "value": "argoproj/argo-cd"
+        },
+        {
+          "name": "argo_rollouts_section_present",
+          "description": "Output contains an argoproj/argo-rollouts heading",
+          "type": "response_contains",
+          "value": "argoproj/argo-rollouts"
+        },
+        {
+          "name": "top_reviewers_table",
+          "description": "A Top Reviewers heading appears",
+          "type": "response_contains",
+          "value": "Top Reviewers"
+        },
+        {
+          "name": "top_mergers_table",
+          "description": "A Top Mergers heading appears",
+          "type": "response_contains",
+          "value": "Top Mergers"
+        },
+        {
+          "name": "no_dependabot_in_leaderboard",
+          "description": "Dependabot does not appear in the output (bots must be filtered)",
+          "type": "response_not_contains",
+          "value": "dependabot"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "prompt": "Who's been the most active reviewer in argo-cd this week? And on the rollouts side?",
+      "expected_output": "Both repos covered. A ranked list of reviewers for each. Window is roughly a week.",
+      "files": [],
+      "assertions": [
+        {
+          "name": "both_repos_mentioned",
+          "description": "Both argo-cd and argo-rollouts are mentioned",
+          "type": "response_contains_all",
+          "values": ["argo-cd", "argo-rollouts"]
+        },
+        {
+          "name": "ranked_output",
+          "description": "Output contains ranking markers (either numbered or table rows)",
+          "type": "response_regex",
+          "value": "(Rank|\\| 1 \\|)"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "prompt": "Give me contrib numbers for the Thursday meeting — top 5 only, I only need the podium per repo.",
+      "expected_output": "Leaderboards capped at 5 entries. Agent honours the top-5 cap (via --top 5 on the script).",
+      "files": [],
+      "assertions": [
+        {
+          "name": "contains_leaderboard_shape",
+          "description": "Output contains a Top Reviewers heading and a Top Mergers heading",
+          "type": "response_contains_all",
+          "values": ["Top Reviewers", "Top Mergers"]
+        },
+        {
+          "name": "respects_top_5_cap",
+          "description": "No row ranked higher than 6 appears in any table (Top 5 means max rank 5)",
+          "type": "response_not_regex",
+          "value": "\\| 6 \\| @"
+        }
+      ]
+    }
+  ]
+}

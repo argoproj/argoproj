@@ -1,0 +1,19 @@
+{
+  "name": "argo-community",
+  "version": "0.1.0",
+  "description": "Claude Code skills for Argo community work, such as contrib-experience meeting insights.",
+  "author": {
+    "name": "argoproj",
+    "url": "https://github.com/argoproj"
+  },
+  "homepage": "https://github.com/argoproj/argoproj/tree/main/community/skills",
+  "repository": "https://github.com/argoproj/argoproj",
+  "keywords": [
+    "argo",
+    "argocd",
+    "argo-rollouts",
+    "community",
+    "contributors"
+  ],
+  "skills": "./"
+}
