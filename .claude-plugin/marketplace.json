@@ -1,0 +1,18 @@
+{
+  "name": "argoproj",
+  "owner": {
+    "name": "argoproj",
+    "url": "https://github.com/argoproj"
+  },
+  "metadata": {
+    "description": "Claude Code plugins maintained by the Argo project community."
+  },
+  "plugins": [
+    {
+      "name": "argo-community",
+      "source": "./community",
+      "description": "Skills for Argo community work, such as contrib-experience meeting insights (GitHub stats and LFX Insights top reviewers/mergers).",
+      "category": "productivity"
+    }
+  ]
+}
