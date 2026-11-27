@@ -17,6 +17,12 @@ The `argo-community` plugin bundles every skill in this directory. Its marketpla
 
 To pick up new or updated skills later, run `/plugin marketplace update argoproj`.
 
+## Using the skills
+
+Once the plugin is installed, Claude uses a skill on its own when your request matches it. For example, "give me the numbers for the contrib-experience meeting" runs `argo-contrib-insights`. You can also run a skill directly as `/argo-community:<skill-name>`.
+
+Each skill's folder has a README with its options and example output.
+
 ## Adding a skill
 
-Create `community/skills/<skill-name>/SKILL.md` (plus any scripts it needs). The plugin picks up every skill directory under `community/skills/` automatically. Bump `version` in `community/skills/.claude-plugin/plugin.json` so existing installs get the update.
+Create `community/skills/<skill-name>/SKILL.md`, plus any scripts it needs and a README.md for people. Add a row to the table above. The plugin picks up every skill directory under `community/skills/` automatically. Bump `version` in `community/skills/.claude-plugin/plugin.json` so existing installs get the update.
